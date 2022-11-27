@@ -6,6 +6,7 @@ erigaisi_mean <- read.csv('../output/mean_cp_loss/erigaisi.csv')
 gukesh_mean <- read.csv('../output/mean_cp_loss/gukesh.csv')
 nepo_mean <- read.csv('../output/mean_cp_loss/nepo.csv')
 niemann_mean <- read.csv('../output/mean_cp_loss/niemann.csv')
+anand_mean <- 
 
 ## remove NAs
 carlsen_mean <- carlsen_mean[complete.cases(carlsen_mean), ]
@@ -58,7 +59,7 @@ nepo_age <- data.frame(Age=c(rep(29,7), rep(30,18), rep(31,44), rep(32,9)))
 niemann_age <- data.frame(Age=c(rep(15,8), rep(16,152), rep(17,172), rep(18,28)))
 
 
-## time spent playing
+## number of years playing
 carlsen_time <- data.frame(Time=c(rep(21,26), rep(22,59), rep(23,36))) #https://www.britannica.com/biography/Magnus-Carlsen#:~:text=Carlsen's%20father%20first%20taught%20him,at%20the%20age%20of%20eight.
 erigaisi_time <- data.frame(Time=c(rep(9,26), rep(10,70), rep(11,244))) #https://www.tepesigemanchess.com/erigaisi/
 gukesh_time <- data.frame(Time=c(rep(6,27), rep(7,27), rep(8,179), rep(9,44))) #https://en.wikipedia.org/wiki/Gukesh_D#:~:text=Gukesh%20was%20born%20on%2029,at%20the%20age%20of%20seven.
