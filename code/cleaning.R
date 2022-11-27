@@ -6,7 +6,6 @@ erigaisi_mean <- read.csv('../output/mean_cp_loss/erigaisi.csv')
 gukesh_mean <- read.csv('../output/mean_cp_loss/gukesh.csv')
 nepo_mean <- read.csv('../output/mean_cp_loss/nepo.csv')
 niemann_mean <- read.csv('../output/mean_cp_loss/niemann.csv')
-anand_mean <- 
 
 ## remove NAs
 carlsen_mean <- carlsen_mean[complete.cases(carlsen_mean), ]
