@@ -114,6 +114,7 @@ plot(niemann3.lm)
 ## cumulative linear reg
 players <- rbind(carlsen, erigaisi, gukesh, nepo, niemann)
 players$WL <- factor(players$WL)
+players$WhiteWL <- factor(players$WhiteWL)
 
 players.lm <- lm(players$Mean_CP ~ players$Age + players$Elo + players$OppElo + players$WL)
 summary(players.lm)
@@ -126,7 +127,8 @@ players.ord <- polr(WL ~ Elo + OppElo, data=players)
 summary(players.ord)
 
 ## ordinal reg, go through every player, get white black elo, win loss for white ## ERIC
-
+players.ord2 <- polr(WhiteWL ~ Elo + OppElo, data=players)
+summary(players.ord2)
 
 ## deeptha + alex
 ## ridge reg w/ cp_loss

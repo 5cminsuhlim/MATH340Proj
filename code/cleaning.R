@@ -65,7 +65,7 @@ gukesh_time <- data.frame(Time=c(rep(6,27), rep(7,27), rep(8,179), rep(9,44))) #
 nepo_time <- data.frame(Time=c(rep(25,7), rep(26,18), rep(27,44), rep(28,9))) #https://www.chess.com/players/ian-nepomniachtchi#:~:text=He%20played%20chess%20from%20a,he%20outrated%20at%20that%20point.
 niemann_time <- data.frame(Time=c(rep(7,8), rep(8,152), rep(9,172), rep(10,26))) #https://www.uschesschamps.com/bio/hans-niemann-0#:~:text=Bio%3A,moved%20to%20Connecticut%20in%202015.
 
-## win-loss
+## player-specific win-loss
 c_wl <- read.csv('../output/winloss/carlsen.csv')
 e_wl <- read.csv('../output/winloss/erigaisi.csv')
 g_wl <- read.csv('../output/winloss/gukesh.csv')
@@ -78,23 +78,35 @@ g_wl <- head(g_wl, 277)
 ne_wl <- head(ne_wl, 78)
 ni_wl <- head(ni_wl, 358)
 
+## white win-loss
+c_wl_w <- read.csv('../output/whitewinloss/carlsen.csv')
+e_wl_w <- read.csv('../output/whitewinloss/erigaisi.csv')
+g_wl_w <- read.csv('../output/whitewinloss/gukesh.csv')
+ne_wl_w <- read.csv('../output/whitewinloss/nepo.csv')
+ni_wl_w <- read.csv('../output/whitewinloss/niemann.csv')
+
+c_wl_w <- head(c_wl_w, 121)
+e_wl_w <- head(e_wl_w, 277)
+g_wl_w <- head(g_wl_w, 277)
+ne_wl_w <- head(ne_wl_w, 78)
+ni_wl_w <- head(ni_wl_w, 358)
 
 ## merge dfs
 carlsen_elo <- head(carlsen_elo, 121)
-carlsen <- data.frame(Age=carlsen_age$Age, Elo=carlsen_elo$Elo, OppElo=carlsen_elo$Opp.Elo, Mean_CP=carlsen_mean$X0, Std_CP=carlsen_std$X0, Time=carlsen_time$Time, WL=c_wl$WinLoss, Name=rep('carlsen', 121))
+carlsen <- data.frame(Age=carlsen_age$Age, Elo=carlsen_elo$Elo, OppElo=carlsen_elo$Opp.Elo, Mean_CP=carlsen_mean$X0, Std_CP=carlsen_std$X0, Time=carlsen_time$Time, WL=c_wl$WinLoss, WhiteWL=c_wl_w$WhiteWinLoss, Name=rep('carlsen', 121))
 
 erigaisi_elo <- head(erigaisi_elo, 277)
-erigaisi <- data.frame(Age=erigaisi_age$Age, Elo=erigaisi_elo$Elo, OppElo=erigaisi_elo$Opp.Elo, Mean_CP=erigaisi_mean$X0, Std_CP=erigaisi_std$X0, Time=erigaisi_time$Time, WL=e_wl$WinLoss, Name=rep('erigaisi', 277))
+erigaisi <- data.frame(Age=erigaisi_age$Age, Elo=erigaisi_elo$Elo, OppElo=erigaisi_elo$Opp.Elo, Mean_CP=erigaisi_mean$X0, Std_CP=erigaisi_std$X0, Time=erigaisi_time$Time, WL=e_wl$WinLoss, WhiteWL=e_wl_w$WhiteWinLoss, Name=rep('erigaisi', 277))
 
 gukesh_mean <- head(gukesh_mean, 277)
 gukesh_std <- head(gukesh_std, 277)
-gukesh <- data.frame(Age=gukesh_age$Age, Elo=gukesh_elo$Elo, OppElo=gukesh_elo$Opp.Elo, Mean_CP=gukesh_mean$X0, Std_CP=gukesh_std$X0, Time=gukesh_time$Time, WL=g_wl$WinLoss, Name=rep('gukesh', 277))
+gukesh <- data.frame(Age=gukesh_age$Age, Elo=gukesh_elo$Elo, OppElo=gukesh_elo$Opp.Elo, Mean_CP=gukesh_mean$X0, Std_CP=gukesh_std$X0, Time=gukesh_time$Time, WL=g_wl$WinLoss, WhiteWL=g_wl_w$WhiteWinLoss, Name=rep('gukesh', 277))
 
-nepo <- data.frame(Age=nepo_age$Age, Elo=nepo_elo$Elo, OppElo=nepo_elo$Opp.Elo, Mean_CP=nepo_mean$X0, Std_CP=nepo_std$X0, Time=nepo_time$Time, WL=ne_wl$WinLoss, Name=rep('nepo', 78))
+nepo <- data.frame(Age=nepo_age$Age, Elo=nepo_elo$Elo, OppElo=nepo_elo$Opp.Elo, Mean_CP=nepo_mean$X0, Std_CP=nepo_std$X0, Time=nepo_time$Time, WL=ne_wl$WinLoss, WhiteWL=ne_wl_w$WhiteWinLoss, Name=rep('nepo', 78))
 
 niemann_mean <- head(niemann_mean, 358)
 niemann_std <- head(niemann_std, 358)
-niemann <- data.frame(Age=niemann_age$Age, Elo=niemann_elo$Elo, OppElo=niemann_elo$Opp.Elo, Mean_CP=niemann_mean$X0, Std_CP=niemann_std$X0, Time=niemann_time$Time, WL=ni_wl$WinLoss, Name=rep('niemann', 358))
+niemann <- data.frame(Age=niemann_age$Age, Elo=niemann_elo$Elo, OppElo=niemann_elo$Opp.Elo, Mean_CP=niemann_mean$X0, Std_CP=niemann_std$X0, Time=niemann_time$Time, WL=ni_wl$WinLoss, WhiteWL=ni_wl_w$WhiteWinLoss, Name=rep('niemann', 358))
 
 ## export
 write.csv(carlsen, '../data/carlsen.csv', row.names=F)
