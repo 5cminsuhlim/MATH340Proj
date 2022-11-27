@@ -1,0 +1,65 @@
+,Event,Site,Date,Round,White,Black,Result,BlackElo,ECO,WhiteElo
+0,Saint Louis Rapid 2021,Saint Louis USA,2021.08.11,1.5,"Mamedyarov,S","Nakamura,Hi",1/2-1/2,2736,E32,2782
+1,Saint Louis Rapid 2021,Saint Louis USA,2021.08.11,3.5,"Nakamura,Hi","Svidler,P",1-0,2714,E60,2736
+2,Saint Louis Rapid 2021,Saint Louis USA,2021.08.12,4.4,"Le, Quang Liem","Nakamura,Hi",1/2-1/2,2736,E32,2709
+3,Saint Louis Rapid 2021,Saint Louis USA,2021.08.12,5.2,"Nakamura,Hi","Xiong,Jeffery",1/2-1/2,2710,D30,2736
+4,Saint Louis Rapid 2021,Saint Louis USA,2021.08.12,6.4,"Shankland,S","Nakamura,Hi",1/2-1/2,2736,E32,2709
+5,Saint Louis Rapid 2021,Saint Louis USA,2021.08.13,7.3,"Nakamura,Hi","Dominguez Perez,L",1-0,2758,D26,2736
+6,Saint Louis Rapid 2021,Saint Louis USA,2021.08.13,8.4,"So,W","Nakamura,Hi",1/2-1/2,2736,E53,2772
+7,Saint Louis Rapid 2021,Saint Louis USA,2021.08.13,9.1,"Nakamura,Hi","Caruana,F",1-0,2806,C78,2736
+8,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,2.2,"Caruana,F","Nakamura,Hi",1/2-1/2,2736,E47,2806
+9,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,3.5,"Nakamura,Hi","Xiong,Jeffery",1-0,2710,D32,2736
+10,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,4.1,"Shankland,S","Nakamura,Hi",0-1,2736,D37,2709
+11,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,6.3,"Svidler,P","Nakamura,Hi",1/2-1/2,2736,C53,2714
+12,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,7.3,"Nakamura,Hi","Dominguez Perez,L",1/2-1/2,2758,C65,2736
+13,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,8.4,"Mamedyarov,S","Nakamura,Hi",1/2-1/2,2736,D37,2782
+14,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,9.1,"Nakamura,Hi","Le, Quang Liem",1-0,2709,E35,2736
+15,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,10.1,"Nakamura,Hi","Rapport,R",1/2-1/2,2763,E32,2736
+16,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,11.2,"Nakamura,Hi","Caruana,F",1-0,2806,B10,2736
+17,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,12.3,"Xiong,Jeffery","Nakamura,Hi",0-1,2736,C67,2710
+18,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,13.4,"Nakamura,Hi","Shankland,S",1/2-1/2,2709,B52,2736
+19,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,15.1,"Nakamura,Hi","Svidler,P",1/2-1/2,2714,C88,2736
+20,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,16.2,"Dominguez Perez,L","Nakamura,Hi",1/2-1/2,2736,C60,2758
+21,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,17.3,"Nakamura,Hi","Mamedyarov,S",1-0,2782,B40,2736
+22,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,18.4,"Le, Quang Liem","Nakamura,Hi",1/2-1/2,2736,C70,2709
+23,World Rapid 2021,Warsaw POL,2021.12.26,1.2,"Donchenko,Alexa","Nakamura,Hi",0-1,2736,A20,2636
+24,World Rapid 2021,Warsaw POL,2021.12.26,2.2,"Nakamura,Hi","Van Foreest,Jorden",1/2-1/2,2702,E32,2736
+25,World Rapid 2021,Warsaw POL,2021.12.26,3.12,"Halkias,S","Nakamura,Hi",1/2-1/2,2736,E06,2527
+26,World Rapid 2021,Warsaw POL,2021.12.26,4.12,"Nakamura,Hi","Maghsoodloo,Parham",1-0,2701,D31,2736
+27,World Rapid 2021,Warsaw POL,2021.12.26,5.7,"Volokitin,And","Nakamura,Hi",1/2-1/2,2736,C67,2677
+28,World Rapid 2021,Warsaw POL,2021.12.27,6.9,"Nakamura,Hi","Predke,A",1-0,2682,C88,2736
+29,World Rapid 2021,Warsaw POL,2021.12.27,7.5,"Nakamura,Hi","Anton Guijarro,D",1/2-1/2,2693,D31,2736
+30,World Rapid 2021,Warsaw POL,2021.12.27,8.5,"Alekseenko,K","Nakamura,Hi",1/2-1/2,2736,C72,2702
+31,World Rapid 2021,Warsaw POL,2021.12.27,9.5,"Nakamura,Hi","Fedoseev,Vl3",1-0,2704,E35,2736
+32,World Rapid 2021,Warsaw POL,2021.12.28,10.3,"Firouzja,Alireza","Nakamura,Hi",1/2-1/2,2736,C53,2804
+33,World Rapid 2021,Warsaw POL,2021.12.28,11.4,"Nakamura,Hi","Hovhannisyan,R",1-0,2643,D73,2736
+34,World Rapid 2021,Warsaw POL,2021.12.28,12.2,"Nepomniachtchi,I","Nakamura,Hi",1/2-1/2,2736,C67,2782
+35,World Rapid 2021,Warsaw POL,2021.12.28,13.1,"Nakamura,Hi","Carlsen,M",1/2-1/2,2856,D37,2736
+36,World Blitz 2021,Warsaw POL,2021.12.29,1.2,"Nakamura,Hi","Berchtenbreiter,M",1/2-1/2,2506,A50,2736
+37,World Blitz 2021,Warsaw POL,2021.12.29,2.35,"Czarnota,P","Nakamura,Hi",0-1,2736,B06,2502
+38,World Blitz 2021,Warsaw POL,2021.12.29,3.14,"Nakamura,Hi","Durarbayli,V",1-0,2615,A05,2736
+39,World Blitz 2021,Warsaw POL,2021.12.29,4.5,"Nakamura,Hi","Puranik,A",1/2-1/2,2604,A05,2736
+40,World Blitz 2021,Warsaw POL,2021.12.29,5.9,"Sychev,K","Nakamura,Hi",1/2-1/2,2736,E20,2550
+41,World Blitz 2021,Warsaw POL,2021.12.29,6.8,"Harikrishna,P","Nakamura,Hi",1/2-1/2,2736,C76,2717
+42,World Blitz 2021,Warsaw POL,2021.12.29,7.14,"Nakamura,Hi","Vokhidov,Shamsiddin",1/2-1/2,2536,A06,2736
+43,World Blitz 2021,Warsaw POL,2021.12.29,8.14,"Kadric,D","Nakamura,Hi",1/2-1/2,2736,C53,2572
+44,World Blitz 2021,Warsaw POL,2021.12.29,9.17,"Nakamura,Hi","Michalik,P",1-0,2568,A05,2736
+45,World Blitz 2021,Warsaw POL,2021.12.29,10.10,"Onischuk,V","Nakamura,Hi",0-1,2736,C53,2620
+46,World Blitz 2021,Warsaw POL,2021.12.29,11.5,"Nakamura,Hi","Sindarov,Javokhir",1-0,2609,A56,2736
+47,World Blitz 2021,Warsaw POL,2021.12.29,12.4,"Nakamura,Hi","Grischuk,A",1/2-1/2,2764,E32,2736
+48,FIDE Grand Prix 1 Pool A,Berlin GER,2022.02.04,1.2,"Bacrot,E","Nakamura,Hi",1/2-1/2,2736,C67,2642
+49,FIDE Grand Prix 1 Pool A,Berlin GER,2022.02.05,2.2,"Nakamura,Hi","Esipenko,Andrey",1-0,2714,A29,2736
+50,FIDE Grand Prix 1 Pool A,Berlin GER,2022.02.06,3.1,"Grischuk,A","Nakamura,Hi",1/2-1/2,2736,D27,2764
+51,FIDE Grand Prix 1 Pool A,Berlin GER,2022.02.07,4.2,"Nakamura,Hi","Bacrot,E",1/2-1/2,2642,C11,2736
+52,FIDE Grand Prix 1 Pool A,Berlin GER,2022.02.09,5.1,"Nakamura,Hi","Grischuk,A",1-0,2764,E73,2736
+53,FIDE Grand Prix 1 Pool A,Berlin GER,2022.02.10,6.2,"Esipenko,Andrey","Nakamura,Hi",1/2-1/2,2736,C50,2714
+54,FIDE Grand Prix 1 Playoff,Berlin GER,2022.02.14,1.1,"Nakamura,Hi","Rapport,R",1-0,2763,D36,2736
+55,FIDE Grand Prix 1 Playoff,Berlin GER,2022.02.14,1.2,"Rapport,R","Nakamura,Hi",1/2-1/2,2736,A07,2763
+56,FIDE Grand Prix 1 Playoff,Berlin GER,2022.02.15,2.1,"Nakamura,Hi","Aronian,L",1/2-1/2,2772,C88,2736
+57,FIDE Grand Prix 1 Playoff,Berlin GER,2022.02.16,2.2,"Aronian,L","Nakamura,Hi",1/2-1/2,2736,C50,2772
+58,FIDE Grand Prix 1 Playoff,Berlin GER,2022.02.17,2.4,"Aronian,L","Nakamura,Hi",0-1,2736,C50,2772
+59,FIDE Grand Prix 1 Playoff,Berlin GER,2022.02.17,2.3,"Nakamura,Hi","Aronian,L",1-0,2772,C88,2736
+60,FIDE Candidates 2022,Madrid ESP,2022.06.29,10.4,"Nakamura,Hi","Firouzja,Alireza",1-0,2793,B90,2760
+61,FIDE Candidates 2022,Madrid ESP,2022.06.30,11.1,"Nakamura,Hi","Rapport,R",1/2-1/2,2764,B33,2760
+62,FIDE Candidates 2022,Madrid ESP,2022.07.03,13.2,"Nakamura,Hi","Duda,J",1-0,2750,B90,2760
+63,FIDE Candidates 2022,Madrid ESP,2022.07.04,14.3,Ding Liren,"Nakamura,Hi",1-0,2760,D40,2806

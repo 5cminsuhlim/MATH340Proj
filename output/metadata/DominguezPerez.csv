@@ -1,0 +1,134 @@
+,Event,Site,Date,Round,White,Black,Result,BlackElo,ECO,WhiteElo
+0,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.15,2.1,"Vakhidov,J","Dominguez Perez,L",1/2-1/2,2758,A37,2534
+1,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.16,2.2,"Dominguez Perez,L","Vakhidov,J",1/2-1/2,2534,B38,2758
+2,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.17,2.3,"Vakhidov,J","Dominguez Perez,L",1-0,2758,A37,2534
+3,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.17,2.4,"Dominguez Perez,L","Vakhidov,J",0-1,2534,B38,2758
+4,Saint Louis Rapid 2021,Saint Louis USA,2021.08.11,1.2,"Dominguez Perez,L","Xiong,Jeffery",1-0,2710,C50,2758
+5,Saint Louis Rapid 2021,Saint Louis USA,2021.08.11,2.5,"Shankland,S","Dominguez Perez,L",1/2-1/2,2758,D27,2709
+6,Saint Louis Rapid 2021,Saint Louis USA,2021.08.11,3.1,"Dominguez Perez,L","Rapport,R",1-0,2763,C53,2758
+7,Saint Louis Rapid 2021,Saint Louis USA,2021.08.12,4.1,"Dominguez Perez,L","So,W",1/2-1/2,2772,C53,2758
+8,Saint Louis Rapid 2021,Saint Louis USA,2021.08.12,5.5,"Caruana,F","Dominguez Perez,L",1-0,2758,A05,2806
+9,Saint Louis Rapid 2021,Saint Louis USA,2021.08.12,6.2,"Dominguez Perez,L","Mamedyarov,S",0-1,2782,C42,2758
+10,Saint Louis Rapid 2021,Saint Louis USA,2021.08.13,7.3,"Nakamura,Hi","Dominguez Perez,L",1-0,2758,D26,2736
+11,Saint Louis Rapid 2021,Saint Louis USA,2021.08.13,8.2,"Dominguez Perez,L","Svidler,P",0-1,2714,C53,2758
+12,Saint Louis Rapid 2021,Saint Louis USA,2021.08.13,9.3,"Le, Quang Liem","Dominguez Perez,L",1/2-1/2,2758,D20,2709
+13,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,1.2,"Dominguez Perez,L","So,W",1/2-1/2,2772,C50,2758
+14,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,2.5,"Svidler,P","Dominguez Perez,L",1/2-1/2,2758,C80,2714
+15,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,3.3,"Dominguez Perez,L","Caruana,F",1/2-1/2,2806,B41,2758
+16,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,4.5,"Dominguez Perez,L","Mamedyarov,S",1-0,2782,C42,2758
+17,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,5.1,"Le, Quang Liem","Dominguez Perez,L",1-0,2758,D20,2709
+18,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,6.4,"Dominguez Perez,L","Rapport,R",0-1,2763,C53,2758
+19,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,7.3,"Nakamura,Hi","Dominguez Perez,L",1/2-1/2,2758,C65,2736
+20,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,8.2,"Dominguez Perez,L","Xiong,Jeffery",1-0,2710,B12,2758
+21,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,9.3,"Shankland,S","Dominguez Perez,L",1/2-1/2,2758,C45,2709
+22,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,10.2,"So,W","Dominguez Perez,L",1-0,2758,A36,2772
+23,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,11.4,"Dominguez Perez,L","Svidler,P",1-0,2714,C02,2758
+24,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,12.5,"Caruana,F","Dominguez Perez,L",0-1,2758,C80,2806
+25,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,13.2,"Mamedyarov,S","Dominguez Perez,L",1-0,2758,A08,2782
+26,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,14.4,"Dominguez Perez,L","Le, Quang Liem",1-0,2709,C50,2758
+27,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,15.3,"Rapport,R","Dominguez Perez,L",0-1,2758,A05,2763
+28,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,16.2,"Dominguez Perez,L","Nakamura,Hi",1/2-1/2,2736,C60,2758
+29,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,17.5,"Xiong,Jeffery","Dominguez Perez,L",1/2-1/2,2758,A33,2710
+30,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,18.5,"Dominguez Perez,L","Shankland,S",1/2-1/2,2709,B67,2758
+31,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.17,1.5,"Swiercz,D","Dominguez Perez,L",0-1,2758,C42,2655
+32,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.18,2.1,"Dominguez Perez,L","Caruana,F",1/2-1/2,2806,C50,2758
+33,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.19,3.4,"Xiong,Jeffery","Dominguez Perez,L",1/2-1/2,2758,C47,2710
+34,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.20,4.5,"Dominguez Perez,L","Vachier Lagrave,M",1-0,2751,B90,2758
+35,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.21,5.3,"Mamedyarov,S","Dominguez Perez,L",1/2-1/2,2758,D27,2782
+36,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.23,6.2,"Dominguez Perez,L","Svidler,P",1/2-1/2,2714,C53,2758
+37,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.24,7.1,"Rapport,R","Dominguez Perez,L",1/2-1/2,2758,D23,2763
+38,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.25,8.5,"Dominguez Perez,L","Shankland,S",1/2-1/2,2709,B90,2758
+39,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.26,9.3,"So,W","Dominguez Perez,L",1/2-1/2,2758,D27,2772
+40,ch-USA 2021,Saint Louis USA,2021.10.06,1.5,"Lenderman,A","Dominguez Perez,L",1/2-1/2,2760,D37,2607
+41,ch-USA 2021,Saint Louis USA,2021.10.07,2.1,"Dominguez Perez,L","Caruana,F",1/2-1/2,2800,C82,2760
+42,ch-USA 2021,Saint Louis USA,2021.10.08,3.4,"Bruzon Batista,L","Dominguez Perez,L",1/2-1/2,2760,C53,2645
+43,ch-USA 2021,Saint Louis USA,2021.10.09,4.5,"Shankland,S","Dominguez Perez,L",0-1,2760,D02,2714
+44,ch-USA 2021,Saint Louis USA,2021.10.11,5.2,"Dominguez Perez,L","Burke,John M",1/2-1/2,2554,C89,2760
+45,ch-USA 2021,Saint Louis USA,2021.10.12,6.3,"So,W","Dominguez Perez,L",1/2-1/2,2760,D27,2778
+46,ch-USA 2021,Saint Louis USA,2021.10.13,7.1,"Dominguez Perez,L","Naroditsky,D",1/2-1/2,2623,C63,2760
+47,ch-USA 2021,Saint Louis USA,2021.10.14,8.2,"Sevian,Samuel","Dominguez Perez,L",1/2-1/2,2760,C43,2654
+48,ch-USA 2021,Saint Louis USA,2021.10.16,9.1,"Dominguez Perez,L","Robson,R",1/2-1/2,2669,C50,2760
+49,ch-USA 2021,Saint Louis USA,2021.10.17,10.5,"Xiong,Jeffery","Dominguez Perez,L",1/2-1/2,2760,D27,2700
+50,ch-USA 2021,Saint Louis USA,2021.10.18,11.3,"Dominguez Perez,L","Swiercz,D",1/2-1/2,2647,B33,2760
+51,FIDE Grand Prix 1 Pool D,Berlin GER,2022.02.04,1.1,"So,W","Dominguez Perez,L",1/2-1/2,2752,D20,2772
+52,FIDE Grand Prix 1 Pool D,Berlin GER,2022.02.05,2.1,"Shirov,A","Dominguez Perez,L",0-1,2752,B23,2704
+53,FIDE Grand Prix 1 Pool D,Berlin GER,2022.02.06,3.1,"Dominguez Perez,L","Harikrishna,P",1/2-1/2,2717,B12,2752
+54,FIDE Grand Prix 1 Pool D,Berlin GER,2022.02.07,4.1,"Dominguez Perez,L","So,W",0-1,2772,C50,2752
+55,FIDE Grand Prix 1 Pool D,Berlin GER,2022.02.09,5.1,"Harikrishna,P","Dominguez Perez,L",0-1,2752,B22,2717
+56,FIDE Grand Prix 1 Pool D,Berlin GER,2022.02.10,6.1,"Dominguez Perez,L","Shirov,A",1-0,2704,C55,2752
+57,FIDE GP 1 Pool D TB,Berlin GER,2022.02.11,1,"So,W","Dominguez Perez,L",1/2-1/2,2752,D27,2772
+58,FIDE GP 1 Pool D TB,Berlin GER,2022.02.11,2,"Dominguez Perez,L","So,W",1-0,2772,C50,2752
+59,FIDE Grand Prix 1 Playoff,Berlin GER,2022.02.14,1.2,"Dominguez Perez,L","Aronian,L",1/2-1/2,2772,C55,2752
+60,FIDE Grand Prix 1 Playoff,Berlin GER,2022.02.14,1.1,"Aronian,L","Dominguez Perez,L",1-0,2752,D20,2772
+61,FIDE Grand Prix 3 Pool B,Berlin GER,2022.03.22,1.2,"Dubov,Daniil","Dominguez Perez,L",0-1,2756,E54,2711
+62,FIDE Grand Prix 3 Pool B,Berlin GER,2022.03.23,2.2,"Dominguez Perez,L","Keymer,Vincent",1/2-1/2,2655,C78,2756
+63,FIDE Grand Prix 3 Pool B,Berlin GER,2022.03.24,3.1,"Mamedyarov,S","Dominguez Perez,L",1/2-1/2,2756,D38,2776
+64,FIDE Grand Prix 3 Pool B,Berlin GER,2022.03.25,4.2,"Dominguez Perez,L","Dubov,Daniil",1/2-1/2,2711,C55,2756
+65,FIDE Grand Prix 3 Pool B,Berlin GER,2022.03.27,5.1,"Dominguez Perez,L","Mamedyarov,S",1/2-1/2,2776,C80,2756
+66,FIDE Grand Prix 3 Pool B,Berlin GER,2022.03.28,6.2,"Keymer,Vincent","Dominguez Perez,L",1-0,2756,D27,2655
+67,American Cup Champ,Saint Louis USA,2022.04.20,1.1,"Dominguez Perez,L","Shankland,S",1/2-1/2,2709,C53,2756
+68,American Cup Champ,Saint Louis USA,2022.04.21,1.2,"Shankland,S","Dominguez Perez,L",1/2-1/2,2756,A33,2709
+69,American Cup Champ,Saint Louis USA,2022.04.21,1.4,"Dominguez Perez,L","Shankland,S",1-0,2709,B90,2756
+70,American Cup Champ,Saint Louis USA,2022.04.21,1.3,"Shankland,S","Dominguez Perez,L",1/2-1/2,2756,A30,2709
+71,American Cup Champ,Saint Louis USA,2022.04.22,2.1,"Aronian,L","Dominguez Perez,L",0-1,2756,C42,2785
+72,American Cup Champ,Saint Louis USA,2022.04.23,2.2,"Dominguez Perez,L","Aronian,L",1/2-1/2,2785,B12,2756
+73,American Cup Champ,Saint Louis USA,2022.04.24,3.1,"Caruana,F","Dominguez Perez,L",1-0,2756,A33,2781
+74,American Cup Champ,Saint Louis USA,2022.04.25,3.2,"Dominguez Perez,L","Caruana,F",1/2-1/2,2781,C50,2756
+75,American Cup Elim,Saint Louis USA,2022.04.26,4.2,"Dominguez Perez,L","Aronian,L",1/2-1/2,2785,C55,2756
+76,American Cup Elim,Saint Louis USA,2022.04.26,4.4,"Aronian,L","Dominguez Perez,L",1/2-1/2,2756,B22,2785
+77,American Cup Elim,Saint Louis USA,2022.04.26,4.3,"Dominguez Perez,L","Aronian,L",0-1,2785,C55,2756
+78,American Cup Elim,Saint Louis USA,2022.04.26,4.1,"Aronian,L","Dominguez Perez,L",1/2-1/2,2756,C42,2785
+79,American Cup Blitz 2022,Saint Louis USA,2022.04.29,1.4,"Dominguez Perez,L","Chandra,Akshat",1-0,2488,C53,2756
+80,American Cup Blitz 2022,Saint Louis USA,2022.04.29,2.4,"Akobian,V","Dominguez Perez,L",1/2-1/2,2756,D27,2600
+81,American Cup Blitz 2022,Saint Louis USA,2022.04.29,3.4,"Dominguez Perez,L","Antipov,M2",1/2-1/2,2592,C47,2756
+82,American Cup Blitz 2022,Saint Louis USA,2022.04.29,4.4,"Burke,John M","Dominguez Perez,L",0-1,2756,C54,2573
+83,American Cup Blitz 2022,Saint Louis USA,2022.04.29,5.3,"Dominguez Perez,L","Sevian,Samuel",1/2-1/2,2693,C77,2756
+84,American Cup Blitz 2022,Saint Louis USA,2022.04.29,6.2,"Caruana,F","Dominguez Perez,L",1-0,2756,C43,2781
+85,American Cup Blitz 2022,Saint Louis USA,2022.04.29,8.5,"Quesada Perez,Yu","Dominguez Perez,L",1/2-1/2,2756,C43,2589
+86,American Cup Blitz 2022,Saint Louis USA,2022.04.29,9.3,"Dominguez Perez,L","Robson,R",1-0,2681,B90,2756
+87,Superbet Classic 2022,Bucharest ROU,2022.05.05,1.5,"Vachier Lagrave,M","Dominguez Perez,L",1/2-1/2,2753,C42,2750
+88,Superbet Classic 2022,Bucharest ROU,2022.05.06,2.3,"Dominguez Perez,L","Caruana,F",1/2-1/2,2786,B33,2753
+89,Superbet Classic 2022,Bucharest ROU,2022.05.07,3.2,"Nepomniachtchi,I","Dominguez Perez,L",1/2-1/2,2753,C43,2773
+90,Superbet Classic 2022,Bucharest ROU,2022.05.08,4.5,"Dominguez Perez,L","Aronian,L",0-1,2765,C50,2753
+91,Superbet Classic 2022,Bucharest ROU,2022.05.09,5.5,"Rapport,R","Dominguez Perez,L",1/2-1/2,2753,C20,2776
+92,Superbet Classic 2022,Bucharest ROU,2022.05.11,6.3,"Dominguez Perez,L","Deac,Bogdan-Daniel",1-0,2671,B90,2753
+93,Superbet Classic 2022,Bucharest ROU,2022.05.12,7.3,"Firouzja,Alireza","Dominguez Perez,L",1-0,2753,E48,2804
+94,Superbet Classic 2022,Bucharest ROU,2022.05.13,8.5,"Mamedyarov,S","Dominguez Perez,L",0-1,2753,D27,2759
+95,Superbet Classic 2022,Bucharest ROU,2022.05.14,9.1,"Dominguez Perez,L","So,W",1/2-1/2,2776,C53,2753
+96,SuperUnited Rapid 2022,Zagreb CRO,2022.07.20,1.1,"Dominguez Perez,L","So,W",1/2-1/2,2773,C67,2754
+97,SuperUnited Rapid 2022,Zagreb CRO,2022.07.20,2.2,"Van Foreest,Jorden","Dominguez Perez,L",1-0,2754,A30,2678
+98,SuperUnited Rapid 2022,Zagreb CRO,2022.07.20,3.4,"Dominguez Perez,L","Saric,Iv",1/2-1/2,2680,B90,2754
+99,SuperUnited Rapid 2022,Zagreb CRO,2022.07.21,4.3,"Nepomniachtchi,I","Dominguez Perez,L",1-0,2754,C42,2766
+100,SuperUnited Rapid 2022,Zagreb CRO,2022.07.21,5.3,"Dominguez Perez,L","Topalov,V",1/2-1/2,2728,B90,2754
+101,SuperUnited Rapid 2022,Zagreb CRO,2022.07.21,6.4,"Carlsen,M","Dominguez Perez,L",1/2-1/2,2754,A36,2864
+102,SuperUnited Rapid 2022,Zagreb CRO,2022.07.22,7.2,"Dominguez Perez,L","Firouzja,Alireza",1/2-1/2,2793,C50,2754
+103,SuperUnited Rapid 2022,Zagreb CRO,2022.07.22,8.5,"Mamedyarov,S","Dominguez Perez,L",1/2-1/2,2754,D20,2759
+104,SuperUnited Rapid 2022,Zagreb CRO,2022.07.22,9.1,"Dominguez Perez,L","Vachier Lagrave,M",1/2-1/2,2760,B90,2754
+105,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,1.2,"Nepomniachtchi,I","Dominguez Perez,L",1-0,2754,C36,2766
+106,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,2.4,"Dominguez Perez,L","Mamedyarov,S",1-0,2759,C77,2754
+107,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,3.3,"Firouzja,Alireza","Dominguez Perez,L",0-1,2754,D00,2793
+108,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,4.3,"Dominguez Perez,L","Carlsen,M",1-0,2864,C88,2754
+109,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,5.4,"Van Foreest,Jorden","Dominguez Perez,L",1/2-1/2,2754,C42,2678
+110,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,6.2,"Dominguez Perez,L","Topalov,V",1/2-1/2,2728,C77,2754
+111,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,7.5,"So,W","Dominguez Perez,L",1/2-1/2,2754,A05,2773
+112,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,8.1,"Saric,Iv","Dominguez Perez,L",0-1,2754,C42,2680
+113,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,9.5,"Dominguez Perez,L","Vachier Lagrave,M",0-1,2760,B90,2754
+114,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,10.2,"Dominguez Perez,L","Nepomniachtchi,I",0-1,2766,C42,2754
+115,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,11.2,"Mamedyarov,S","Dominguez Perez,L",1/2-1/2,2754,A31,2759
+116,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,12.3,"Dominguez Perez,L","Firouzja,Alireza",0-1,2793,C78,2754
+117,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,13.3,"Carlsen,M","Dominguez Perez,L",1/2-1/2,2754,C42,2864
+118,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,14.4,"Dominguez Perez,L","Van Foreest,Jorden",0-1,2678,B12,2754
+119,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,15.4,"Topalov,V","Dominguez Perez,L",1-0,2754,A33,2728
+120,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,16.5,"Dominguez Perez,L","So,W",1-0,2773,C67,2754
+121,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,17.5,"Dominguez Perez,L","Saric,Iv",1/2-1/2,2680,B56,2754
+122,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,18.1,"Vachier Lagrave,M","Dominguez Perez,L",1-0,2754,C42,2760
+123,44th Olympiad 2022,Chennai IND,2022.07.29,1.2,"Dias,Vanderson","Dominguez Perez,L",0-1,2754,B92,2139
+124,44th Olympiad 2022,Chennai IND,2022.07.30,2.2,"Dominguez Perez,L","Cubas,Jo",1-0,2451,B32,2754
+125,44th Olympiad 2022,Chennai IND,2022.07.31,3.2,"Pantsulaia,L","Dominguez Perez,L",1/2-1/2,2754,A04,2581
+126,44th Olympiad 2022,Chennai IND,2022.08.02,5.4,"Dominguez Perez,L","Rodshtein,M",1-0,2596,C65,2754
+127,44th Olympiad 2022,Chennai IND,2022.08.03,6.3,"Daneshvar,Bardiya","Dominguez Perez,L",1/2-1/2,2754,D35,2490
+128,44th Olympiad 2022,Chennai IND,2022.08.05,7.2,"Ter Sahakyan,S","Dominguez Perez,L",0-1,2754,B94,2625
+129,44th Olympiad 2022,Chennai IND,2022.08.06,8.2,"Sadhwani,Raunak","Dominguez Perez,L",1-0,2754,B90,2611
+130,44th Olympiad 2022,Chennai IND,2022.08.07,9.4,"Dominguez Perez,L","Banikas,H",1/2-1/2,2598,B12,2754
+131,44th Olympiad 2022,Chennai IND,2022.08.08,10.3,"Dominguez Perez,L","Sanal,V",1-0,2574,C89,2754
+132,44th Olympiad 2022,Chennai IND,2022.08.09,11.4,"Erigaisi,Arjun","Dominguez Perez,L",1-0,2754,E20,2689

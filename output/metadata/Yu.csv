@@ -1,0 +1,85 @@
+,Event,Site,Date,Round,White,Black,Result,BlackElo,ECO,WhiteElo
+0,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.11,1.3,"Van Foreest,Jorden",Yu Yangyi,1-0,2726,B40,2644
+1,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.12,2.1,Yu Yangyi,"Carlsen,M",1/2-1/2,2872,B90,2726
+2,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.13,3.7,"Caruana,F",Yu Yangyi,1-0,2726,C43,2822
+3,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.14,4.2,Yu Yangyi,"Anand,V",1/2-1/2,2758,D38,2726
+4,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.16,5.4,"Vitiugov,N",Yu Yangyi,1/2-1/2,2726,D02,2747
+5,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.17,6.5,Yu Yangyi,"Firouzja,Alireza",1/2-1/2,2723,B90,2726
+6,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.18,7.7,"Kovalev,Vl",Yu Yangyi,1/2-1/2,2726,C84,2660
+7,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.19,8.3,Yu Yangyi,"Duda,J",0-1,2758,B35,2726
+8,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.21,9.2,"Artemiev,V",Yu Yangyi,1/2-1/2,2726,D77,2731
+9,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.22,10.7,Yu Yangyi,"So,W",1/2-1/2,2765,C47,2726
+10,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.24,11.2,"Giri,A",Yu Yangyi,1/2-1/2,2726,C42,2768
+11,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.25,12.6,"Dubov,Daniil",Yu Yangyi,1-0,2726,D43,2683
+12,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.26,13.7,Yu Yangyi,"Xiong,Jeffery",1/2-1/2,2712,A57,2726
+13,ch-CHN 2020,Xinghua CHN,2020.12.19,1.6,Zhao Jun,Yu Yangyi,1/2-1/2,2709,D37,2638
+14,ch-CHN 2020,Xinghua CHN,2020.12.20,2.1,"Xu,Xiangyu",Yu Yangyi,0-1,2709,D35,2573
+15,ch-CHN 2020,Xinghua CHN,2020.12.21,3.6,Yu Yangyi,Wen Yang,1-0,2594,A13,2709
+16,ch-CHN 2020,Xinghua CHN,2020.12.22,4.2,"Zhang,Rui",Yu Yangyi,0-1,2709,B15,1658
+17,ch-CHN 2020,Xinghua CHN,2020.12.23,5.5,Yu Yangyi,Ju Wenjun,1/2-1/2,2560,A28,2709
+18,ch-CHN 2020,Xinghua CHN,2020.12.24,6.3,"Huang,Renjie",Yu Yangyi,1/2-1/2,2709,B30,2422
+19,ch-CHN 2020,Xinghua CHN,2020.12.25,7.4,Yu Yangyi,"Lin,Yi",1-0,2408,C43,2709
+20,ch-CHN 2020,Xinghua CHN,2020.12.27,8.4,"Bai,Jinshi",Yu Yangyi,1/2-1/2,2709,D38,2618
+21,ch-CHN 2020,Xinghua CHN,2020.12.28,9.3,Yu Yangyi,Wei Yi,1-0,2732,D85,2709
+22,ch-CHN 2020,Xinghua CHN,2020.12.29,10.5,Lu Shanglei,Yu Yangyi,1/2-1/2,2709,C24,2615
+23,ch-CHN 2020,Xinghua CHN,2020.12.30,11.2,Yu Yangyi,"Xu,Yinglun",1/2-1/2,2554,D41,2709
+24,ch-CHN 2021,Xinghua CHN,2021.05.07,1.2,Yu Yangyi,"Li,Di",1/2-1/2,2561,A13,2709
+25,ch-CHN 2021,Xinghua CHN,2021.05.08,2.6,Zhao Jun,Yu Yangyi,1-0,2709,B30,2638
+26,ch-CHN 2021,Xinghua CHN,2021.05.09,3.1,Yu Yangyi,Lu Shanglei,1/2-1/2,2615,E28,2709
+27,ch-CHN 2021,Xinghua CHN,2021.05.09,4.6,Yu Yangyi,"Xu,Zhihang",1/2-1/2,2506,C50,2709
+28,ch-CHN 2021,Xinghua CHN,2021.05.10,5.2,"Xu,Yi",Yu Yangyi,0-1,2709,B30,2527
+29,ch-CHN 2021,Xinghua CHN,2021.05.11,6.5,Yu Yangyi,"Xu,Yinglun",1-0,2554,A07,2709
+30,ch-CHN 2021,Xinghua CHN,2021.05.12,7.3,"Xu,Xiangyu",Yu Yangyi,0-1,2709,D38,2573
+31,ch-CHN 2021,Xinghua CHN,2021.05.12,8.4,Yu Yangyi,"Liu,Yan",1-0,2524,A45,2709
+32,ch-CHN 2021,Xinghua CHN,2021.05.13,9.4,"Bai,Jinshi",Yu Yangyi,1/2-1/2,2709,D38,2618
+33,ch-CHN 2021,Xinghua CHN,2021.05.14,10.3,Yu Yangyi,Wei Yi,1-0,2732,A18,2709
+34,ch-CHN 2021,Xinghua CHN,2021.05.15,11.5,Ju Wenjun,Yu Yangyi,1-0,2709,C55,2560
+35,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.15,2.1,Yu Yangyi,"Kadric,D",1-0,2564,A20,2705
+36,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.16,2.2,"Kadric,D",Yu Yangyi,0-1,2705,B23,2564
+37,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.18,3.1,"Tabatabaei,M",Yu Yangyi,1-0,2705,C50,2613
+38,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.19,3.2,Yu Yangyi,"Tabatabaei,M",1/2-1/2,2613,C77,2705
+39,FIDE Grand Swiss 2021,Riga LAT,2021.10.27,1.11,Yu Yangyi,"Keymer,Vincent",1/2-1/2,2630,B12,2704
+40,FIDE Grand Swiss 2021,Riga LAT,2021.10.28,2.18,Zhou Jianchao,Yu Yangyi,0-1,2704,D38,2629
+41,FIDE Grand Swiss 2021,Riga LAT,2021.10.29,3.6,Yu Yangyi,"Bluebaum,M",1-0,2640,A13,2704
+42,FIDE Grand Swiss 2021,Riga LAT,2021.10.30,4.1,Yu Yangyi,"Firouzja,Alireza",1/2-1/2,2770,D19,2704
+43,FIDE Grand Swiss 2021,Riga LAT,2021.10.31,5.2,"Tari,A",Yu Yangyi,1/2-1/2,2704,C42,2646
+44,FIDE Grand Swiss 2021,Riga LAT,2021.11.01,6.4,"Sevian,Samuel",Yu Yangyi,1/2-1/2,2704,D00,2654
+45,FIDE Grand Swiss 2021,Riga LAT,2021.11.03,7.6,Yu Yangyi,"Deac,Bogdan-Daniel",1/2-1/2,2643,C65,2704
+46,FIDE Grand Swiss 2021,Riga LAT,2021.11.04,8.9,"Sarana,A",Yu Yangyi,1/2-1/2,2704,D38,2649
+47,FIDE Grand Swiss 2021,Riga LAT,2021.11.05,9.8,Yu Yangyi,"Najer,E",1-0,2654,A20,2704
+48,FIDE Grand Swiss 2021,Riga LAT,2021.11.06,10.4,"Shirov,A",Yu Yangyi,1/2-1/2,2704,B23,2659
+49,FIDE Grand Swiss 2021,Riga LAT,2021.11.07,11.3,Yu Yangyi,"Vachier Lagrave,M",1/2-1/2,2763,B90,2704
+50,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.01,1.1,Yu Yangyi,"Mamedyarov,S",1/2-1/2,2767,C45,2713
+51,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.02,2.2,"Predke,A",Yu Yangyi,1/2-1/2,2713,C43,2682
+52,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.03,3.2,Yu Yangyi,"Vachier Lagrave,M",1/2-1/2,2761,D87,2713
+53,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.04,4.1,"Mamedyarov,S",Yu Yangyi,1/2-1/2,2713,D38,2767
+54,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.06,5.2,"Vachier Lagrave,M",Yu Yangyi,1/2-1/2,2713,C43,2761
+55,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.07,6.2,Yu Yangyi,"Predke,A",0-1,2682,C92,2713
+56,FIDE Grand Prix 3 Pool D,Berlin GER,2022.03.22,1.1,"Giri,A",Yu Yangyi,1/2-1/2,2713,C43,2771
+57,FIDE Grand Prix 3 Pool D,Berlin GER,2022.03.23,2.1,"Vitiugov,N",Yu Yangyi,1/2-1/2,2713,B52,2726
+58,FIDE Grand Prix 3 Pool D,Berlin GER,2022.03.24,3.1,Yu Yangyi,"Tabatabaei,M",1/2-1/2,2623,D58,2713
+59,FIDE Grand Prix 3 Pool D,Berlin GER,2022.03.25,4.1,Yu Yangyi,"Giri,A",1/2-1/2,2771,D97,2713
+60,FIDE Grand Prix 3 Pool D,Berlin GER,2022.03.27,5.1,"Tabatabaei,M",Yu Yangyi,1/2-1/2,2713,D38,2623
+61,FIDE Grand Prix 3 Pool D,Berlin GER,2022.03.28,6.1,Yu Yangyi,"Vitiugov,N",1/2-1/2,2726,C88,2713
+62,St Louis Summer A,Saint Louis USA,2022.06.02,1.2,Yu Yangyi,"Gledura,B",1/2-1/2,2644,D20,2710
+63,St Louis Summer A,Saint Louis USA,2022.06.03,2.5,"Oparin,G",Yu Yangyi,0-1,2710,D19,2685
+64,St Louis Summer A,Saint Louis USA,2022.06.04,3.1,Yu Yangyi,"Robson,R",1/2-1/2,2684,E53,2710
+65,St Louis Summer A,Saint Louis USA,2022.06.05,4.5,Yu Yangyi,"Smirin,I",1-0,2603,B43,2710
+66,St Louis Summer A,Saint Louis USA,2022.06.06,5.1,"Theodorou,Nikolas",Yu Yangyi,1/2-1/2,2710,E06,2567
+67,St Louis Summer A,Saint Louis USA,2022.06.07,6.3,Yu Yangyi,"Sevian,Samuel",1/2-1/2,2703,C83,2710
+68,St Louis Summer A,Saint Louis USA,2022.06.08,7.4,"Mishra,Abhimanyu",Yu Yangyi,1/2-1/2,2710,B40,2535
+69,St Louis Summer A,Saint Louis USA,2022.06.09,8.4,Yu Yangyi,"Hakobyan,Aram",1-0,2615,D37,2710
+70,St Louis Summer A,Saint Louis USA,2022.06.10,9.3,"Bjerre,Jonas Buhl",Yu Yangyi,0-1,2710,E06,2610
+71,55th Biel Master Open,Biel SUI,2022.07.13,1.1,"Kolbus,D",Yu Yangyi,0-1,2720,E15,2285
+72,55th Biel Master Open,Biel SUI,2022.07.14,2.1,Yu Yangyi,"Pavlovic,Milos",1/2-1/2,2461,D35,2720
+73,55th Biel Master Open,Biel SUI,2022.07.15,3.9,"Gaehwiler,G",Yu Yangyi,0-1,2720,E68,2420
+74,55th Biel Master Open,Biel SUI,2022.07.16,4.3,Yu Yangyi,"Azarov,S",1/2-1/2,2566,E48,2720
+75,55th Biel Master Open,Biel SUI,2022.07.18,5.5,"Erdos,V",Yu Yangyi,1/2-1/2,2720,B40,2586
+76,55th Biel Master Open,Biel SUI,2022.07.19,6.6,Yu Yangyi,"Iniyan,P",0-1,2533,C65,2720
+77,55th Biel Master Open,Biel SUI,2022.07.20,7.15,"Stijve,Theo",Yu Yangyi,0-1,2720,C41,2394
+78,55th Biel Master Open,Biel SUI,2022.07.21,8.9,Yu Yangyi,"Prraneeth,Vuppala",1/2-1/2,2457,A13,2720
+79,55th Biel Master Open,Biel SUI,2022.07.22,9.8,"Pranav,Anand",Yu Yangyi,0-1,2720,D90,2463
+80,TCh-TUR Super League 2022,Ankara TUR,2022.08.18,3.1,Yu Yangyi,"Esen,B",1-0,2476,D45,2708
+81,TCh-TUR Super League 2022,Ankara TUR,2022.08.19,4.5,"Lobanov,Sergei",Yu Yangyi,0-1,2708,B46,2531
+82,TCh-TUR Super League 2022,Ankara TUR,2022.08.20,5.2,Yu Yangyi,"Abdusattorov,Nodirbek",1/2-1/2,2677,D27,2708
+83,TCh-TUR Super League 2022,Ankara TUR,2022.08.21,6.4,"Mammadov,Z",Yu Yangyi,0-1,2708,B22,2391

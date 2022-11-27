@@ -1,0 +1,154 @@
+,Event,Site,Date,Round,White,Black,Result,BlackElo,ECO,WhiteElo
+0,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.11,1.5,"Anand,V","Artemiev,V",1/2-1/2,2731,B12,2758
+1,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.12,2.7,"So,W","Anand,V",1-0,2758,C53,2765
+2,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.13,3.3,"Anand,V","Giri,A",1/2-1/2,2768,C65,2758
+3,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.14,4.2,Yu Yangyi,"Anand,V",1/2-1/2,2758,D38,2726
+4,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.16,5.3,"Anand,V","Xiong,Jeffery",1-0,2712,C19,2758
+5,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.17,6.3,"Van Foreest,Jorden","Anand,V",1/2-1/2,2758,C48,2644
+6,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.18,7.1,"Anand,V","Carlsen,M",1/2-1/2,2872,B31,2758
+7,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.19,8.6,"Caruana,F","Anand,V",1-0,2758,D38,2822
+8,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.21,9.3,"Anand,V","Dubov,Daniil",1/2-1/2,2683,B31,2758
+9,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.22,10.2,"Anand,V","Vitiugov,N",1/2-1/2,2747,C53,2758
+10,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.24,11.3,"Firouzja,Alireza","Anand,V",0-1,2758,E20,2723
+11,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.25,12.7,"Anand,V","Kovalev,Vl",1/2-1/2,2660,C61,2758
+12,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.26,13.3,"Duda,J","Anand,V",1/2-1/2,2758,A18,2758
+13,Bundesliga 2019-20,Lingen GER,2020.02.23,8.5,"Fressinet,L","Anand,V",1/2-1/2,2757,D38,2633
+14,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.07,1.3,"Anand,V","Van Foreest,Jorden",1-0,2688,B47,2753
+15,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.07,2.4,"Vachier Lagrave,M","Anand,V",1-0,2753,B12,2749
+16,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.07,3.2,"Anand,V","Nepomniachtchi,I",1/2-1/2,2792,B46,2753
+17,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.08,4.5,"Mamedyarov,S","Anand,V",1/2-1/2,2753,D38,2782
+18,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.08,5.1,"Anand,V","Korobov,A",1-0,2683,C11,2753
+19,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.08,6.5,"Anand,V","Grischuk,A",1/2-1/2,2778,C67,2753
+20,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.09,7.2,"Duda,J","Anand,V",1/2-1/2,2753,C65,2738
+21,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.09,8.4,"Anand,V","Saric,Iv",1/2-1/2,2653,B40,2753
+22,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.09,9.3,"Giri,A","Anand,V",1-0,2753,D02,2776
+23,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,1.1,"Giri,A","Anand,V",1-0,2753,C53,2776
+24,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,2.1,"Anand,V","Duda,J",1-0,2738,B12,2753
+25,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,3.1,"Vachier Lagrave,M","Anand,V",1/2-1/2,2753,C67,2749
+26,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,4.1,"Anand,V","Kasparov,G",1-0,2812,B96,2753
+27,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,5.1,"Nepomniachtchi,I","Anand,V",1-0,2753,A33,2792
+28,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,6.1,"Anand,V","Korobov,A",1-0,2683,C11,2753
+29,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,7.1,"Van Foreest,Jorden","Anand,V",0-1,2753,C53,2688
+30,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,8.1,"Anand,V","Mamedyarov,S",1/2-1/2,2782,C50,2753
+31,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,9.1,"Grischuk,A","Anand,V",1/2-1/2,2753,A35,2778
+32,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,10.1,"Anand,V","Giri,A",1/2-1/2,2776,C50,2753
+33,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,11.1,"Duda,J","Anand,V",1/2-1/2,2753,A30,2738
+34,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,12.1,"Anand,V","Vachier Lagrave,M",1/2-1/2,2749,B90,2753
+35,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,13.1,"Kasparov,G","Anand,V",0-1,2753,D38,2812
+36,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,14.1,"Anand,V","Nepomniachtchi,I",1-0,2792,B46,2753
+37,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,15.1,"Korobov,A","Anand,V",0-1,2753,E53,2683
+38,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,16.1,"Anand,V","Van Foreest,Jorden",1-0,2688,C53,2753
+39,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,17.1,"Mamedyarov,S","Anand,V",1/2-1/2,2753,D37,2782
+40,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,18.1,"Anand,V","Grischuk,A",1/2-1/2,2778,C67,2753
+41,Bundesliga 2019-20,Berlin GER,2021.10.14,9.6,"Malakhov,V","Anand,V",1/2-1/2,2757,A06,2665
+42,Bundesliga 2019-20,Berlin GER,2021.10.15,11.3,"Anand,V","Nestorovic,N",1-0,2458,C88,2757
+43,Bundesliga 2019-20,Berlin GER,2021.10.16,13.3,"Anand,V","Heimann,An",1-0,2617,C65,2757
+44,Bundesliga 2019-20,Berlin GER,2021.10.16,14.2,"Anand,V","Ponomariov,R",1/2-1/2,2648,C65,2757
+45,7th Gashimov Mem Rapid,Baku AZE,2021.12.18,1.3,"Anand,V","Mamedov,Rau",0-1,2656,B31,2751
+46,7th Gashimov Mem Rapid,Baku AZE,2021.12.18,1.1,"Anand,V","Mamedov,Rau",1-0,2656,B76,2751
+47,7th Gashimov Mem Rapid,Baku AZE,2021.12.18,1.2,"Mamedov,Rau","Anand,V",1-0,2751,C54,2656
+48,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,2.2,"Anand,V","Rapport,R",1/2-1/2,2763,C18,2751
+49,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,2.1,"Rapport,R","Anand,V",1-0,2751,C44,2763
+50,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,3.2,"Navara,D","Anand,V",1/2-1/2,2751,B47,2697
+51,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,3.1,"Anand,V","Navara,D",0-1,2697,B90,2751
+52,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,4.2,"Anand,V","Karjakin,Sergey",0-1,2743,C53,2751
+53,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,4.1,"Karjakin,Sergey","Anand,V",1/2-1/2,2751,C65,2743
+54,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,5.3,"Mamedyarov,S","Anand,V",0-1,2751,D38,2767
+55,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,5.2,"Mamedyarov,S","Anand,V",1/2-1/2,2751,A45,2767
+56,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,5.1,"Anand,V","Mamedyarov,S",1/2-1/2,2767,C77,2751
+57,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,6.1,"Anand,V","Caruana,F",0-1,2792,C93,2751
+58,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,6.2,"Caruana,F","Anand,V",1/2-1/2,2751,C67,2792
+59,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,7.1,"Asadli,Vugar","Anand,V",1-0,2751,C02,2579
+60,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,7.2,"Anand,V","Asadli,Vugar",1/2-1/2,2579,B12,2751
+61,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,1.2,"Anand,V","Mamedov,Rau",1/2-1/2,2656,C24,2751
+62,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,2.2,"Rapport,R","Anand,V",1-0,2751,C44,2763
+63,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,3.4,"Anand,V","Navara,D",1/2-1/2,2697,B51,2751
+64,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,4.4,"Karjakin,Sergey","Anand,V",1/2-1/2,2751,C65,2743
+65,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,5.3,"Anand,V","Mamedyarov,S",1/2-1/2,2767,C77,2751
+66,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,6.2,"Anand,V","Caruana,F",0-1,2792,C72,2751
+67,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,7.1,"Asadli,Vugar","Anand,V",1/2-1/2,2751,B48,2579
+68,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,8.1,"Mamedov,Rau","Anand,V",1/2-1/2,2751,C53,2656
+69,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,9.3,"Anand,V","Rapport,R",1/2-1/2,2763,C10,2751
+70,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,10.1,"Navara,D","Anand,V",0-1,2751,A06,2697
+71,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,11.1,"Anand,V","Karjakin,Sergey",1/2-1/2,2743,B04,2751
+72,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,12.2,"Mamedyarov,S","Anand,V",1/2-1/2,2751,E35,2767
+73,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,13.3,"Caruana,F","Anand,V",1-0,2751,C65,2792
+74,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,14.4,"Anand,V","Asadli,Vugar",1/2-1/2,2579,B15,2751
+75,Kvika Reykjavik Open 2022,Reykjavik ISL,2022.04.06,1.94,"Thorisson,Bjartur","Anand,Vignesh",0-1,1829,B90,1292
+76,Kvika Reykjavik Open 2022,Reykjavik ISL,2022.04.07,2.55,"Anand,Vignesh","Kull,F",0-1,2138,A19,1829
+77,Kvika Reykjavik Open 2022,Reykjavik ISL,2022.04.07,3.84,"Briem,Gudrun Fanney","Anand,Vignesh",0-1,1829,D80,1364
+78,Kvika Reykjavik Open 2022,Reykjavik ISL,2022.04.08,4.49,"Anand,Vignesh","Jaksland,T",1/2-1/2,2203,A19,1829
+79,Kvika Reykjavik Open 2022,Reykjavik ISL,2022.04.09,5.56,"Cramling Bellon,Anna","Anand,Vignesh",1-0,1829,D85,2057
+80,Kvika Reykjavik Open 2022,Reykjavik ISL,2022.04.10,6.56,"Anand,Vignesh","Garbuz,Vitaliy",1/2-1/2,2142,D31,1829
+81,Kvika Reykjavik Open 2022,Reykjavik ISL,2022.04.10,7.56,"Heer,S","Anand,Vignesh",0-1,1829,D78,2067
+82,Kvika Reykjavik Open 2022,Reykjavik ISL,2022.04.11,8.44,"Anand,Vignesh","Decosse,J",1-0,2160,C41,1829
+83,Kvika Reykjavik Open 2022,Reykjavik ISL,2022.04.12,9.29,"Large,P","Anand,Vignesh",1/2-1/2,1829,A48,2293
+84,Superbet Rapid 2022,Warsaw POL,2022.05.19,1.2,"Anand,V","Wojtaszek,R",1-0,2696,C84,2751
+85,Superbet Rapid 2022,Warsaw POL,2022.05.19,2.5,"So,W","Anand,V",0-1,2751,E48,2776
+86,Superbet Rapid 2022,Warsaw POL,2022.05.19,3.1,"Anand,V","Korobov,A",1-0,2671,C02,2751
+87,Superbet Rapid 2022,Warsaw POL,2022.05.20,4.5,"Anand,V","Shevchenko,Kirill",1-0,2644,B33,2751
+88,Superbet Rapid 2022,Warsaw POL,2022.05.20,5.2,"Aronian,L","Anand,V",0-1,2751,C24,2765
+89,Superbet Rapid 2022,Warsaw POL,2022.05.20,6.4,"Anand,V","Duda,J",1/2-1/2,2750,C02,2751
+90,Superbet Rapid 2022,Warsaw POL,2022.05.21,7.3,"Gavrilescu,David","Anand,V",0-1,2751,C45,2518
+91,Superbet Rapid 2022,Warsaw POL,2022.05.21,8.3,"Anand,V","Caruana,F",1/2-1/2,2786,C42,2751
+92,Superbet Rapid 2022,Warsaw POL,2022.05.21,9.4,"Rapport,R","Anand,V",1-0,2751,C46,2776
+93,Superbet Blitz 2022,Warsaw POL,2022.05.22,1.3,"Anand,V","Duda,J",1-0,2750,C65,2751
+94,Superbet Blitz 2022,Warsaw POL,2022.05.22,2.4,"Korobov,A","Anand,V",1/2-1/2,2751,A33,2671
+95,Superbet Blitz 2022,Warsaw POL,2022.05.22,3.2,"Anand,V","Gavrilescu,David",0-1,2518,C11,2751
+96,Superbet Blitz 2022,Warsaw POL,2022.05.22,4.5,"Shevchenko,Kirill","Anand,V",0-1,2751,C42,2644
+97,Superbet Blitz 2022,Warsaw POL,2022.05.22,5.1,"Anand,V","Aronian,L",1/2-1/2,2765,C67,2751
+98,Superbet Blitz 2022,Warsaw POL,2022.05.22,6.5,"Anand,V","So,W",1-0,2776,C65,2751
+99,Superbet Blitz 2022,Warsaw POL,2022.05.22,7.2,"Caruana,F","Anand,V",1-0,2751,C42,2786
+100,Superbet Blitz 2022,Warsaw POL,2022.05.22,8.4,"Anand,V","Rapport,R",1/2-1/2,2776,B51,2751
+101,Superbet Blitz 2022,Warsaw POL,2022.05.22,9.3,"Wojtaszek,R","Anand,V",1/2-1/2,2751,D38,2696
+102,Superbet Blitz 2022,Warsaw POL,2022.05.23,10.3,"Duda,J","Anand,V",1-0,2751,C43,2750
+103,Superbet Blitz 2022,Warsaw POL,2022.05.23,11.4,"Anand,V","Korobov,A",0-1,2671,B30,2751
+104,Superbet Blitz 2022,Warsaw POL,2022.05.23,12.2,"Gavrilescu,David","Anand,V",1/2-1/2,2751,C45,2518
+105,Superbet Blitz 2022,Warsaw POL,2022.05.23,13.5,"Anand,V","Shevchenko,Kirill",1-0,2644,B50,2751
+106,Superbet Blitz 2022,Warsaw POL,2022.05.23,14.1,"Aronian,L","Anand,V",1-0,2751,C49,2765
+107,Superbet Blitz 2022,Warsaw POL,2022.05.23,15.5,"So,W","Anand,V",1/2-1/2,2751,E04,2776
+108,Superbet Blitz 2022,Warsaw POL,2022.05.23,16.2,"Anand,V","Caruana,F",1/2-1/2,2786,B52,2751
+109,Superbet Blitz 2022,Warsaw POL,2022.05.23,17.4,"Rapport,R","Anand,V",0-1,2751,C44,2776
+110,Superbet Blitz 2022,Warsaw POL,2022.05.23,18.3,"Anand,V","Wojtaszek,R",1-0,2696,B50,2751
+111,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,1.4,"Anand,V","Tari,A",1-0,2654,A15,2751
+112,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,2.3,"So,W","Anand,V",1/2-1/2,2751,C53,2776
+113,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,3.3,"Anand,V","Topalov,V",1-0,2730,B67,2751
+114,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,4.4,"Radjabov,T","Anand,V",1/2-1/2,2751,D38,2753
+115,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,5.2,"Anand,V","Giri,A",0-1,2761,B90,2751
+116,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,6.5,Wang Hao,"Anand,V",1/2-1/2,2751,C67,2744
+117,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,7.1,"Anand,V","Carlsen,M",1-0,2864,B06,2751
+118,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,8.5,"Anand,V","Mamedyarov,S",1/2-1/2,2759,C80,2751
+119,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,9.2,"Vachier Lagrave,M","Anand,V",1-0,2751,C54,2750
+120,10th Norway Chess 2022,Stavanger NOR,2022.05.31,1.4,"Anand,V","Vachier Lagrave,M",1-0,2750,B52,2751
+121,10th Norway Chess 2022,Stavanger NOR,2022.06.01,2.4,"Topalov,V","Anand,V",0-1,2751,D20,2730
+122,10th Norway Chess 2022,Stavanger NOR,2022.06.02,3.3,"Anand,V",Wang Hao,1/2-1/2,2744,B33,2751
+123,10th Norway Armageddon,Stavanger NOR,2022.06.02,3.3,"Anand,V",Wang Hao,1-0,2744,B31,2751
+124,10th Norway Armageddon,Stavanger NOR,2022.06.03,4.2,"So,W","Anand,V",1-0,2751,A36,2776
+125,10th Norway Chess 2022,Stavanger NOR,2022.06.03,4.2,"So,W","Anand,V",1/2-1/2,2751,A37,2776
+126,10th Norway Armageddon,Stavanger NOR,2022.06.05,5.1,"Anand,V","Carlsen,M",1-0,2864,C50,2751
+127,10th Norway Chess 2022,Stavanger NOR,2022.06.05,5.1,"Anand,V","Carlsen,M",1/2-1/2,2864,C55,2751
+128,10th Norway Armageddon,Stavanger NOR,2022.06.06,6.3,"Giri,A","Anand,V",1/2-1/2,2751,A01,2761
+129,10th Norway Chess 2022,Stavanger NOR,2022.06.06,6.3,"Giri,A","Anand,V",1/2-1/2,2751,A30,2761
+130,10th Norway Chess 2022,Stavanger NOR,2022.06.07,7.3,"Anand,V","Radjabov,T",1/2-1/2,2753,C53,2751
+131,10th Norway Armageddon,Stavanger NOR,2022.06.07,7.3,"Anand,V","Radjabov,T",1-0,2753,C53,2751
+132,National Open 2022,Las Vegas USA,2022.06.08,1.18,"Mei,Austin","Anand,Vignesh",1/2-1/2,1948,B90,2346
+133,National Open 2022,Las Vegas USA,2022.06.09,2.20,"Anand,Vignesh","Kavutskiy,K",0-1,2406,E94,1948
+134,10th Norway Chess 2022,Stavanger NOR,2022.06.09,8.4,"Anand,V","Mamedyarov,S",0-1,2759,C42,2751
+135,10th Norway Chess 2022,Stavanger NOR,2022.06.10,9.5,"Tari,A","Anand,V",1/2-1/2,2751,C83,2654
+136,10th Norway Armageddon,Stavanger NOR,2022.06.10,9.5,"Tari,A","Anand,V",0-1,2751,C50,2654
+137,35th Leon GM 2022,Leon ESP,2022.07.08,1.1,"Santos Latasa,J","Anand,V",1-0,2756,C83,2675
+138,35th Leon GM 2022,Leon ESP,2022.07.08,1.2,"Anand,V","Santos Latasa,J",1-0,2675,C78,2756
+139,35th Leon GM 2022,Leon ESP,2022.07.08,1.3,"Santos Latasa,J","Anand,V",1/2-1/2,2756,E04,2675
+140,35th Leon GM 2022,Leon ESP,2022.07.08,1.4,"Anand,V","Santos Latasa,J",1-0,2675,C83,2756
+141,35th Leon GM 2022,Leon ESP,2022.07.10,2.3,"Gelfand,B","Anand,V",1-0,2756,E04,2668
+142,35th Leon GM 2022,Leon ESP,2022.07.10,2.6,"Gelfand,B","Anand,V",1-0,2756,D11,2668
+143,35th Leon GM 2022,Leon ESP,2022.07.10,2.1,"Gelfand,B","Anand,V",0-1,2756,E04,2668
+144,35th Leon GM 2022,Leon ESP,2022.07.10,2.5,"Anand,V","Gelfand,B",0-1,2668,B30,2756
+145,35th Leon GM 2022,Leon ESP,2022.07.10,2.4,"Anand,V","Gelfand,B",1-0,2668,B30,2756
+146,35th Leon GM 2022,Leon ESP,2022.07.10,2.2,"Anand,V","Gelfand,B",0-1,2668,B30,2756
+147,NC World Masters 2022,Dortmund GER,2022.07.19,2.1,"Adams,Mi","Anand,V",1/2-1/2,2756,A30,2696
+148,NC World Masters 2022,Dortmund GER,2022.07.20,3.1,"Anand,V","Fridman,D",1-0,2599,C65,2756
+149,NC World Masters 2022,Dortmund GER,2022.07.21,1.1,"Kollars,Dmitrij","Anand,V",1/2-1/2,2756,A30,2648
+150,NC World Masters 2022,Dortmund GER,2022.07.22,4.1,"Anand,V","Kollars,Dmitrij",1/2-1/2,2648,D32,2756
+151,NC World Masters 2022,Dortmund GER,2022.07.23,5.1,"Fridman,D","Anand,V",1/2-1/2,2756,A05,2599
+152,NC World Masters 2022,Dortmund GER,2022.07.24,6.1,"Anand,V","Adams,Mi",1/2-1/2,2696,D35,2756

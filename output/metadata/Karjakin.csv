@@ -1,0 +1,151 @@
+,Event,Site,Date,Round,White,Black,Result,BlackElo,ECO,WhiteElo
+0,73rd ch-RUS 2020,Moscow RUS,2020.12.05,1.1,"Antipov,M2","Karjakin,Sergey",0-1,2752,C50,2611
+1,73rd ch-RUS 2020,Moscow RUS,2020.12.06,2.1,"Karjakin,Sergey","Esipenko,Andrey",1/2-1/2,2686,C42,2752
+2,73rd ch-RUS 2020,Moscow RUS,2020.12.07,3.1,"Vitiugov,N","Karjakin,Sergey",0-1,2752,C67,2720
+3,73rd ch-RUS 2020,Moscow RUS,2020.12.08,4.1,"Karjakin,Sergey","Chigaev,M",1/2-1/2,2619,C88,2752
+4,73rd ch-RUS 2020,Moscow RUS,2020.12.09,5.1,"Goganov,A","Karjakin,Sergey",1/2-1/2,2752,E02,2594
+5,73rd ch-RUS 2020,Moscow RUS,2020.12.10,6.1,"Karjakin,Sergey","Matlakov,M",1-0,2698,E10,2752
+6,73rd ch-RUS 2020,Moscow RUS,2020.12.12,7.1,"Nepomniachtchi,I","Karjakin,Sergey",1-0,2752,E20,2784
+7,73rd ch-RUS 2020,Moscow RUS,2020.12.13,8.1,"Karjakin,Sergey","Svidler,P",1-0,2723,B96,2752
+8,73rd ch-RUS 2020,Moscow RUS,2020.12.14,9.1,"Fedoseev,Vl3","Karjakin,Sergey",1/2-1/2,2752,E25,2674
+9,73rd ch-RUS 2020,Moscow RUS,2020.12.15,10.1,"Karjakin,Sergey","Artemiev,V",1-0,2711,C75,2752
+10,73rd ch-RUS 2020,Moscow RUS,2020.12.16,11.1,"Dubov,Daniil","Karjakin,Sergey",1-0,2752,C53,2702
+11,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.15,2.1,"Karjakin,Sergey","Vokhidov,Shamsiddin",1-0,2530,B67,2757
+12,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.16,2.2,"Vokhidov,Shamsiddin","Karjakin,Sergey",0-1,2757,C53,2530
+13,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.18,3.1,"Oparin,G","Karjakin,Sergey",0-1,2757,E10,2654
+14,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.19,3.2,"Karjakin,Sergey","Oparin,G",1/2-1/2,2654,B51,2757
+15,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.22,4.1,"Karjakin,Sergey","Artemiev,V",1/2-1/2,2704,B12,2757
+16,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.23,4.2,"Artemiev,V","Karjakin,Sergey",1/2-1/2,2757,E46,2704
+17,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.24,4.5,"Artemiev,V","Karjakin,Sergey",0-1,2757,A45,2704
+18,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.24,4.3,"Artemiev,V","Karjakin,Sergey",1-0,2757,A07,2704
+19,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.24,4.6,"Karjakin,Sergey","Artemiev,V",1/2-1/2,2704,B47,2757
+20,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.24,4.4,"Karjakin,Sergey","Artemiev,V",1-0,2704,B12,2757
+21,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.25,5.1,"Vachier Lagrave,M","Karjakin,Sergey",1/2-1/2,2757,C67,2749
+22,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.26,5.2,"Karjakin,Sergey","Vachier Lagrave,M",1/2-1/2,2749,D85,2757
+23,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.6,"Vachier Lagrave,M","Karjakin,Sergey",0-1,2757,A45,2749
+24,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.3,"Vachier Lagrave,M","Karjakin,Sergey",1/2-1/2,2757,C67,2749
+25,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.5,"Karjakin,Sergey","Vachier Lagrave,M",1/2-1/2,2749,A34,2757
+26,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.4,"Karjakin,Sergey","Vachier Lagrave,M",1/2-1/2,2749,A34,2757
+27,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.28,6.1,"Shankland,S","Karjakin,Sergey",1-0,2757,A20,2709
+28,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.29,6.2,"Karjakin,Sergey","Shankland,S",1-0,2709,C00,2757
+29,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.30,6.5,"Karjakin,Sergey","Shankland,S",1-0,2709,B90,2757
+30,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.30,6.6,"Shankland,S","Karjakin,Sergey",0-1,2757,A15,2709
+31,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.30,6.4,"Karjakin,Sergey","Shankland,S",1-0,2709,B90,2757
+32,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.30,6.3,"Shankland,S","Karjakin,Sergey",1-0,2757,E06,2709
+33,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.01,7.1,"Fedoseev,Vl3","Karjakin,Sergey",1/2-1/2,2757,D41,2696
+34,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.02,7.2,"Karjakin,Sergey","Fedoseev,Vl3",1-0,2696,C92,2757
+35,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.04,8.1,"Karjakin,Sergey","Duda,J",1/2-1/2,2738,D37,2757
+36,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.05,8.2,"Duda,J","Karjakin,Sergey",1-0,2757,D41,2738
+37,Smyslov Region Group Cup,Moscow RUS,2021.08.16,1.4,"Karjakin,Sergey","Chigaev,M",1-0,2643,E60,2757
+38,Smyslov Region Group Cup,Moscow RUS,2021.08.16,2.4,"Chigaev,M","Karjakin,Sergey",1-0,2757,B12,2643
+39,Smyslov Region Group Cup,Moscow RUS,2021.08.16,3.5,"Esipenko,Andrey","Karjakin,Sergey",0-1,2757,B12,2716
+40,Smyslov Region Group Cup,Moscow RUS,2021.08.16,4.5,"Karjakin,Sergey","Esipenko,Andrey",0-1,2716,A46,2757
+41,Smyslov Region Group Cup,Moscow RUS,2021.08.16,5.5,"Karjakin,Sergey","Karpov,Ana",1/2-1/2,2617,A46,2757
+42,Smyslov Region Group Cup,Moscow RUS,2021.08.16,6.5,"Karpov,Ana","Karjakin,Sergey",1-0,2757,E32,2617
+43,Smyslov Region Group Cup,Moscow RUS,2021.08.16,7.8,"Predke,A","Karjakin,Sergey",0-1,2757,A04,2673
+44,Smyslov Region Group Cup,Moscow RUS,2021.08.16,8.8,"Karjakin,Sergey","Predke,A",0-1,2673,D02,2757
+45,Smyslov Region Group Cup,Moscow RUS,2021.08.16,9.8,"Alekseenko,K","Karjakin,Sergey",1-0,2757,B10,2703
+46,Smyslov Region Group Cup,Moscow RUS,2021.08.16,10.8,"Karjakin,Sergey","Alekseenko,K",0-1,2703,D00,2757
+47,Smyslov Region Group Cup,Moscow RUS,2021.08.16,11.10,"Karjakin,Sergey","Najer,E",1-0,2654,A46,2757
+48,Smyslov Region Group Cup,Moscow RUS,2021.08.16,12.10,"Najer,E","Karjakin,Sergey",1-0,2757,A45,2654
+49,Smyslov Region Group Cup,Moscow RUS,2021.08.16,13.11,"Potkin,V","Karjakin,Sergey",1-0,2757,D11,2571
+50,Smyslov Region Group Cup,Moscow RUS,2021.08.16,14.11,"Karjakin,Sergey","Potkin,V",1/2-1/2,2571,A45,2757
+51,9th Norway Armageddon,Stavanger NOR,2021.09.08,2.3,"Karjakin,Sergey","Rapport,R",1/2-1/2,2760,B01,2758
+52,9th Norway Chess 2021,Stavanger NOR,2021.09.08,2.3,"Karjakin,Sergey","Rapport,R",1/2-1/2,2760,B48,2758
+53,9th Norway Armageddon,Stavanger NOR,2021.09.09,3.3,"Firouzja,Alireza","Karjakin,Sergey",0-1,2758,A01,2754
+54,9th Norway Chess 2021,Stavanger NOR,2021.09.09,3.3,"Firouzja,Alireza","Karjakin,Sergey",1/2-1/2,2758,C53,2754
+55,9th Norway Armageddon,Stavanger NOR,2021.09.10,4.3,"Tari,A","Karjakin,Sergey",0-1,2758,C65,2642
+56,9th Norway Chess 2021,Stavanger NOR,2021.09.10,4.3,"Tari,A","Karjakin,Sergey",1/2-1/2,2758,C67,2642
+57,9th Norway Chess 2021,Stavanger NOR,2021.09.11,1.3,"Nepomniachtchi,I","Karjakin,Sergey",1-0,2758,C67,2792
+58,9th Norway Chess 2021,Stavanger NOR,2021.09.12,5.1,"Karjakin,Sergey","Carlsen,M",1-0,2855,B33,2758
+59,9th Norway Armageddon,Stavanger NOR,2021.09.13,6.2,"Karjakin,Sergey","Nepomniachtchi,I",1-0,2792,C24,2758
+60,9th Norway Chess 2021,Stavanger NOR,2021.09.13,6.2,"Karjakin,Sergey","Nepomniachtchi,I",1/2-1/2,2792,E06,2758
+61,9th Norway Chess 2021,Stavanger NOR,2021.09.14,7.2,"Rapport,R","Karjakin,Sergey",1-0,2758,E21,2760
+62,9th Norway Chess 2021,Stavanger NOR,2021.09.15,8.3,"Karjakin,Sergey","Firouzja,Alireza",0-1,2754,B90,2758
+63,9th Norway Chess 2021,Stavanger NOR,2021.09.16,9.1,"Carlsen,M","Karjakin,Sergey",1-0,2758,C65,2855
+64,9th Norway Armageddon,Stavanger NOR,2021.09.17,10.3,"Karjakin,Sergey","Tari,A",1-0,2642,A01,2758
+65,9th Norway Chess 2021,Stavanger NOR,2021.09.17,10.3,"Karjakin,Sergey","Tari,A",1/2-1/2,2642,E10,2758
+66,7th Gashimov Mem Rapid,Baku AZE,2021.12.18,1.2,"Rapport,R","Karjakin,Sergey",1-0,2743,B51,2763
+67,7th Gashimov Mem Rapid,Baku AZE,2021.12.18,1.1,"Karjakin,Sergey","Rapport,R",0-1,2763,C18,2743
+68,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,2.3,"Navara,D","Karjakin,Sergey",0-1,2743,A07,2697
+69,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,2.2,"Karjakin,Sergey","Navara,D",1-0,2697,C65,2743
+70,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,2.1,"Navara,D","Karjakin,Sergey",1-0,2743,A06,2697
+71,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,3.1,"Karjakin,Sergey","Mamedyarov,S",1-0,2767,C53,2743
+72,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,3.2,"Mamedyarov,S","Karjakin,Sergey",0-1,2743,C54,2767
+73,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,4.1,"Karjakin,Sergey","Anand,V",1/2-1/2,2751,C65,2743
+74,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,4.2,"Anand,V","Karjakin,Sergey",0-1,2743,C53,2751
+75,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,5.3,"Caruana,F","Karjakin,Sergey",1/2-1/2,2743,A28,2792
+76,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,5.2,"Karjakin,Sergey","Caruana,F",1/2-1/2,2792,C75,2743
+77,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,5.1,"Caruana,F","Karjakin,Sergey",1/2-1/2,2743,A28,2792
+78,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,6.1,"Karjakin,Sergey","Asadli,Vugar",1-0,2579,B12,2743
+79,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,6.2,"Asadli,Vugar","Karjakin,Sergey",1/2-1/2,2743,C54,2579
+80,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,7.1,"Mamedov,Rau","Karjakin,Sergey",1/2-1/2,2743,C54,2656
+81,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,7.2,"Karjakin,Sergey","Mamedov,Rau",1-0,2656,B33,2743
+82,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,1.4,"Karjakin,Sergey","Rapport,R",0-1,2763,E94,2743
+83,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,2.1,"Navara,D","Karjakin,Sergey",0-1,2743,B51,2697
+84,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,3.3,"Karjakin,Sergey","Mamedyarov,S",0-1,2767,C53,2743
+85,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,4.4,"Karjakin,Sergey","Anand,V",1/2-1/2,2751,C65,2743
+86,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,5.4,"Caruana,F","Karjakin,Sergey",1/2-1/2,2743,C44,2792
+87,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,6.1,"Karjakin,Sergey","Asadli,Vugar",0-1,2579,B12,2743
+88,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,7.4,"Mamedov,Rau","Karjakin,Sergey",1-0,2743,B18,2656
+89,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,8.2,"Rapport,R","Karjakin,Sergey",1/2-1/2,2743,C84,2763
+90,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,9.4,"Karjakin,Sergey","Navara,D",1-0,2697,A01,2743
+91,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,10.2,"Mamedyarov,S","Karjakin,Sergey",1-0,2743,E35,2767
+92,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,11.1,"Anand,V","Karjakin,Sergey",1/2-1/2,2743,B04,2751
+93,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,12.1,"Karjakin,Sergey","Caruana,F",1/2-1/2,2792,C89,2743
+94,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,13.4,"Asadli,Vugar","Karjakin,Sergey",1/2-1/2,2743,B12,2579
+95,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,14.1,"Karjakin,Sergey","Mamedov,Rau",0-1,2656,A45,2743
+96,World Rapid 2021,Warsaw POL,2021.12.26,1.9,"Karjakin,Sergey","Christiansen,Johan-Sebastian",1/2-1/2,2582,D73,2743
+97,World Rapid 2021,Warsaw POL,2021.12.26,2.33,"Michalik,P","Karjakin,Sergey",1-0,2743,B51,2568
+98,World Rapid 2021,Warsaw POL,2021.12.26,3.60,"Karjakin,Sergey","Nguyen,Thai Dai Van",1/2-1/2,2609,C53,2743
+99,World Rapid 2021,Warsaw POL,2021.12.26,4.57,"Kantor,G","Karjakin,Sergey",1-0,2743,E15,2575
+100,World Rapid 2021,Warsaw POL,2021.12.26,5.71,"Karjakin,Sergey","Janik,Igor",1-0,2525,A45,2743
+101,World Rapid 2021,Warsaw POL,2021.12.27,6.53,"Aditya,Mittal","Karjakin,Sergey",0-1,2743,E15,2459
+102,World Rapid 2021,Warsaw POL,2021.12.27,7.39,"Karjakin,Sergey","Gabuzyan,H",1-0,2589,B90,2743
+103,World Rapid 2021,Warsaw POL,2021.12.27,8.22,"Ghaem Maghami,E","Karjakin,Sergey",0-1,2743,E12,2519
+104,World Rapid 2021,Warsaw POL,2021.12.27,9.14,"Karjakin,Sergey","Mitrabha,G",1/2-1/2,2509,B10,2743
+105,World Rapid 2021,Warsaw POL,2021.12.28,10.16,"Anton Guijarro,D","Karjakin,Sergey",0-1,2743,D05,2693
+106,World Rapid 2021,Warsaw POL,2021.12.28,11.10,"Karjakin,Sergey","Amin,B",1-0,2680,C50,2743
+107,World Rapid 2021,Warsaw POL,2021.12.28,12.6,"Fedoseev,Vl3","Karjakin,Sergey",1/2-1/2,2743,E06,2704
+108,World Rapid 2021,Warsaw POL,2021.12.28,13.6,"Karjakin,Sergey","Firouzja,Alireza",1-0,2804,E92,2743
+109,World Blitz 2021,Warsaw POL,2021.12.29,1.34,"Karjakin,Sergey","Bellahcene,B",1-0,2512,B40,2743
+110,World Blitz 2021,Warsaw POL,2021.12.29,2.16,"Santos Latasa,J","Karjakin,Sergey",1-0,2743,A37,2639
+111,World Blitz 2021,Warsaw POL,2021.12.29,3.38,"Karjakin,Sergey","Postny,E",0-1,2557,C88,2743
+112,World Blitz 2021,Warsaw POL,2021.12.29,4.64,"Costachi,M","Karjakin,Sergey",0-1,2743,E15,2463
+113,World Blitz 2021,Warsaw POL,2021.12.29,5.42,"Karjakin,Sergey","Chigaev,M",0-1,2632,C16,2743
+114,World Blitz 2021,Warsaw POL,2021.12.29,6.60,"Janik,Igor","Karjakin,Sergey",0-1,2743,B51,2525
+115,World Blitz 2021,Warsaw POL,2021.12.29,7.43,"Karjakin,Sergey","Riazantsev,A",1/2-1/2,2634,B52,2743
+116,World Blitz 2021,Warsaw POL,2021.12.29,8.43,"Saric,Iv","Karjakin,Sergey",0-1,2743,B90,2669
+117,World Blitz 2021,Warsaw POL,2021.12.29,9.31,"Karjakin,Sergey","Teclaf,Pawel",1-0,2542,B42,2743
+118,World Blitz 2021,Warsaw POL,2021.12.29,10.25,"Ter Sahakyan,S","Karjakin,Sergey",0-1,2743,B94,2637
+119,World Blitz 2021,Warsaw POL,2021.12.29,11.13,"Karjakin,Sergey","Caruana,F",1/2-1/2,2792,C72,2743
+120,World Blitz 2021,Warsaw POL,2021.12.29,12.18,"Socko,B","Karjakin,Sergey",0-1,2743,E12,2642
+121,World Blitz 2021,Warsaw POL,2021.12.30,13.9,"Firouzja,Alireza","Karjakin,Sergey",0-1,2743,D02,2804
+122,World Blitz 2021,Warsaw POL,2021.12.30,14.8,"Karjakin,Sergey","Mamedyarov,S",0-1,2767,C47,2743
+123,World Blitz 2021,Warsaw POL,2021.12.30,15.10,"Duda,J","Karjakin,Sergey",1-0,2743,A13,2760
+124,World Blitz 2021,Warsaw POL,2021.12.30,16.18,"Karjakin,Sergey","Cheparinov,I",1/2-1/2,2664,B50,2743
+125,World Blitz 2021,Warsaw POL,2021.12.30,17.17,"Michalik,P","Karjakin,Sergey",1-0,2743,C88,2568
+126,World Blitz 2021,Warsaw POL,2021.12.30,18.27,"Karjakin,Sergey","Moroni,L",1-0,2575,B06,2743
+127,World Blitz 2021,Warsaw POL,2021.12.30,19.20,"Asadli,Vugar","Karjakin,Sergey",0-1,2743,B23,2579
+128,World Blitz 2021,Warsaw POL,2021.12.30,20.15,"Karjakin,Sergey","Kobalia,M",0-1,2596,A01,2743
+129,World Blitz 2021,Warsaw POL,2021.12.30,21.22,"Donchenko,Alexa","Karjakin,Sergey",1-0,2743,A13,2636
+130,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.15,1.2,"Caruana,F","Karjakin,Sergey",1/2-1/2,2743,E10,2792
+131,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.16,2.6,"Karjakin,Sergey","Dubov,Daniil",1/2-1/2,2720,D33,2743
+132,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.17,3.6,"Esipenko,Andrey","Karjakin,Sergey",1-0,2743,C53,2714
+133,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.20,5.6,"Duda,J","Karjakin,Sergey",1/2-1/2,2743,D20,2760
+134,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.21,6.6,"Karjakin,Sergey","Van Foreest,Jorden",1-0,2702,C50,2743
+135,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.22,7.6,"Grandelius,N","Karjakin,Sergey",1/2-1/2,2743,C42,2672
+136,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.23,8.4,"Karjakin,Sergey","Rapport,R",1/2-1/2,2763,C02,2743
+137,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.25,9.6,"Praggnanandhaa,R","Karjakin,Sergey",0-1,2743,D02,2612
+138,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.28,11.3,"Mamedyarov,S","Karjakin,Sergey",1/2-1/2,2743,C53,2767
+139,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.29,12.5,"Shankland,S","Karjakin,Sergey",1-0,2743,E20,2708
+140,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.30,13.4,"Karjakin,Sergey","Vidit,S",1-0,2727,C47,2743
+141,18th Moscow Stars Prelim,Moscow RUS,2022.07.17,1.2,"Karjakin,Sergey","Grischuk,A",1/2-1/2,2745,C19,2747
+142,18th Moscow Stars Prelim,Moscow RUS,2022.07.17,2.2,"Grischuk,A","Karjakin,Sergey",0-1,2747,E21,2745
+143,18th Moscow Stars Prelim,Moscow RUS,2022.07.18,3.1,"Karjakin,Sergey","Morozevich,A",1-0,2659,A04,2747
+144,18th Moscow Stars Prelim,Moscow RUS,2022.07.18,4.1,"Morozevich,A","Karjakin,Sergey",1/2-1/2,2747,C47,2659
+145,18th Moscow Stars Prelim,Moscow RUS,2022.07.19,5.2,"Karpov,Ana","Karjakin,Sergey",1/2-1/2,2747,D27,2617
+146,18th Moscow Stars Prelim,Moscow RUS,2022.07.19,6.2,"Karjakin,Sergey","Karpov,Ana",1/2-1/2,2617,B10,2747
+147,18th Moscow Stars Final,Moscow RUS,2022.07.20,1.1,"Grischuk,A","Karjakin,Sergey",1/2-1/2,2747,E21,2745
+148,18th Moscow Stars Final,Moscow RUS,2022.07.20,2.1,"Karjakin,Sergey","Grischuk,A",1/2-1/2,2745,B33,2747
+149,18th Moscow Stars Final,Moscow RUS,2022.07.20,3.1,"Grischuk,A","Karjakin,Sergey",0-1,2747,E21,2745

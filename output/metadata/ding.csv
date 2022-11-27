@@ -1,0 +1,60 @@
+,Event,Site,Date,Round,White,Black,Result,BlackElo,ECO,WhiteElo
+0,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.17,1.2,Ding Liren,Wang Hao,0-1,2762,A20,2805
+1,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.18,2.4,"Vachier Lagrave,M",Ding Liren,1-0,2805,C88,2767
+2,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.19,3.1,Ding Liren,"Caruana,F",1-0,2842,D17,2805
+3,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.21,4.4,Ding Liren,"Giri,A",1/2-1/2,2763,E00,2805
+4,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.22,5.2,"Grischuk,A",Ding Liren,1/2-1/2,2805,C88,2777
+5,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.23,6.3,"Nepomniachtchi,I",Ding Liren,1-0,2805,C84,2774
+6,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.25,7.3,Ding Liren,"Alekseenko,K",1/2-1/2,2698,E00,2805
+7,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.19,8.2,Wang Hao,Ding Liren,1/2-1/2,2805,C45,2762
+8,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.20,9.4,Ding Liren,"Vachier Lagrave,M",1/2-1/2,2767,E60,2805
+9,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.21,10.1,"Caruana,F",Ding Liren,1/2-1/2,2805,C88,2842
+10,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.23,11.4,"Giri,A",Ding Liren,1-0,2805,C85,2763
+11,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.24,12.2,Ding Liren,"Grischuk,A",1-0,2777,D37,2805
+12,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.26,13.3,"Alekseenko,K",Ding Liren,0-1,2805,C50,2698
+13,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.27,14.3,Ding Liren,"Nepomniachtchi,I",1-0,2774,E60,2805
+14,GM Warmup Match 2021,Hangzhou CHN,2021.11.22,1.1,Lu Shanglei,Ding Liren,0-1,2799,C88,2616
+15,GM Warmup Match 2021,Hangzhou CHN,2021.11.23,2.1,Ding Liren,Lu Shanglei,1/2-1/2,2616,D11,2799
+16,GM Warmup Match 2021,Hangzhou CHN,2021.11.24,3.1,Lu Shanglei,Ding Liren,1/2-1/2,2799,C67,2616
+17,GM Warmup Match 2021,Hangzhou CHN,2021.11.25,4.1,Ding Liren,Lu Shanglei,1-0,2616,A11,2799
+18,China HangZhou GM 2022,Hangzhou CHN,2022.03.27,1.1,Ding Liren,"Li,Di",1-0,2579,A28,2799
+19,China HangZhou GM 2022,Hangzhou CHN,2022.03.28,2.2,Ding Liren,"Xu,Xiangyu",1-0,2564,E60,2799
+20,China HangZhou GM 2022,Hangzhou CHN,2022.03.28,3.2,"Bai,Jinshi",Ding Liren,0-1,2799,D38,2593
+21,China HangZhou GM 2022,Hangzhou CHN,2022.03.29,4.1,"Li,Di",Ding Liren,0-1,2799,D38,2579
+22,China HangZhou GM 2022,Hangzhou CHN,2022.03.30,5.2,"Xu,Xiangyu",Ding Liren,1/2-1/2,2799,D38,2564
+23,China HangZhou GM 2022,Hangzhou CHN,2022.03.30,6.2,Ding Liren,"Bai,Jinshi",1-0,2593,D32,2799
+24,China HangZhou GM 2022,Hangzhou CHN,2022.03.31,7.1,Ding Liren,"Li,Di",1-0,2579,D02,2799
+25,China HangZhou GM 2022,Hangzhou CHN,2022.04.01,8.2,Ding Liren,"Xu,Xiangyu",1-0,2564,A10,2799
+26,China HangZhou GM 2022,Hangzhou CHN,2022.04.01,9.2,"Bai,Jinshi",Ding Liren,1/2-1/2,2799,D45,2593
+27,China HangZhou GM 2022,Hangzhou CHN,2022.04.02,10.1,"Li,Di",Ding Liren,1/2-1/2,2799,D43,2579
+28,China HangZhou GM 2022,Hangzhou CHN,2022.04.03,11.2,"Xu,Xiangyu",Ding Liren,0-1,2799,E10,2564
+29,China HangZhou GM 2022,Hangzhou CHN,2022.04.03,12.2,Ding Liren,"Bai,Jinshi",1-0,2593,A30,2799
+30,China HangZhou GM Match,Hangzhou CHN,2022.04.05,1.1,Wei Yi,Ding Liren,1/2-1/2,2799,D45,2729
+31,China HangZhou GM Match,Hangzhou CHN,2022.04.06,2.1,Ding Liren,Wei Yi,1/2-1/2,2729,E06,2799
+32,China HangZhou GM Match,Hangzhou CHN,2022.04.07,3.1,Wei Yi,Ding Liren,1/2-1/2,2799,D37,2729
+33,China HangZhou GM Match,Hangzhou CHN,2022.04.08,4.1,Ding Liren,Wei Yi,1/2-1/2,2729,E06,2799
+34,China HangZhou GM Match,Hangzhou CHN,2022.04.09,5.1,Wei Yi,Ding Liren,1/2-1/2,2799,E15,2729
+35,China HangZhou GM Match,Hangzhou CHN,2022.04.10,6.1,Ding Liren,Wei Yi,1-0,2729,E06,2799
+36,CHN Team Asian Games Q2,Hangzhou CHN,2022.04.14,1.1,Ding Liren,Ma Qun,1/2-1/2,2645,C67,2799
+37,CHN Team Asian Games Q2,Hangzhou CHN,2022.04.15,2.3,Ding Liren,"Xu,Xiangyu",1-0,2564,E46,2799
+38,CHN Team Asian Games Q2,Hangzhou CHN,2022.04.16,3.1,Wei Yi,Ding Liren,1/2-1/2,2799,C48,2729
+39,CHN Team Asian Games Q2,Hangzhou CHN,2022.04.17,4.2,Bu Xiangzhi,Ding Liren,1/2-1/2,2799,D38,2708
+40,CHN Team Asian Games Q2,Hangzhou CHN,2022.04.18,5.2,Ding Liren,Zhang Zhong,1-0,2640,D26,2799
+41,CHN Team Asian Games Q2,Hangzhou CHN,2022.04.21,7.1,"Xu,Xiangyu",Ding Liren,1/2-1/2,2799,E35,2564
+42,CHN Team Asian Games Q2,Hangzhou CHN,2022.04.22,8.1,Ding Liren,Wei Yi,1/2-1/2,2729,D41,2799
+43,CHN Team Asian Games Q2,Hangzhou CHN,2022.04.23,9.1,Zhang Zhong,Ding Liren,0-1,2799,B52,2640
+44,CHN Team Asian Games Q2,Hangzhou CHN,2022.04.24,10.3,Ding Liren,Bu Xiangzhi,1/2-1/2,2708,C67,2799
+45,FIDE Candidates 2022,Madrid ESP,2022.06.17,1.2,Ding Liren,"Nepomniachtchi,I",0-1,2766,A20,2806
+46,FIDE Candidates 2022,Madrid ESP,2022.06.18,2.4,"Duda,J",Ding Liren,1/2-1/2,2806,C50,2750
+47,FIDE Candidates 2022,Madrid ESP,2022.06.19,3.1,Ding Liren,"Rapport,R",1/2-1/2,2764,D86,2806
+48,FIDE Candidates 2022,Madrid ESP,2022.06.21,4.4,Ding Liren,"Caruana,F",1/2-1/2,2783,D38,2806
+49,FIDE Candidates 2022,Madrid ESP,2022.06.22,5.2,"Radjabov,T",Ding Liren,1/2-1/2,2806,E00,2753
+50,FIDE Candidates 2022,Madrid ESP,2022.06.23,6.3,"Nakamura,Hi",Ding Liren,1/2-1/2,2806,C50,2760
+51,FIDE Candidates 2022,Madrid ESP,2022.06.25,7.3,Ding Liren,"Firouzja,Alireza",1/2-1/2,2793,A20,2806
+52,FIDE Candidates 2022,Madrid ESP,2022.06.26,8.2,"Nepomniachtchi,I",Ding Liren,1/2-1/2,2806,C47,2766
+53,FIDE Candidates 2022,Madrid ESP,2022.06.27,9.4,Ding Liren,"Duda,J",1-0,2750,A13,2806
+54,FIDE Candidates 2022,Madrid ESP,2022.06.29,10.1,"Rapport,R",Ding Liren,0-1,2806,C77,2764
+55,FIDE Candidates 2022,Madrid ESP,2022.06.30,11.4,"Caruana,F",Ding Liren,0-1,2806,C88,2783
+56,FIDE Candidates 2022,Madrid ESP,2022.07.01,12.2,Ding Liren,"Radjabov,T",0-1,2753,E48,2806
+57,FIDE Candidates 2022,Madrid ESP,2022.07.03,13.3,"Firouzja,Alireza",Ding Liren,1/2-1/2,2806,C47,2793
+58,FIDE Candidates 2022,Madrid ESP,2022.07.04,14.3,Ding Liren,"Nakamura,Hi",1-0,2760,D40,2806

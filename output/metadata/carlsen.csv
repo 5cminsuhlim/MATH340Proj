@@ -1,0 +1,260 @@
+,Event,Site,Date,Round,White,Black,Result,BlackElo,ECO,WhiteElo
+0,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.11,1.1,"Carlsen,M","Giri,A",1/2-1/2,2768,A22,2872
+1,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.12,2.1,Yu Yangyi,"Carlsen,M",1/2-1/2,2872,B90,2726
+2,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.13,3.1,"Carlsen,M","Xiong,Jeffery",1/2-1/2,2712,D41,2872
+3,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.14,4.1,"Van Foreest,Jorden","Carlsen,M",1/2-1/2,2872,C58,2644
+4,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.16,5.1,"Carlsen,M","Dubov,Daniil",1/2-1/2,2683,B31,2872
+5,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.17,6.1,"Carlsen,M","Caruana,F",1/2-1/2,2822,D37,2872
+6,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.18,7.1,"Anand,V","Carlsen,M",1/2-1/2,2872,B31,2758
+7,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.19,8.1,"Carlsen,M","Vitiugov,N",1-0,2747,C84,2872
+8,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.21,9.1,"Firouzja,Alireza","Carlsen,M",0-1,2872,C65,2723
+9,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.22,10.1,"Carlsen,M","Kovalev,Vl",1-0,2660,D55,2872
+10,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.24,11.1,"Duda,J","Carlsen,M",1/2-1/2,2872,C53,2758
+11,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.25,12.1,"Carlsen,M","Artemiev,V",1/2-1/2,2731,D85,2872
+12,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.26,13.1,"So,W","Carlsen,M",1/2-1/2,2872,C47,2765
+13,8th Norway Armageddon,Stavanger NOR,2020.10.05,1.1,"Aronian,L","Carlsen,M",0-1,2863,D37,2767
+14,8th Norway Chess 2020,Stavanger NOR,2020.10.05,1.1,"Aronian,L","Carlsen,M",1/2-1/2,2863,E51,2767
+15,8th Norway Armageddon,Stavanger NOR,2020.10.06,2.1,"Carlsen,M","Firouzja,Alireza",1-0,2728,D35,2863
+16,8th Norway Chess 2020,Stavanger NOR,2020.10.06,2.1,"Carlsen,M","Firouzja,Alireza",1/2-1/2,2728,D35,2863
+17,8th Norway Chess 2020,Stavanger NOR,2020.10.07,3.1,"Tari,A","Carlsen,M",0-1,2863,B69,2633
+18,8th Norway Chess 2020,Stavanger NOR,2020.10.08,4.1,"Carlsen,M","Caruana,F",1-0,2828,E32,2863
+19,8th Norway Chess 2020,Stavanger NOR,2020.10.10,5.1,"Duda,J","Carlsen,M",1-0,2863,B15,2757
+20,8th Norway Chess 2020,Stavanger NOR,2020.10.11,6.1,"Carlsen,M","Duda,J",1-0,2757,D10,2863
+21,8th Norway Armageddon,Stavanger NOR,2020.10.12,7.1,"Caruana,F","Carlsen,M",0-1,2863,C67,2828
+22,8th Norway Chess 2020,Stavanger NOR,2020.10.12,7.1,"Caruana,F","Carlsen,M",1/2-1/2,2863,B31,2828
+23,8th Norway Chess 2020,Stavanger NOR,2020.10.13,8.1,"Carlsen,M","Tari,A",1-0,2633,C84,2863
+24,8th Norway Chess 2020,Stavanger NOR,2020.10.15,9.1,"Firouzja,Alireza","Carlsen,M",0-1,2863,A05,2728
+25,8th Norway Chess 2020,Stavanger NOR,2020.10.16,10.1,"Carlsen,M","Aronian,L",0-1,2767,D37,2863
+26,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.16,1.1,"Carlsen,M","Firouzja,Alireza",1-0,2749,D37,2862
+27,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.17,2.1,"Anton Guijarro,D","Carlsen,M",1/2-1/2,2862,B34,2679
+28,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.18,3.1,"Carlsen,M","Tari,A",1/2-1/2,2625,D41,2862
+29,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.19,4.1,"Van Foreest,Jorden","Carlsen,M",1/2-1/2,2862,C78,2671
+30,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.21,5.1,"Carlsen,M","Donchenko,Alexa",1/2-1/2,2668,B90,2862
+31,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.22,6.1,"Duda,J","Carlsen,M",1/2-1/2,2862,C50,2743
+32,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.23,7.1,"Carlsen,M","Harikrishna,P",1/2-1/2,2732,B47,2862
+33,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.24,8.1,"Esipenko,Andrey","Carlsen,M",1-0,2862,B84,2677
+34,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.26,9.1,"Carlsen,M","Grandelius,N",1-0,2663,B90,2862
+35,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.27,10.1,"Caruana,F","Carlsen,M",1/2-1/2,2862,E00,2823
+36,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.29,11.1,"Carlsen,M","Giri,A",1/2-1/2,2764,C53,2862
+37,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.30,12.1,"Wojtaszek,R","Carlsen,M",1/2-1/2,2862,D45,2705
+38,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.31,13.3,"Carlsen,M","Vachier Lagrave,M",1-0,2784,D85,2862
+39,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.15,2.1,"Martinovic,Sa","Carlsen,M",0-1,2847,D85,2548
+40,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.16,2.2,"Carlsen,M","Martinovic,Sa",1-0,2548,B56,2847
+41,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.18,3.1,"Carlsen,M","Tari,A",1-0,2639,A13,2847
+42,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.19,3.2,"Tari,A","Carlsen,M",0-1,2847,B46,2639
+43,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.22,4.1,"Wojtaszek,R","Carlsen,M",1/2-1/2,2847,E06,2691
+44,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.23,4.2,"Carlsen,M","Wojtaszek,R",1/2-1/2,2691,B51,2847
+45,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.24,4.3,"Wojtaszek,R","Carlsen,M",1/2-1/2,2847,E01,2691
+46,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.24,4.4,"Carlsen,M","Wojtaszek,R",1-0,2691,E47,2847
+47,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.25,5.1,"Carlsen,M","Esipenko,Andrey",1/2-1/2,2716,E10,2847
+48,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.26,5.2,"Esipenko,Andrey","Carlsen,M",1/2-1/2,2847,C53,2716
+49,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.7,"Carlsen,M","Esipenko,Andrey",1-0,2716,C65,2847
+50,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.6,"Esipenko,Andrey","Carlsen,M",1-0,2847,C53,2716
+51,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.8,"Esipenko,Andrey","Carlsen,M",0-1,2847,C53,2716
+52,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.5,"Carlsen,M","Esipenko,Andrey",1-0,2716,E10,2847
+53,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.3,"Carlsen,M","Esipenko,Andrey",1/2-1/2,2716,E10,2847
+54,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.4,"Esipenko,Andrey","Carlsen,M",1/2-1/2,2847,C53,2716
+55,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.28,6.1,"Bacrot,E","Carlsen,M",0-1,2847,C88,2678
+56,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.29,6.2,"Carlsen,M","Bacrot,E",1-0,2678,B52,2847
+57,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.01,7.1,"Carlsen,M","Duda,J",1/2-1/2,2738,D37,2847
+58,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.02,7.2,"Duda,J","Carlsen,M",1/2-1/2,2847,C88,2738
+59,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.03,7.4,"Carlsen,M","Duda,J",0-1,2738,B52,2847
+60,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.03,7.3,"Duda,J","Carlsen,M",1/2-1/2,2847,C65,2738
+61,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.04,8.1,"Fedoseev,Vl3","Carlsen,M",0-1,2847,E60,2696
+62,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.05,8.2,"Carlsen,M","Fedoseev,Vl3",1-0,2696,B12,2847
+63,9th Norway Armageddon,Stavanger NOR,2021.09.07,1.1,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2855,B30,2754
+64,9th Norway Chess 2021,Stavanger NOR,2021.09.07,1.1,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2855,B30,2754
+65,9th Norway Armageddon,Stavanger NOR,2021.09.08,2.1,"Carlsen,M","Tari,A",1-0,2642,C50,2855
+66,9th Norway Chess 2021,Stavanger NOR,2021.09.08,2.1,"Carlsen,M","Tari,A",1/2-1/2,2642,C50,2855
+67,9th Norway Chess 2021,Stavanger NOR,2021.09.09,3.1,"Rapport,R","Carlsen,M",1/2-1/2,2855,E94,2760
+68,9th Norway Armageddon,Stavanger NOR,2021.09.09,3.1,"Rapport,R","Carlsen,M",1/2-1/2,2855,A08,2760
+69,9th Norway Armageddon,Stavanger NOR,2021.09.10,4.1,"Carlsen,M","Nepomniachtchi,I",1-0,2792,A05,2855
+70,9th Norway Chess 2021,Stavanger NOR,2021.09.10,4.1,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2792,C67,2855
+71,9th Norway Chess 2021,Stavanger NOR,2021.09.12,5.1,"Karjakin,Sergey","Carlsen,M",1-0,2855,B33,2758
+72,9th Norway Chess 2021,Stavanger NOR,2021.09.13,6.1,"Carlsen,M","Firouzja,Alireza",1-0,2754,C78,2855
+73,9th Norway Chess 2021,Stavanger NOR,2021.09.14,7.1,"Tari,A","Carlsen,M",0-1,2855,C88,2642
+74,9th Norway Chess 2021,Stavanger NOR,2021.09.15,8.1,"Carlsen,M","Rapport,R",1-0,2760,C65,2855
+75,9th Norway Chess 2021,Stavanger NOR,2021.09.16,9.1,"Carlsen,M","Karjakin,Sergey",1-0,2758,C65,2855
+76,9th Norway Chess 2021,Stavanger NOR,2021.09.17,10.1,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2855,C53,2792
+77,9th Norway Armageddon,Stavanger NOR,2021.09.17,10.1,"Nepomniachtchi,I","Carlsen,M",0-1,2855,C28,2792
+78,36th ECC Open 2021,Struga MKD,2021.09.20,3.6,"Sarrau,J","Carlsen,M",0-1,2855,A20,2374
+79,36th ECC Open 2021,Struga MKD,2021.09.21,4.6,"Carlsen,M","Llobel Cortell,E",1-0,2392,B30,2855
+80,36th ECC Open 2021,Struga MKD,2021.09.22,5.3,"Mamedyarov,S","Carlsen,M",1/2-1/2,2855,E62,2762
+81,TCh-NOR Elite 2021-22,Norway NOR,2021.10.29,1.2,"Arvola,B","Carlsen,M",0-1,2855,B14,2471
+82,WCh 2021,Dubai UAE,2021.11.26,1,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2855,C88,2782
+83,WCh 2021,Dubai UAE,2021.11.27,2,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2782,E06,2855
+84,WCh 2021,Dubai UAE,2021.11.28,3,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2855,C88,2782
+85,WCh 2021,Dubai UAE,2021.11.30,4,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2782,C42,2855
+86,WCh 2021,Dubai UAE,2021.12.01,5,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2855,C88,2782
+87,WCh 2021,Dubai UAE,2021.12.03,6,"Carlsen,M","Nepomniachtchi,I",1-0,2782,D02,2855
+88,WCh 2021,Dubai UAE,2021.12.04,7,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2855,C88,2782
+89,WCh 2021,Dubai UAE,2021.12.05,8,"Carlsen,M","Nepomniachtchi,I",1-0,2782,C43,2855
+90,WCh 2021,Dubai UAE,2021.12.07,9,"Nepomniachtchi,I","Carlsen,M",0-1,2855,A13,2782
+91,WCh 2021,Dubai UAE,2021.12.08,10,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2782,C42,2855
+92,WCh 2021,Dubai UAE,2021.12.10,11,"Nepomniachtchi,I","Carlsen,M",0-1,2855,C50,2782
+93,World Rapid 2021,Warsaw POL,2021.12.26,1.1,"Carlsen,M","Gagunashvili,M",1-0,2573,C77,2856
+94,World Rapid 2021,Warsaw POL,2021.12.26,2.1,"Ter Sahakyan,S","Carlsen,M",1/2-1/2,2856,C88,2637
+95,World Rapid 2021,Warsaw POL,2021.12.26,3.11,"Carlsen,M","Dreev,A",1-0,2623,D02,2856
+96,World Rapid 2021,Warsaw POL,2021.12.26,4.1,"Carlsen,M","Harsha,B",1-0,2489,B51,2856
+97,World Rapid 2021,Warsaw POL,2021.12.26,5.1,"Shirov,A","Carlsen,M",0-1,2856,C84,2704
+98,World Rapid 2021,Warsaw POL,2021.12.27,6.1,"Jobava,Ba","Carlsen,M",1/2-1/2,2856,D53,2588
+99,World Rapid 2021,Warsaw POL,2021.12.27,7.1,"Carlsen,M","Firouzja,Alireza",1-0,2804,B12,2856
+100,World Rapid 2021,Warsaw POL,2021.12.27,8.1,"Grischuk,A","Carlsen,M",1/2-1/2,2856,D36,2764
+101,World Rapid 2021,Warsaw POL,2021.12.27,9.1,"Carlsen,M","Duda,J",1-0,2760,B29,2856
+102,World Rapid 2021,Warsaw POL,2021.12.28,10.1,"Abdusattorov,Nodirbek","Carlsen,M",1-0,2856,A28,2633
+103,World Rapid 2021,Warsaw POL,2021.12.28,11.1,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2782,E06,2856
+104,World Rapid 2021,Warsaw POL,2021.12.28,12.1,"Carlsen,M","Aronian,L",1-0,2772,D27,2856
+105,World Rapid 2021,Warsaw POL,2021.12.28,13.1,"Nakamura,Hi","Carlsen,M",1/2-1/2,2856,D37,2736
+106,World Blitz 2021,Warsaw POL,2021.12.29,1.1,"Corrales Jimenez,F","Carlsen,M",0-1,2856,C45,2530
+107,World Blitz 2021,Warsaw POL,2021.12.29,2.1,"Carlsen,M","Sjugirov,S",1-0,2680,C65,2856
+108,World Blitz 2021,Warsaw POL,2021.12.29,3.1,"Indjic,A","Carlsen,M",0-1,2856,D37,2623
+109,World Blitz 2021,Warsaw POL,2021.12.29,4.1,"Carlsen,M","Sychev,K",1-0,2550,B40,2856
+110,World Blitz 2021,Warsaw POL,2021.12.29,5.1,"Socko,B","Carlsen,M",1-0,2856,E10,2642
+111,World Blitz 2021,Warsaw POL,2021.12.29,6.1,"Carlsen,M","Fedoseev,Vl3",0-1,2704,E10,2856
+112,World Blitz 2021,Warsaw POL,2021.12.29,7.1,"Predke,A","Carlsen,M",0-1,2856,D36,2682
+113,World Blitz 2021,Warsaw POL,2021.12.29,8.1,"Carlsen,M","Gelfand,B",1-0,2663,B23,2856
+114,World Blitz 2021,Warsaw POL,2021.12.29,9.1,"Mamedyarov,S","Carlsen,M",1-0,2856,A45,2767
+115,World Blitz 2021,Warsaw POL,2021.12.29,10.1,"Carlsen,M","Kobalia,M",1-0,2596,B12,2856
+116,World Blitz 2021,Warsaw POL,2021.12.29,11.1,"Sanal,V","Carlsen,M",0-1,2856,B06,2601
+117,World Blitz 2021,Warsaw POL,2021.12.29,12.1,"Carlsen,M","Erigaisi,Arjun",1/2-1/2,2629,C42,2856
+118,World Blitz 2021,Warsaw POL,2021.12.30,13.1,"Carlsen,M","Maghsoodloo,Parham",1-0,2701,C02,2856
+119,World Blitz 2021,Warsaw POL,2021.12.30,14.1,"Martirosyan,Haik M.","Carlsen,M",1/2-1/2,2856,D43,2621
+120,World Blitz 2021,Warsaw POL,2021.12.30,15.1,"Carlsen,M","Giri,A",0-1,2772,C65,2856
+121,World Blitz 2021,Warsaw POL,2021.12.30,16.1,"Grischuk,A","Carlsen,M",1-0,2856,E04,2764
+122,World Blitz 2021,Warsaw POL,2021.12.30,17.1,"Carlsen,M","Mastrovasilis,D",1-0,2627,B46,2856
+123,World Blitz 2021,Warsaw POL,2021.12.30,18.1,"Alekseenko,K","Carlsen,M",1/2-1/2,2856,C50,2702
+124,World Blitz 2021,Warsaw POL,2021.12.30,19.1,"Amin,B","Carlsen,M",0-1,2856,B30,2680
+125,World Blitz 2021,Warsaw POL,2021.12.30,20.1,"Carlsen,M","Nepomniachtchi,I",1-0,2782,A07,2856
+126,World Blitz 2021,Warsaw POL,2021.12.30,21.1,"Vachier Lagrave,M","Carlsen,M",1-0,2856,C88,2761
+127,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.15,1.1,"Esipenko,Andrey","Carlsen,M",1/2-1/2,2865,D45,2714
+128,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.16,2.1,"Carlsen,M","Giri,A",1-0,2772,E06,2865
+129,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.17,3.1,"Duda,J","Carlsen,M",1/2-1/2,2865,C88,2760
+130,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.18,4.1,"Carlsen,M","Van Foreest,Jorden",1/2-1/2,2702,D78,2865
+131,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.20,5.2,"Grandelius,N","Carlsen,M",1/2-1/2,2865,B48,2672
+132,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.21,6.1,"Carlsen,M","Rapport,R",1-0,2763,E04,2865
+133,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.22,7.1,"Praggnanandhaa,R","Carlsen,M",0-1,2865,D27,2612
+134,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.23,8.1,"Shankland,S","Carlsen,M",1/2-1/2,2865,D32,2708
+135,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.25,9.1,"Carlsen,M","Mamedyarov,S",1-0,2767,E04,2865
+136,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.28,11.1,"Carlsen,M","Vidit,S",1/2-1/2,2727,C50,2865
+137,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.29,12.1,"Caruana,F","Carlsen,M",0-1,2865,B31,2792
+138,TCh-NOR Elite 2021-22,Norway NOR,2022.02.05,5.4,"Carlsen,M","Ostmoe,G",1/2-1/2,2466,B10,2865
+139,Oslo Esports Cup 2022,Oslo NOR,2022.04.22,1.2,"Carlsen,M","Duda,J",1/2-1/2,2750,A00,2864
+140,Oslo Esports Cup 2022,Oslo NOR,2022.04.22,1.3,"Duda,J","Carlsen,M",0-1,2864,B11,2750
+141,Oslo Esports Cup 2022,Oslo NOR,2022.04.22,1.1,"Duda,J","Carlsen,M",0-1,2864,B42,2750
+142,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.4,"Le, Quang Liem","Carlsen,M",1-0,2864,A40,2709
+143,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.1,"Carlsen,M","Le, Quang Liem",0-1,2709,A06,2864
+144,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.2,"Le, Quang Liem","Carlsen,M",1/2-1/2,2864,D30,2709
+145,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.3,"Carlsen,M","Le, Quang Liem",1-0,2709,E10,2864
+146,Solidarity NOR-UKR Match,Tornelo INT,2022.04.23,1.1,"Ivanchuk,V","Carlsen,M",0-1,2864,D32,2678
+147,Solidarity NOR-UKR Match,Tornelo INT,2022.04.23,2.4,"Carlsen,M","Moiseenko,A1",1-0,2602,A20,2864
+148,Solidarity NOR-UKR Match,Tornelo INT,2022.04.23,3.3,"Kuzubov,Y","Carlsen,M",1-0,2864,D10,2639
+149,Solidarity NOR-UKR Match,Tornelo INT,2022.04.23,4.2,"Carlsen,M","Shevchenko,Kirill",0-1,2652,A50,2864
+150,Oslo Esports Cup 2022,Oslo NOR,2022.04.24,3.3,"Giri,A","Carlsen,M",0-1,2864,A79,2773
+151,Oslo Esports Cup 2022,Oslo NOR,2022.04.24,3.1,"Giri,A","Carlsen,M",1/2-1/2,2864,D31,2773
+152,Oslo Esports Cup 2022,Oslo NOR,2022.04.24,3.2,"Carlsen,M","Giri,A",1-0,2773,A29,2864
+153,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.3,"Carlsen,M","Praggnanandhaa,R",1-0,2624,A06,2864
+154,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.2,"Praggnanandhaa,R","Carlsen,M",0-1,2864,D41,2624
+155,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.1,"Carlsen,M","Praggnanandhaa,R",1-0,2624,B31,2864
+156,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.1,"Van Foreest,Jorden","Carlsen,M",1/2-1/2,2864,B12,2714
+157,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.4,"Carlsen,M","Van Foreest,Jorden",1/2-1/2,2714,A07,2864
+158,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.2,"Carlsen,M","Van Foreest,Jorden",0-1,2714,A20,2864
+159,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.3,"Van Foreest,Jorden","Carlsen,M",1/2-1/2,2864,C50,2714
+160,Oslo Esports Cup 2022,Oslo NOR,2022.04.27,6.1,"Carlsen,M","Hansen,Eric",1-0,2606,D85,2864
+161,Oslo Esports Cup 2022,Oslo NOR,2022.04.27,6.3,"Carlsen,M","Hansen,Eric",1-0,2606,D41,2864
+162,Oslo Esports Cup 2022,Oslo NOR,2022.04.27,6.2,"Hansen,Eric","Carlsen,M",1/2-1/2,2864,B40,2606
+163,Oslo Esports Cup 2022,Oslo NOR,2022.04.28,7.1,"Mamedyarov,S","Carlsen,M",1/2-1/2,2864,E60,2771
+164,Oslo Esports Cup 2022,Oslo NOR,2022.04.28,7.2,"Carlsen,M","Mamedyarov,S",0-1,2771,A21,2864
+165,Oslo Esports Cup 2022,Oslo NOR,2022.04.28,7.3,"Mamedyarov,S","Carlsen,M",1-0,2864,E61,2771
+166,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,1.1,"Radjabov,T","Carlsen,M",1/2-1/2,2864,D80,2753
+167,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,2.1,"Carlsen,M","Vachier Lagrave,M",1-0,2750,A20,2864
+168,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,3.1,"Giri,A","Carlsen,M",1/2-1/2,2864,E94,2761
+169,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,4.1,"Carlsen,M","Tari,A",1-0,2654,A45,2864
+170,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,5.1,Wang Hao,"Carlsen,M",0-1,2864,D45,2744
+171,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,6.1,"Carlsen,M","So,W",0-1,2776,A00,2864
+172,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,7.1,"Anand,V","Carlsen,M",1-0,2864,B06,2751
+173,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,8.1,"Carlsen,M","Topalov,V",1-0,2730,A45,2864
+174,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,9.1,"Mamedyarov,S","Carlsen,M",1/2-1/2,2864,E60,2759
+175,10th Norway Armageddon,Stavanger NOR,2022.05.31,1.1,"Carlsen,M",Wang Hao,1-0,2744,E06,2864
+176,10th Norway Chess 2022,Stavanger NOR,2022.05.31,1.1,"Carlsen,M",Wang Hao,1/2-1/2,2744,A07,2864
+177,10th Norway Chess 2022,Stavanger NOR,2022.06.01,2.1,"So,W","Carlsen,M",1/2-1/2,2864,D45,2776
+178,10th Norway Armageddon,Stavanger NOR,2022.06.01,2.1,"So,W","Carlsen,M",1-0,2864,C50,2776
+179,10th Norway Chess 2022,Stavanger NOR,2022.06.02,3.1,"Carlsen,M","Radjabov,T",1-0,2753,E06,2864
+180,10th Norway Chess 2022,Stavanger NOR,2022.06.03,4.1,"Carlsen,M","Giri,A",1-0,2761,D41,2864
+181,10th Norway Armageddon,Stavanger NOR,2022.06.05,5.1,"Anand,V","Carlsen,M",1-0,2864,C50,2751
+182,10th Norway Chess 2022,Stavanger NOR,2022.06.05,5.1,"Anand,V","Carlsen,M",1/2-1/2,2864,C55,2751
+183,10th Norway Chess 2022,Stavanger NOR,2022.06.06,6.1,"Carlsen,M","Mamedyarov,S",1-0,2759,D78,2864
+184,10th Norway Armageddon,Stavanger NOR,2022.06.07,7.1,"Tari,A","Carlsen,M",1-0,2864,B00,2654
+185,10th Norway Chess 2022,Stavanger NOR,2022.06.07,7.1,"Tari,A","Carlsen,M",1/2-1/2,2864,C47,2654
+186,10th Norway Chess 2022,Stavanger NOR,2022.06.09,8.1,"Carlsen,M","Vachier Lagrave,M",1/2-1/2,2750,D85,2864
+187,10th Norway Armageddon,Stavanger NOR,2022.06.09,8.1,"Carlsen,M","Vachier Lagrave,M",1-0,2750,D85,2864
+188,10th Norway Armageddon,Stavanger NOR,2022.06.10,9.1,"Topalov,V","Carlsen,M",1/2-1/2,2864,C50,2730
+189,10th Norway Chess 2022,Stavanger NOR,2022.06.10,9.1,"Topalov,V","Carlsen,M",1/2-1/2,2864,C50,2730
+190,SuperUnited Rapid 2022,Zagreb CRO,2022.07.20,1.3,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2766,D41,2864
+191,SuperUnited Rapid 2022,Zagreb CRO,2022.07.20,2.5,"Topalov,V","Carlsen,M",0-1,2864,B11,2728
+192,SuperUnited Rapid 2022,Zagreb CRO,2022.07.20,3.1,"Carlsen,M","Vachier Lagrave,M",1/2-1/2,2760,B23,2864
+193,SuperUnited Rapid 2022,Zagreb CRO,2022.07.21,4.5,"Carlsen,M","Firouzja,Alireza",1/2-1/2,2793,E06,2864
+194,SuperUnited Rapid 2022,Zagreb CRO,2022.07.21,5.2,"Mamedyarov,S","Carlsen,M",1-0,2864,D94,2759
+195,SuperUnited Rapid 2022,Zagreb CRO,2022.07.21,6.4,"Carlsen,M","Dominguez Perez,L",1/2-1/2,2754,A36,2864
+196,SuperUnited Rapid 2022,Zagreb CRO,2022.07.22,7.3,"So,W","Carlsen,M",1/2-1/2,2864,D10,2773
+197,SuperUnited Rapid 2022,Zagreb CRO,2022.07.22,8.3,"Carlsen,M","Van Foreest,Jorden",1-0,2678,A20,2864
+198,SuperUnited Rapid 2022,Zagreb CRO,2022.07.22,9.4,"Saric,Iv","Carlsen,M",0-1,2864,B42,2680
+199,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,1.5,"Carlsen,M","Van Foreest,Jorden",1-0,2678,C65,2864
+200,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,2.2,"Topalov,V","Carlsen,M",0-1,2864,C55,2728
+201,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,3.4,"Carlsen,M","So,W",0-1,2773,C53,2864
+202,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,4.3,"Dominguez Perez,L","Carlsen,M",1-0,2864,C88,2754
+203,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,5.3,"Carlsen,M","Vachier Lagrave,M",1-0,2760,B23,2864
+204,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,6.4,"Nepomniachtchi,I","Carlsen,M",0-1,2864,A05,2766
+205,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,7.2,"Carlsen,M","Mamedyarov,S",1-0,2759,D78,2864
+206,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,8.5,"Firouzja,Alireza","Carlsen,M",0-1,2864,D43,2793
+207,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,9.1,"Carlsen,M","Saric,Iv",1-0,2680,E60,2864
+208,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,10.5,"Van Foreest,Jorden","Carlsen,M",0-1,2864,C53,2678
+209,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,11.4,"Carlsen,M","Topalov,V",1/2-1/2,2728,B23,2864
+210,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,12.4,"So,W","Carlsen,M",1/2-1/2,2864,C47,2773
+211,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,13.3,"Carlsen,M","Dominguez Perez,L",1/2-1/2,2754,C42,2864
+212,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,14.1,"Vachier Lagrave,M","Carlsen,M",1/2-1/2,2864,C67,2760
+213,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,15.2,"Carlsen,M","Nepomniachtchi,I",1-0,2766,B23,2864
+214,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,16.3,"Mamedyarov,S","Carlsen,M",1/2-1/2,2864,D47,2759
+215,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,17.4,"Carlsen,M","Firouzja,Alireza",0-1,2793,D37,2864
+216,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,18.5,"Saric,Iv","Carlsen,M",1-0,2864,C87,2680
+217,44th Olympiad 2022,Chennai IND,2022.07.30,2.3,"Carlsen,M","Meier,Geo",1-0,2613,C10,2864
+218,44th Olympiad 2022,Chennai IND,2022.07.31,3.3,"Vocaturo,D","Carlsen,M",1/2-1/2,2864,B13,2616
+219,44th Olympiad 2022,Chennai IND,2022.08.01,4.13,"Carlsen,M","Batsuren,Dambasuren",1-0,2518,D38,2864
+220,44th Olympiad 2022,Chennai IND,2022.08.02,5.26,"Bwalya,Gillan","Carlsen,M",0-1,2864,E51,2396
+221,44th Olympiad 2022,Chennai IND,2022.08.03,6.14,"Smirnov,Ant","Carlsen,M",0-1,2864,B00,2600
+222,44th Olympiad 2022,Chennai IND,2022.08.05,7.28,"Carlsen,M","Stanojoski,Z",1-0,2412,D00,2864
+223,44th Olympiad 2022,Chennai IND,2022.08.06,8.17,"Carlsen,M","Pechac,Jergus",1/2-1/2,2594,A20,2864
+224,44th Olympiad 2022,Chennai IND,2022.08.07,9.18,"Megaranto,S","Carlsen,M",0-1,2864,E11,2529
+225,44th Olympiad 2022,Chennai IND,2022.08.08,10.11,"Carlsen,M","Schitco,Ivan",1/2-1/2,2490,A05,2864
+226,FTX Crypto Cup 2022,Miami USA,2022.08.15,1.1,"Giri,A","Carlsen,M",1/2-1/2,2864,B06,2760
+227,FTX Crypto Cup 2022,Miami USA,2022.08.15,1.4,"Carlsen,M","Giri,A",1-0,2760,A48,2864
+228,FTX Crypto Cup 2022,Miami USA,2022.08.15,1.2,"Carlsen,M","Giri,A",1/2-1/2,2760,B90,2864
+229,FTX Crypto Cup 2022,Miami USA,2022.08.15,1.3,"Giri,A","Carlsen,M",0-1,2864,C02,2760
+230,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.1,"Carlsen,M","Niemann,Hans Moke",0-1,2687,B31,2864
+231,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.2,"Niemann,Hans Moke","Carlsen,M",0-1,2864,C07,2687
+232,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.3,"Carlsen,M","Niemann,Hans Moke",1-0,2687,A00,2864
+233,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.4,"Niemann,Hans Moke","Carlsen,M",0-1,2864,B08,2687
+234,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.2,"Carlsen,M","Aronian,L",1/2-1/2,2775,E60,2864
+235,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.3,"Aronian,L","Carlsen,M",1/2-1/2,2864,D02,2775
+236,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.1,"Aronian,L","Carlsen,M",0-1,2864,A40,2775
+237,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.4,"Carlsen,M","Aronian,L",1/2-1/2,2775,E94,2864
+238,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.3,"Carlsen,M","Le,Quang Liem",1-0,2728,A07,2864
+239,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.2,"Le,Quang Liem","Carlsen,M",1/2-1/2,2864,E06,2728
+240,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.1,"Carlsen,M","Le,Quang Liem",1/2-1/2,2728,C44,2864
+241,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.4,"Le,Quang Liem","Carlsen,M",0-1,2864,D11,2728
+242,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.6,"Duda,J","Carlsen,M",1-0,2864,A45,2740
+243,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.1,"Duda,J","Carlsen,M",1-0,2864,E11,2740
+244,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.5,"Carlsen,M","Duda,J",0-1,2740,A01,2864
+245,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.4,"Carlsen,M","Duda,J",1-0,2740,D02,2864
+246,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.2,"Carlsen,M","Duda,J",0-1,2740,C65,2864
+247,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.2,"Carlsen,M","Firouzja,Alireza",1-0,2778,A15,2864
+248,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.3,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2864,B30,2778
+249,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.5,"Carlsen,M","Firouzja,Alireza",1-0,2778,A20,2864
+250,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.1,"Firouzja,Alireza","Carlsen,M",1-0,2864,B10,2778
+251,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.6,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2864,B30,2778
+252,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.4,"Carlsen,M","Firouzja,Alireza",1/2-1/2,2778,E04,2864
+253,FTX Crypto Cup 2022,Miami USA,2022.08.21,7.3,"Carlsen,M","Praggnanandhaa,R",1-0,2661,E04,2864
+254,FTX Crypto Cup 2022,Miami USA,2022.08.21,7.1,"Carlsen,M","Praggnanandhaa,R",1/2-1/2,2661,A08,2864
+255,FTX Crypto Cup 2022,Miami USA,2022.08.21,7.4,"Praggnanandhaa,R","Carlsen,M",1-0,2864,A40,2661
+256,FTX Crypto Cup 2022,Miami USA,2022.08.21,7.5,"Carlsen,M","Praggnanandhaa,R",0-1,2661,B23,2864
+257,FTX Crypto Cup 2022,Miami USA,2022.08.21,7.2,"Praggnanandhaa,R","Carlsen,M",1/2-1/2,2864,D38,2661
+258,FTX Crypto Cup 2022,Miami USA,2022.08.21,7.6,"Praggnanandhaa,R","Carlsen,M",1-0,2864,B06,2661

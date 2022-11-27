@@ -1,0 +1,303 @@
+,Event,Site,Date,Round,White,Black,Result,BlackElo,ECO,WhiteElo
+0,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.11,1.6,"Vitiugov,N","Duda,J",1/2-1/2,2758,B59,2747
+1,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.12,2.4,"Duda,J","Firouzja,Alireza",1/2-1/2,2723,D20,2758
+2,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.13,3.2,"Kovalev,Vl","Duda,J",1/2-1/2,2758,B51,2660
+3,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.14,4.3,"Dubov,Daniil","Duda,J",1/2-1/2,2758,E04,2683
+4,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.16,5.7,"Duda,J","Artemiev,V",1/2-1/2,2731,D45,2758
+5,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.17,6.4,"So,W","Duda,J",1/2-1/2,2758,E04,2765
+6,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.18,7.6,"Duda,J","Giri,A",1/2-1/2,2768,C89,2758
+7,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.19,8.3,Yu Yangyi,"Duda,J",0-1,2758,B35,2726
+8,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.21,9.7,"Duda,J","Xiong,Jeffery",1/2-1/2,2712,C50,2758
+9,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.22,10.4,"Van Foreest,Jorden","Duda,J",1/2-1/2,2758,B22,2644
+10,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.24,11.1,"Duda,J","Carlsen,M",1/2-1/2,2872,C53,2758
+11,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.25,12.5,"Caruana,F","Duda,J",1-0,2758,E06,2822
+12,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.26,13.3,"Duda,J","Anand,V",1/2-1/2,2758,A18,2758
+13,2nd Prague Masters 2019,Prague CZE,2020.02.12,1.5,"Navara,D","Duda,J",0-1,2755,B90,2717
+14,2nd Prague Masters 2019,Prague CZE,2020.02.13,2.4,"Harikrishna,P","Duda,J",1/2-1/2,2755,E00,2713
+15,2nd Prague Masters 2019,Prague CZE,2020.02.14,3.3,"Duda,J","Shankland,S",1/2-1/2,2683,B90,2755
+16,2nd Prague Masters 2019,Prague CZE,2020.02.15,4.4,"Anton Guijarro,D","Duda,J",1/2-1/2,2755,A15,2697
+17,2nd Prague Masters 2019,Prague CZE,2020.02.16,5.4,"Duda,J","Ragger,M",1/2-1/2,2670,C68,2755
+18,2nd Prague Masters 2020,Prague CZE,2020.02.18,6.3,"Grandelius,N","Duda,J",1/2-1/2,2755,B51,2659
+19,2nd Prague Masters 2020,Prague CZE,2020.02.19,7.4,"Duda,J","Firouzja,Alireza",0-1,2726,A11,2755
+20,2nd Prague Masters 2020,Prague CZE,2020.02.20,8.4,"Vitiugov,N","Duda,J",1/2-1/2,2755,D02,2731
+21,2nd Prague Masters 2020,Prague CZE,2020.02.21,9.5,"Duda,J","Vidit,S",1-0,2721,D38,2755
+22,TCh-POL Ekstraliga 2020,Warsaw POL,2020.08.31,6.1,"Kryvoruchko,Y","Duda,J",0-1,2753,B51,2682
+23,TCh-POL Ekstraliga 2020,Warsaw POL,2020.09.02,8.2,"Harikrishna,P","Duda,J",1/2-1/2,2753,E53,2732
+24,8th Norway Chess 2020,Stavanger NOR,2020.10.05,1.3,"Duda,J","Firouzja,Alireza",0-1,2728,B19,2757
+25,8th Norway Chess 2020,Stavanger NOR,2020.10.06,2.2,"Caruana,F","Duda,J",1-0,2757,D10,2828
+26,8th Norway Chess 2020,Stavanger NOR,2020.10.07,3.2,"Duda,J","Aronian,L",0-1,2767,C48,2757
+27,8th Norway Armageddon,Stavanger NOR,2020.10.08,4.3,"Tari,A","Duda,J",1-0,2757,B51,2633
+28,8th Norway Chess 2020,Stavanger NOR,2020.10.08,4.3,"Tari,A","Duda,J",1/2-1/2,2757,B23,2633
+29,8th Norway Chess 2020,Stavanger NOR,2020.10.10,5.1,"Duda,J","Carlsen,M",1-0,2863,B15,2757
+30,8th Norway Chess 2020,Stavanger NOR,2020.10.11,6.1,"Carlsen,M","Duda,J",1-0,2757,D10,2863
+31,8th Norway Chess 2020,Stavanger NOR,2020.10.12,7.3,"Duda,J","Tari,A",1-0,2633,C70,2757
+32,8th Norway Chess 2020,Stavanger NOR,2020.10.13,8.3,"Aronian,L","Duda,J",1/2-1/2,2757,B36,2767
+33,8th Norway Armageddon,Stavanger NOR,2020.10.13,8.3,"Aronian,L","Duda,J",0-1,2757,C10,2767
+34,8th Norway Chess 2020,Stavanger NOR,2020.10.15,9.3,"Duda,J","Caruana,F",1/2-1/2,2828,B48,2757
+35,8th Norway Armageddon,Stavanger NOR,2020.10.15,9.3,"Duda,J","Caruana,F",0-1,2828,A09,2757
+36,8th Norway Chess 2020,Stavanger NOR,2020.10.16,10.2,"Firouzja,Alireza","Duda,J",1-0,2757,D78,2728
+37,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.16,1.4,"Esipenko,Andrey","Duda,J",1/2-1/2,2743,C42,2677
+38,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.17,2.4,"Duda,J","Grandelius,N",0-1,2663,A30,2743
+39,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.18,3.4,"Caruana,F","Duda,J",1/2-1/2,2743,C42,2823
+40,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.19,4.3,"Duda,J","Giri,A",1/2-1/2,2764,D87,2743
+41,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.21,5.7,"Wojtaszek,R","Duda,J",1/2-1/2,2743,D41,2705
+42,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.22,6.1,"Duda,J","Carlsen,M",1/2-1/2,2862,C50,2743
+43,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.23,7.6,"Firouzja,Alireza","Duda,J",1-0,2743,D02,2749
+44,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.24,8.2,"Duda,J","Anton Guijarro,D",1/2-1/2,2679,C50,2743
+45,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.26,9.2,"Tari,A","Duda,J",1/2-1/2,2743,B51,2625
+46,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.27,10.6,"Duda,J","Van Foreest,Jorden",1/2-1/2,2671,E60,2743
+47,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.29,11.2,"Donchenko,Alexa","Duda,J",1/2-1/2,2743,D35,2668
+48,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.30,12.6,"Vachier Lagrave,M","Duda,J",1/2-1/2,2743,C42,2784
+49,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.31,13.7,"Duda,J","Harikrishna,P",1/2-1/2,2732,D45,2743
+50,3rd Prague Masters 2021,Prague CZE,2021.06.14,1.4,"Duda,J","Navara,D",1-0,2697,C65,2729
+51,3rd Prague Masters 2021,Prague CZE,2021.06.15,2.2,"Shankland,S","Duda,J",1-0,2729,B90,2691
+52,3rd Prague Masters 2021,Prague CZE,2021.06.16,3.1,"Duda,J","Abasov,N",1/2-1/2,2665,D35,2729
+53,3rd Prague Masters 2021,Prague CZE,2021.06.17,4.4,"Nguyen,Thai Dai Van","Duda,J",1/2-1/2,2729,E00,2577
+54,3rd Prague Masters 2021,Prague CZE,2021.06.18,5.3,"Duda,J","Van Foreest,Jorden",1-0,2701,C80,2729
+55,3rd Prague Masters 2021,Prague CZE,2021.06.19,6.4,"Grandelius,N","Duda,J",0-1,2729,C02,2670
+56,3rd Prague Masters 2021,Prague CZE,2021.06.20,7.4,"Duda,J","Wojtaszek,R",1-0,2687,C84,2729
+57,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.07,1.5,"Duda,J","Saric,Iv",1/2-1/2,2653,A45,2738
+58,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.07,2.2,"Giri,A","Duda,J",1/2-1/2,2738,B52,2776
+59,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.07,3.4,"Duda,J","Van Foreest,Jorden",1/2-1/2,2688,B12,2738
+60,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.08,4.3,"Vachier Lagrave,M","Duda,J",1-0,2738,B11,2749
+61,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.08,5.3,"Duda,J","Nepomniachtchi,I",1/2-1/2,2792,E49,2738
+62,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.08,6.4,"Mamedyarov,S","Duda,J",0-1,2738,D36,2782
+63,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.09,7.2,"Duda,J","Anand,V",1/2-1/2,2753,C65,2738
+64,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.09,8.5,"Grischuk,A","Duda,J",1/2-1/2,2738,B90,2778
+65,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.09,9.1,"Duda,J","Korobov,A",1-0,2683,E83,2738
+66,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,1.5,"Grischuk,A","Duda,J",1/2-1/2,2738,B12,2778
+67,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,2.1,"Anand,V","Duda,J",1-0,2738,B12,2753
+68,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,3.5,"Duda,J","Kasparov,G",1-0,2812,B96,2738
+69,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,4.2,"Korobov,A","Duda,J",0-1,2738,D10,2683
+70,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,5.4,"Duda,J","Mamedyarov,S",1-0,2782,D22,2738
+71,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,6.3,"Giri,A","Duda,J",1/2-1/2,2738,D10,2776
+72,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,7.3,"Duda,J","Vachier Lagrave,M",1/2-1/2,2749,D85,2738
+73,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,8.4,"Nepomniachtchi,I","Duda,J",1-0,2738,A13,2792
+74,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,9.2,"Duda,J","Van Foreest,Jorden",0-1,2688,C02,2738
+75,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,10.5,"Duda,J","Grischuk,A",0-1,2778,C53,2738
+76,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,11.1,"Duda,J","Anand,V",1/2-1/2,2753,A30,2738
+77,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,12.5,"Kasparov,G","Duda,J",0-1,2738,B92,2812
+78,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,13.2,"Duda,J","Korobov,A",1-0,2683,C14,2738
+79,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,14.4,"Mamedyarov,S","Duda,J",1-0,2738,D45,2782
+80,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,15.3,"Duda,J","Giri,A",1-0,2776,D00,2738
+81,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,16.3,"Vachier Lagrave,M","Duda,J",1-0,2738,B10,2749
+82,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,17.4,"Duda,J","Nepomniachtchi,I",1-0,2792,D38,2738
+83,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,18.2,"Van Foreest,Jorden","Duda,J",0-1,2738,B94,2688
+84,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.15,2.1,"Duda,J","Vazquez,Guillermo",1-0,2527,D38,2738
+85,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.16,2.2,"Vazquez,Guillermo","Duda,J",1/2-1/2,2738,B52,2527
+86,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.18,3.1,"Sevian,Samuel","Duda,J",1/2-1/2,2738,C43,2647
+87,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.19,3.2,"Duda,J","Sevian,Samuel",1-0,2647,E36,2738
+88,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.22,4.1,"Duda,J","Idani,P",1/2-1/2,2614,B90,2738
+89,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.23,4.2,"Idani,P","Duda,J",0-1,2738,C42,2614
+90,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.25,5.1,"Grischuk,A","Duda,J",1/2-1/2,2738,D37,2778
+91,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.26,5.2,"Duda,J","Grischuk,A",1/2-1/2,2778,D41,2738
+92,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.3,"Duda,J","Grischuk,A",1-0,2778,C65,2738
+93,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.4,"Grischuk,A","Duda,J",1/2-1/2,2738,A07,2778
+94,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.28,6.1,"Vidit,S","Duda,J",1/2-1/2,2738,E06,2726
+95,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.29,6.2,"Duda,J","Vidit,S",1-0,2726,C78,2738
+96,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.01,7.1,"Carlsen,M","Duda,J",1/2-1/2,2738,D37,2847
+97,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.02,7.2,"Duda,J","Carlsen,M",1/2-1/2,2847,C88,2738
+98,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.03,7.4,"Carlsen,M","Duda,J",0-1,2738,B52,2847
+99,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.03,7.3,"Duda,J","Carlsen,M",1/2-1/2,2847,C65,2738
+100,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.04,8.1,"Karjakin,Sergey","Duda,J",1/2-1/2,2738,D37,2757
+101,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.05,8.2,"Duda,J","Karjakin,Sergey",1-0,2757,D41,2738
+102,23rd European Teams,Terme Catez SLO,2021.11.12,1.4,"Duda,J","Hillarp Persson,T",1-0,2528,B90,2756
+103,23rd European Teams,Terme Catez SLO,2021.11.13,2.4,"Nabaty,T","Duda,J",1/2-1/2,2756,D02,2649
+104,23rd European Teams,Terme Catez SLO,2021.11.14,3.4,"Duda,J","Deac,Bogdan-Daniel",1/2-1/2,2651,E32,2756
+105,23rd European Teams,Terme Catez SLO,2021.11.15,4.2,"Grischuk,A","Duda,J",1/2-1/2,2756,C42,2773
+106,23rd European Teams,Terme Catez SLO,2021.11.18,6.6,"Navara,D","Duda,J",1/2-1/2,2756,B12,2699
+107,23rd European Teams,Terme Catez SLO,2021.11.19,7.6,"Duda,J","Nisipeanu,LD",1-0,2651,B40,2756
+108,23rd European Teams,Terme Catez SLO,2021.11.20,8.3,"Duda,J","Shirov,A",1/2-1/2,2673,C53,2756
+109,23rd European Teams,Terme Catez SLO,2021.11.21,9.4,"Jobava,Ba","Duda,J",0-1,2756,C15,2582
+110,Polish Supercup 2021,Bydgoszcz POL,2021.11.27,1,"Wojtaszek,R","Duda,J",1/2-1/2,2756,E07,2700
+111,Polish Supercup 2021,Bydgoszcz POL,2021.11.27,2,"Duda,J","Wojtaszek,R",0-1,2700,A07,2756
+112,Polish Supercup 2021,Bydgoszcz POL,2021.11.27,3,"Wojtaszek,R","Duda,J",0-1,2756,E06,2700
+113,Polish Supercup 2021,Bydgoszcz POL,2021.11.27,4,"Duda,J","Wojtaszek,R",1-0,2700,A29,2756
+114,Polish Supercup 2021,Bydgoszcz POL,2021.11.27,5,"Wojtaszek,R","Duda,J",0-1,2756,E06,2700
+115,Polish Supercup 2021,Bydgoszcz POL,2021.11.27,6,"Duda,J","Wojtaszek,R",1/2-1/2,2700,B90,2756
+116,European Blitz 2021,Katowice POL,2021.12.17,1.1,"Duda,J","Adamczyk,Zuzanna",1-0,2047,B10,2760
+117,European Blitz 2021,Katowice POL,2021.12.17,2.1,"Adamczyk,Zuzanna","Duda,J",0-1,2760,A62,2047
+118,European Blitz 2021,Katowice POL,2021.12.17,3.1,"Hasterok,Mateusz","Duda,J",0-1,2760,E20,2132
+119,European Blitz 2021,Katowice POL,2021.12.17,4.1,"Duda,J","Hasterok,Mateusz",1-0,2132,D37,2760
+120,European Blitz 2021,Katowice POL,2021.12.17,5.1,"Duda,J","Walter,Szymon",1-0,2286,B40,2760
+121,European Blitz 2021,Katowice POL,2021.12.17,6.1,"Walter,Szymon","Duda,J",0-1,2760,B23,2286
+122,European Blitz 2021,Katowice POL,2021.12.17,7.1,"Keinanen,Toivo","Duda,J",0-1,2760,A46,2468
+123,European Blitz 2021,Katowice POL,2021.12.17,8.1,"Duda,J","Keinanen,Toivo",1-0,2468,D31,2760
+124,European Blitz 2021,Katowice POL,2021.12.17,9.1,"Duda,J","Blohberger,Felix",1-0,2503,B90,2760
+125,European Blitz 2021,Katowice POL,2021.12.17,10.1,"Blohberger,Felix","Duda,J",1/2-1/2,2760,A46,2503
+126,European Blitz 2021,Katowice POL,2021.12.17,11.1,"Duda,J","Vetoshko,V",1-0,2501,D31,2760
+127,European Blitz 2021,Katowice POL,2021.12.17,12.1,"Vetoshko,V","Duda,J",0-1,2760,B92,2501
+128,European Blitz 2021,Katowice POL,2021.12.17,13.1,"Demchenko,A","Duda,J",0-1,2760,B29,2654
+129,European Blitz 2021,Katowice POL,2021.12.17,14.1,"Duda,J","Demchenko,A",1-0,2654,C75,2760
+130,European Blitz 2021,Katowice POL,2021.12.17,15.1,"Sadzikowski,D","Duda,J",1/2-1/2,2760,D43,2525
+131,European Blitz 2021,Katowice POL,2021.12.17,16.1,"Duda,J","Sadzikowski,D",1-0,2525,D30,2760
+132,European Blitz 2021,Katowice POL,2021.12.17,17.1,"Duda,J","Durarbayli,V",1-0,2615,C88,2760
+133,European Blitz 2021,Katowice POL,2021.12.17,18.1,"Durarbayli,V","Duda,J",1/2-1/2,2760,B20,2615
+134,European Blitz 2021,Katowice POL,2021.12.17,19.1,"Duda,J","Klekowski,M",0-1,2479,A46,2760
+135,European Blitz 2021,Katowice POL,2021.12.17,20.1,"Klekowski,M","Duda,J",1/2-1/2,2760,A17,2479
+136,European Blitz 2021,Katowice POL,2021.12.17,21.1,"Schneider,Il","Duda,J",0-1,2760,A45,2479
+137,European Blitz 2021,Katowice POL,2021.12.17,22.1,"Duda,J","Schneider,Il",0-1,2479,B00,2760
+138,World Rapid 2021,Warsaw POL,2021.12.26,1.3,"Duda,J","Gabuzyan,H",1-0,2589,A60,2760
+139,World Rapid 2021,Warsaw POL,2021.12.26,2.3,"Vakhidov,J","Duda,J",0-1,2760,A27,2552
+140,World Rapid 2021,Warsaw POL,2021.12.26,3.1,"Duda,J","Volokitin,And",1-0,2677,D38,2760
+141,World Rapid 2021,Warsaw POL,2021.12.26,4.2,"Alekseenko,K","Duda,J",0-1,2760,C77,2702
+142,World Rapid 2021,Warsaw POL,2021.12.26,5.2,"Duda,J","Jobava,Ba",1/2-1/2,2588,D25,2760
+143,World Rapid 2021,Warsaw POL,2021.12.27,6.2,"Nepomniachtchi,I","Duda,J",1-0,2760,C88,2782
+144,World Rapid 2021,Warsaw POL,2021.12.27,7.6,"Duda,J","Hovhannisyan,R",1-0,2643,D11,2760
+145,World Rapid 2021,Warsaw POL,2021.12.27,8.2,"Duda,J","Movsesian,S",1-0,2608,D12,2760
+146,World Rapid 2021,Warsaw POL,2021.12.27,9.1,"Carlsen,M","Duda,J",1-0,2760,B29,2856
+147,World Rapid 2021,Warsaw POL,2021.12.28,10.4,"Duda,J","Cheparinov,I",1/2-1/2,2664,D37,2760
+148,World Rapid 2021,Warsaw POL,2021.12.28,11.3,"Caruana,F","Duda,J",1/2-1/2,2760,E32,2792
+149,World Rapid 2021,Warsaw POL,2021.12.28,12.5,"Duda,J","Salem,AR",1-0,2690,D35,2760
+150,World Rapid 2021,Warsaw POL,2021.12.28,13.3,"Abdusattorov,Nodirbek","Duda,J",1/2-1/2,2760,A18,2633
+151,World Blitz 2021,Warsaw POL,2021.12.29,1.6,"Duda,J","Chigaev,M",1-0,2632,E94,2760
+152,World Blitz 2021,Warsaw POL,2021.12.29,2.2,"Demidov,M","Duda,J",1-0,2760,A05,2556
+153,World Blitz 2021,Warsaw POL,2021.12.29,3.31,"Duda,J","Krasenkow,M",1-0,2576,A21,2760
+154,World Blitz 2021,Warsaw POL,2021.12.29,4.17,"Petrosian,TL","Duda,J",1/2-1/2,2760,A05,2573
+155,World Blitz 2021,Warsaw POL,2021.12.29,5.17,"Duda,J","Tang,Andrew",1-0,2519,C60,2760
+156,World Blitz 2021,Warsaw POL,2021.12.29,6.9,"Ter Sahakyan,S","Duda,J",0-1,2760,C88,2637
+157,World Blitz 2021,Warsaw POL,2021.12.29,7.6,"Vidit,S","Duda,J",0-1,2760,E60,2727
+158,World Blitz 2021,Warsaw POL,2021.12.29,8.4,"Duda,J","Ivic,Velimir",1-0,2606,B31,2760
+159,World Blitz 2021,Warsaw POL,2021.12.29,9.3,"Duda,J","Aronian,L",0-1,2772,A18,2760
+160,World Blitz 2021,Warsaw POL,2021.12.29,10.5,"Amin,B","Duda,J",1/2-1/2,2760,A05,2680
+161,World Blitz 2021,Warsaw POL,2021.12.29,11.6,"Duda,J","Socko,B",1-0,2642,A13,2760
+162,World Blitz 2021,Warsaw POL,2021.12.29,12.5,"Maghsoodloo,Parham","Duda,J",1-0,2760,E43,2701
+163,World Blitz TB 2021,Warsaw POL,2021.12.30,1,"Vachier Lagrave,M","Duda,J",1/2-1/2,2760,C84,2761
+164,World Blitz TB 2021,Warsaw POL,2021.12.30,2,"Duda,J","Vachier Lagrave,M",1/2-1/2,2761,D27,2760
+165,World Blitz TB 2021,Warsaw POL,2021.12.30,3,"Vachier Lagrave,M","Duda,J",1-0,2760,C84,2761
+166,World Blitz 2021,Warsaw POL,2021.12.30,13.8,"Duda,J","Martirosyan,Haik M.",0-1,2621,A29,2760
+167,World Blitz 2021,Warsaw POL,2021.12.30,14.13,"Durarbayli,V","Duda,J",0-1,2760,C28,2615
+168,World Blitz 2021,Warsaw POL,2021.12.30,15.10,"Duda,J","Karjakin,Sergey",1-0,2743,A13,2760
+169,World Blitz 2021,Warsaw POL,2021.12.30,16.6,"Fedoseev,Vl3","Duda,J",0-1,2760,D80,2704
+170,World Blitz 2021,Warsaw POL,2021.12.30,17.5,"Duda,J","Kravtsiv,M",1-0,2604,A09,2760
+171,World Blitz 2021,Warsaw POL,2021.12.30,18.3,"Duda,J","Dubov,Daniil",0-1,2720,B50,2760
+172,World Blitz 2021,Warsaw POL,2021.12.30,19.6,"Oparin,G","Duda,J",0-1,2760,A05,2681
+173,World Blitz 2021,Warsaw POL,2021.12.30,20.4,"Alekseenko,K","Duda,J",0-1,2760,C85,2702
+174,World Blitz 2021,Warsaw POL,2021.12.30,21.2,"Duda,J","Artemiev,V",1-0,2700,D37,2760
+175,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.15,1.5,"Duda,J","Rapport,R",1-0,2763,D02,2760
+176,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.16,2.3,"Praggnanandhaa,R","Duda,J",1/2-1/2,2760,D41,2612
+177,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.17,3.1,"Duda,J","Carlsen,M",1/2-1/2,2865,C88,2760
+178,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.18,4.3,"Mamedyarov,S","Duda,J",1-0,2760,D41,2767
+179,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.20,5.6,"Duda,J","Karjakin,Sergey",1/2-1/2,2743,D20,2760
+180,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.21,6.2,"Vidit,S","Duda,J",1/2-1/2,2760,D41,2727
+181,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.22,7.5,"Duda,J","Caruana,F",0-1,2792,D02,2760
+182,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.23,8.7,"Dubov,Daniil","Duda,J",1/2-1/2,2760,E04,2720
+183,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.25,9.4,"Duda,J","Esipenko,Andrey",1/2-1/2,2714,E00,2760
+184,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.26,10.2,"Giri,A","Duda,J",1/2-1/2,2760,A18,2772
+185,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.28,11.6,"Duda,J","Shankland,S",1/2-1/2,2708,D02,2760
+186,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.29,12.6,"Duda,J","Van Foreest,Jorden",1/2-1/2,2702,D43,2760
+187,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.30,13.6,"Grandelius,N","Duda,J",1/2-1/2,2760,B66,2672
+188,Oslo Esports Cup 2022,Oslo NOR,2022.04.22,1.1,"Duda,J","Carlsen,M",0-1,2864,B42,2750
+189,Oslo Esports Cup 2022,Oslo NOR,2022.04.22,1.2,"Carlsen,M","Duda,J",1/2-1/2,2750,A00,2864
+190,Oslo Esports Cup 2022,Oslo NOR,2022.04.22,1.3,"Duda,J","Carlsen,M",0-1,2864,B11,2750
+191,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.3,"Duda,J","Giri,A",1/2-1/2,2773,D85,2750
+192,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.5,"Duda,J","Giri,A",1-0,2773,A48,2750
+193,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.6,"Giri,A","Duda,J",0-1,2750,A13,2773
+194,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.1,"Duda,J","Giri,A",1/2-1/2,2773,A48,2750
+195,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.2,"Giri,A","Duda,J",1/2-1/2,2750,D91,2773
+196,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.4,"Giri,A","Duda,J",1/2-1/2,2750,D85,2773
+197,Oslo Esports Cup 2022,Oslo NOR,2022.04.24,3.3,"Van Foreest,Jorden","Duda,J",0-1,2750,C50,2714
+198,Oslo Esports Cup 2022,Oslo NOR,2022.04.24,3.2,"Duda,J","Van Foreest,Jorden",1/2-1/2,2714,D12,2750
+199,Oslo Esports Cup 2022,Oslo NOR,2022.04.24,3.1,"Van Foreest,Jorden","Duda,J",0-1,2750,C49,2714
+200,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.3,"Duda,J","Mamedyarov,S",0-1,2771,D38,2750
+201,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.2,"Mamedyarov,S","Duda,J",1/2-1/2,2750,E60,2771
+202,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.4,"Mamedyarov,S","Duda,J",1/2-1/2,2750,D94,2771
+203,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.5,"Mamedyarov,S","Duda,J",0-1,2750,E60,2771
+204,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.6,"Duda,J","Mamedyarov,S",1-0,2771,D45,2750
+205,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.1,"Duda,J","Mamedyarov,S",1-0,2771,D38,2750
+206,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.6,"Duda,J","Le, Quang Liem",0-1,2709,A35,2750
+207,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.5,"Le, Quang Liem","Duda,J",1-0,2750,E12,2709
+208,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.4,"Duda,J","Le, Quang Liem",1/2-1/2,2709,A13,2750
+209,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.3,"Le, Quang Liem","Duda,J",1/2-1/2,2750,D85,2709
+210,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.2,"Duda,J","Le, Quang Liem",1-0,2709,A13,2750
+211,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.1,"Le, Quang Liem","Duda,J",1-0,2750,D85,2709
+212,Oslo Esports Cup 2022,Oslo NOR,2022.04.27,6.2,"Praggnanandhaa,R","Duda,J",0-1,2750,D87,2624
+213,Oslo Esports Cup 2022,Oslo NOR,2022.04.27,6.3,"Duda,J","Praggnanandhaa,R",1/2-1/2,2624,A21,2750
+214,Oslo Esports Cup 2022,Oslo NOR,2022.04.27,6.1,"Duda,J","Praggnanandhaa,R",1-0,2624,A20,2750
+215,Oslo Esports Cup 2022,Oslo NOR,2022.04.28,7.2,"Duda,J","Hansen,Eric",1-0,2606,C65,2750
+216,Oslo Esports Cup 2022,Oslo NOR,2022.04.28,7.3,"Hansen,Eric","Duda,J",1/2-1/2,2750,C65,2606
+217,Oslo Esports Cup 2022,Oslo NOR,2022.04.28,7.1,"Hansen,Eric","Duda,J",0-1,2750,C65,2606
+218,Superbet Rapid 2022,Warsaw POL,2022.05.19,1.5,"Duda,J","Gavrilescu,David",1-0,2518,C11,2750
+219,Superbet Rapid 2022,Warsaw POL,2022.05.19,2.2,"Caruana,F","Duda,J",1-0,2750,D35,2786
+220,Superbet Rapid 2022,Warsaw POL,2022.05.19,3.4,"Duda,J","Rapport,R",1-0,2776,E98,2750
+221,Superbet Rapid 2022,Warsaw POL,2022.05.20,4.3,"Wojtaszek,R","Duda,J",0-1,2750,B06,2696
+222,Superbet Rapid 2022,Warsaw POL,2022.05.20,5.3,"Duda,J","So,W",0-1,2776,C65,2750
+223,Superbet Rapid 2022,Warsaw POL,2022.05.20,6.4,"Anand,V","Duda,J",1/2-1/2,2750,C02,2751
+224,Superbet Rapid 2022,Warsaw POL,2022.05.21,7.2,"Duda,J","Shevchenko,Kirill",1/2-1/2,2644,D12,2750
+225,Superbet Rapid 2022,Warsaw POL,2022.05.21,8.5,"Aronian,L","Duda,J",0-1,2750,C24,2765
+226,Superbet Rapid 2022,Warsaw POL,2022.05.21,9.1,"Duda,J","Korobov,A",1-0,2671,E71,2750
+227,Superbet Blitz 2022,Warsaw POL,2022.05.22,1.3,"Anand,V","Duda,J",1-0,2750,C65,2751
+228,Superbet Blitz 2022,Warsaw POL,2022.05.22,2.3,"Duda,J","So,W",0-1,2776,C65,2750
+229,Superbet Blitz 2022,Warsaw POL,2022.05.22,3.4,"Caruana,F","Duda,J",1/2-1/2,2750,C67,2786
+230,Superbet Blitz 2022,Warsaw POL,2022.05.22,4.2,"Duda,J","Rapport,R",1/2-1/2,2776,A61,2750
+231,Superbet Blitz 2022,Warsaw POL,2022.05.22,5.5,"Wojtaszek,R","Duda,J",0-1,2750,E60,2696
+232,Superbet Blitz 2022,Warsaw POL,2022.05.22,6.1,"Aronian,L","Duda,J",1/2-1/2,2750,C50,2765
+233,Superbet Blitz 2022,Warsaw POL,2022.05.22,7.5,"Duda,J","Korobov,A",1-0,2671,E12,2750
+234,Superbet Blitz 2022,Warsaw POL,2022.05.22,8.2,"Gavrilescu,David","Duda,J",0-1,2750,B29,2518
+235,Superbet Blitz 2022,Warsaw POL,2022.05.22,9.4,"Duda,J","Shevchenko,Kirill",1-0,2644,D12,2750
+236,Superbet Blitz 2022,Warsaw POL,2022.05.23,10.3,"Duda,J","Anand,V",1-0,2751,C43,2750
+237,Superbet Blitz 2022,Warsaw POL,2022.05.23,11.3,"So,W","Duda,J",0-1,2750,A25,2776
+238,Superbet Blitz 2022,Warsaw POL,2022.05.23,12.4,"Duda,J","Caruana,F",0-1,2786,A21,2750
+239,Superbet Blitz 2022,Warsaw POL,2022.05.23,13.2,"Rapport,R","Duda,J",0-1,2750,C46,2776
+240,Superbet Blitz 2022,Warsaw POL,2022.05.23,14.5,"Duda,J","Wojtaszek,R",1-0,2696,B23,2750
+241,Superbet Blitz 2022,Warsaw POL,2022.05.23,15.1,"Duda,J","Aronian,L",1/2-1/2,2765,A13,2750
+242,Superbet Blitz 2022,Warsaw POL,2022.05.23,16.5,"Korobov,A","Duda,J",1-0,2750,A33,2671
+243,Superbet Blitz 2022,Warsaw POL,2022.05.23,17.2,"Duda,J","Gavrilescu,David",1-0,2518,D50,2750
+244,Superbet Blitz 2022,Warsaw POL,2022.05.23,18.4,"Shevchenko,Kirill","Duda,J",0-1,2750,C02,2644
+245,FIDE Candidates 2022,Madrid ESP,2022.06.17,1.1,"Duda,J","Rapport,R",1/2-1/2,2764,B44,2750
+246,FIDE Candidates 2022,Madrid ESP,2022.06.18,2.4,"Duda,J",Ding Liren,1/2-1/2,2806,C50,2750
+247,FIDE Candidates 2022,Madrid ESP,2022.06.19,3.2,"Caruana,F","Duda,J",1/2-1/2,2750,B90,2783
+248,FIDE Candidates 2022,Madrid ESP,2022.06.21,4.3,"Duda,J","Radjabov,T",1/2-1/2,2753,C65,2750
+249,FIDE Candidates 2022,Madrid ESP,2022.06.22,5.3,"Firouzja,Alireza","Duda,J",1/2-1/2,2750,C42,2793
+250,FIDE Candidates 2022,Madrid ESP,2022.06.23,6.4,"Nepomniachtchi,I","Duda,J",1-0,2750,A07,2766
+251,FIDE Candidates 2022,Madrid ESP,2022.06.25,7.2,"Duda,J","Nakamura,Hi",1/2-1/2,2760,E47,2750
+252,FIDE Candidates 2022,Madrid ESP,2022.06.26,8.1,"Rapport,R","Duda,J",1-0,2750,C46,2764
+253,FIDE Candidates 2022,Madrid ESP,2022.06.27,9.4,Ding Liren,"Duda,J",1-0,2750,A13,2806
+254,FIDE Candidates 2022,Madrid ESP,2022.06.29,10.2,"Duda,J","Caruana,F",1-0,2783,C53,2750
+255,FIDE Candidates 2022,Madrid ESP,2022.06.30,11.3,"Radjabov,T","Duda,J",1/2-1/2,2750,A15,2753
+256,FIDE Candidates 2022,Madrid ESP,2022.07.01,12.3,"Duda,J","Firouzja,Alireza",1/2-1/2,2793,D45,2750
+257,FIDE Candidates 2022,Madrid ESP,2022.07.03,13.2,"Nakamura,Hi","Duda,J",1-0,2750,B90,2760
+258,FIDE Candidates 2022,Madrid ESP,2022.07.04,14.4,"Duda,J","Nepomniachtchi,I",1/2-1/2,2766,C43,2750
+259,Duda-Ivanchuk Help UKR m,Europe-Echecs INT,2022.07.20,1,"Ivanchuk,V","Duda,J",0-1,2750,C19,2678
+260,Duda-Ivanchuk Help UKR m,Europe-Echecs INT,2022.07.20,2,"Duda,J","Ivanchuk,V",1-0,2678,C50,2750
+261,Duda-Ivanchuk Help UKR m,Europe-Echecs INT,2022.07.20,3,"Ivanchuk,V","Duda,J",0-1,2750,B15,2678
+262,Duda-Ivanchuk Help UKR m,Europe-Echecs INT,2022.07.20,4,"Duda,J","Ivanchuk,V",1-0,2678,D37,2750
+263,Duda-Ivanchuk Help UKR m,Europe-Echecs INT,2022.07.20,5,"Ivanchuk,V","Duda,J",0-1,2750,C42,2678
+264,Duda-Ivanchuk Help UKR m,Europe-Echecs INT,2022.07.20,6,"Duda,J","Ivanchuk,V",0-1,2678,A80,2750
+265,Duda-Ivanchuk Help UKR m,Europe-Echecs INT,2022.07.20,7,"Ivanchuk,V","Duda,J",0-1,2750,C33,2678
+266,Duda-Ivanchuk Help UKR m,Europe-Echecs INT,2022.07.20,8,"Duda,J","Ivanchuk,V",1-0,2678,A43,2750
+267,44th Olympiad 2022,Chennai IND,2022.07.31,3.5,"Smirnov,Ant","Duda,J",0-1,2750,D45,2600
+268,44th Olympiad 2022,Chennai IND,2022.08.01,4.4,"Duda,J","Deac,Bogdan-Daniel",1/2-1/2,2692,E06,2750
+269,44th Olympiad 2022,Chennai IND,2022.08.02,5.5,"Moussard,J","Duda,J",1/2-1/2,2750,C65,2672
+270,44th Olympiad 2022,Chennai IND,2022.08.03,6.5,"Duda,J","Indjic,A",1/2-1/2,2620,A77,2750
+271,44th Olympiad 2022,Chennai IND,2022.08.05,7.13,"Duda,J","Paragua,M",0-1,2461,B90,2750
+272,FTX Crypto Cup 2022,Miami USA,2022.08.15,1.1,"Niemann,Hans Moke","Duda,J",1-0,2740,E60,2687
+273,FTX Crypto Cup 2022,Miami USA,2022.08.15,1.3,"Niemann,Hans Moke","Duda,J",0-1,2740,D00,2687
+274,FTX Crypto Cup 2022,Miami USA,2022.08.15,1.2,"Duda,J","Niemann,Hans Moke",1-0,2687,B33,2740
+275,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.1,"Duda,J","Aronian,L",0-1,2775,C55,2740
+276,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.4,"Aronian,L","Duda,J",1/2-1/2,2740,D02,2775
+277,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.3,"Duda,J","Aronian,L",1/2-1/2,2775,C55,2740
+278,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.6,"Aronian,L","Duda,J",1-0,2740,A13,2775
+279,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.5,"Duda,J","Aronian,L",1/2-1/2,2775,C44,2740
+280,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.2,"Aronian,L","Duda,J",0-1,2740,D31,2775
+281,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.2,"Duda,J","Le,Quang Liem",0-1,2728,C50,2740
+282,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.1,"Le,Quang Liem","Duda,J",1-0,2740,A13,2728
+283,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.3,"Le,Quang Liem","Duda,J",1/2-1/2,2740,D37,2728
+284,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.3,"Firouzja,Alireza","Duda,J",1-0,2740,E53,2778
+285,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.2,"Duda,J","Firouzja,Alireza",1-0,2778,D41,2740
+286,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.1,"Firouzja,Alireza","Duda,J",1-0,2740,C65,2778
+287,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.4,"Duda,J","Firouzja,Alireza",1/2-1/2,2778,A18,2740
+288,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.1,"Duda,J","Carlsen,M",1-0,2864,E11,2740
+289,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.6,"Duda,J","Carlsen,M",1-0,2864,A45,2740
+290,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.5,"Carlsen,M","Duda,J",0-1,2740,A01,2864
+291,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.4,"Carlsen,M","Duda,J",1-0,2740,D02,2864
+292,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.2,"Carlsen,M","Duda,J",0-1,2740,C65,2864
+293,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.1,"Praggnanandhaa,R","Duda,J",0-1,2740,A07,2661
+294,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.2,"Duda,J","Praggnanandhaa,R",1/2-1/2,2661,D41,2740
+295,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.3,"Praggnanandhaa,R","Duda,J",1/2-1/2,2740,A07,2661
+296,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.4,"Duda,J","Praggnanandhaa,R",0-1,2661,A22,2740
+297,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.6,"Duda,J","Praggnanandhaa,R",1-0,2661,A45,2740
+298,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.5,"Praggnanandhaa,R","Duda,J",0-1,2740,A07,2661
+299,FTX Crypto Cup 2022,Miami USA,2022.08.21,7.1,"Duda,J","Giri,A",1-0,2760,C67,2740
+300,FTX Crypto Cup 2022,Miami USA,2022.08.21,7.3,"Duda,J","Giri,A",1/2-1/2,2760,B51,2740
+301,?,?,????.??.??,?,?,?,0-1,,,

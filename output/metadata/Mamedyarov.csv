@@ -1,0 +1,335 @@
+,Event,Site,Date,Round,White,Black,Result,BlackElo,ECO,WhiteElo
+0,Gibraltar Masters 2020,Caleta ENG,2020.01.21,1.1,"Mullick,Raahil","Mamedyarov,S",0-1,2770,C60,2382
+1,Gibraltar Masters 2020,Caleta ENG,2020.01.22,2.1,"Mamedyarov,S","Gordon,S",1-0,2504,D38,2770
+2,Gibraltar Masters 2020,Caleta ENG,2020.01.23,3.1,"Moussard,J","Mamedyarov,S",1/2-1/2,2770,C81,2600
+3,Gibraltar Masters 2020,Caleta ENG,2020.01.24,4.3,"Mamedyarov,S","Krysa,L",1/2-1/2,2522,D37,2770
+4,Gibraltar Masters 2020,Caleta ENG,2020.01.25,5.7,"Peralta,Fe","Mamedyarov,S",1/2-1/2,2770,D86,2574
+5,Gibraltar Masters 2020,Caleta ENG,2020.01.26,6.8,"Mamedyarov,S","Aryan,C",1/2-1/2,2562,D85,2770
+6,Gibraltar Masters 2020,Caleta ENG,2020.01.27,7.12,"Mamedyarov,S","Muzychuk,A",1-0,2539,A35,2770
+7,World Stars Sharjah Int,ICC INT,2020.06.12,1.3,"Wojtaszek,R","Mamedyarov,S",1/2-1/2,2764,D27,2719
+8,World Stars Sharjah Int,ICC INT,2020.06.12,2.2,"Mamedyarov,S","Kasimdzhanov,R",1-0,2661,D45,2764
+9,World Stars Sharjah Int,ICC INT,2020.06.12,3.3,"Harikrishna,P","Mamedyarov,S",0-1,2764,C77,2719
+10,World Stars Sharjah Int,ICC INT,2020.06.12,4.1,"Amin,B","Mamedyarov,S",1/2-1/2,2764,C50,2686
+11,World Stars Sharjah Int,ICC INT,2020.06.12,5.1,"Mamedyarov,S","Salem,AR",1-0,2682,D73,2764
+12,World Stars Sharjah Int,ICC INT,2020.06.13,6.3,"Mamedyarov,S","Wojtaszek,R",1/2-1/2,2719,A28,2764
+13,World Stars Sharjah Int,ICC INT,2020.06.13,7.2,"Kasimdzhanov,R","Mamedyarov,S",1/2-1/2,2764,C81,2661
+14,World Stars Sharjah Int,ICC INT,2020.06.13,8.1,"Mamedyarov,S","Harikrishna,P",1/2-1/2,2719,D31,2764
+15,World Stars Sharjah Int,ICC INT,2020.06.13,9.1,"Mamedyarov,S","Amin,B",1-0,2686,C25,2764
+16,World Stars Sharjah Int,ICC INT,2020.06.13,10.2,"Salem,AR","Mamedyarov,S",0-1,2764,D24,2682
+17,Grandmaster Battle 2 2020,PlayChess INT,2020.07.07,1,"Sanal,V","Mamedyarov,S",1-0,2764,C09,2581
+18,Grandmaster Battle 2 2020,PlayChess INT,2020.07.07,2,"Mamedyarov,S","Sanal,V",1-0,2581,D30,2764
+19,Grandmaster Battle 2 2020,PlayChess INT,2020.07.07,3,"Sanal,V","Mamedyarov,S",0-1,2764,C43,2581
+20,Grandmaster Battle 2 2020,PlayChess INT,2020.07.07,4,"Mamedyarov,S","Sanal,V",1/2-1/2,2581,D30,2764
+21,Grandmaster Battle 2 2020,PlayChess INT,2020.07.08,5,"Sanal,V","Mamedyarov,S",0-1,2764,B33,2581
+22,Grandmaster Battle 2 2020,PlayChess INT,2020.07.08,6,"Mamedyarov,S","Sanal,V",0-1,2581,D30,2764
+23,Grandmaster Battle 2 2020,PlayChess INT,2020.07.08,7,"Sanal,V","Mamedyarov,S",1/2-1/2,2764,B33,2581
+24,Grandmaster Battle 2 2020,PlayChess INT,2020.07.08,8,"Mamedyarov,S","Sanal,V",0-1,2581,D30,2764
+25,Grandmaster Battle 2 2020,PlayChess INT,2020.07.09,9,"Sanal,V","Mamedyarov,S",0-1,2764,B45,2581
+26,Grandmaster Battle 2 2020,PlayChess INT,2020.07.09,10,"Mamedyarov,S","Sanal,V",1/2-1/2,2581,D02,2764
+27,Grandmaster Battle 2 2020,PlayChess INT,2020.07.09,11,"Sanal,V","Mamedyarov,S",0-1,2764,B45,2581
+28,Grandmaster Battle 2 2020,PlayChess INT,2020.07.09,12,"Mamedyarov,S","Sanal,V",1-0,2581,A41,2764
+29,Grandmaster Battle 2 2020,PlayChess INT,2020.07.10,13,"Sanal,V","Mamedyarov,S",1/2-1/2,2764,C47,2581
+30,Grandmaster Battle 2 2020,PlayChess INT,2020.07.10,14,"Mamedyarov,S","Sanal,V",1/2-1/2,2581,D02,2764
+31,Grandmaster Battle 2 2020,PlayChess INT,2020.07.10,15,"Sanal,V","Mamedyarov,S",1/2-1/2,2764,B01,2581
+32,Grandmaster Battle 2 2020,PlayChess INT,2020.07.10,16,"Mamedyarov,S","Sanal,V",0-1,2581,C41,2764
+33,Ville d'Orsay On/L Blitz,Europe-Echecs INT,2021.02.07,1,"Mamedyarov,S","Aggoune,L",1-0,1722,A25,2770
+34,Ville d'Orsay On/L Blitz,Europe-Echecs INT,2021.02.07,2,"Frantz,Nicolas","Mamedyarov,S",0-1,2770,B53,2140
+35,Ville d'Orsay On/L Blitz,Europe-Echecs INT,2021.02.07,3,"Mamedyarov,S","Haub,TM",1/2-1/2,2426,A40,2770
+36,Ville d'Orsay On/L Blitz,Europe-Echecs INT,2021.02.07,4,"Baskin,R","Mamedyarov,S",0-1,2770,D06,2390
+37,Ville d'Orsay On/L Blitz,Europe-Echecs INT,2021.02.07,5,"Mamedyarov,S","Shchekachev,A",1-0,2515,E61,2770
+38,Ville d'Orsay On/L Blitz,Europe-Echecs INT,2021.02.07,6,"Murzin,Volodar","Mamedyarov,S",0-1,2770,C60,2478
+39,Ville d'Orsay On/L Blitz,Europe-Echecs INT,2021.02.07,7,"Mamedyarov,S","Lobanov,Sergei",1-0,2516,D37,2770
+40,Ville d'Orsay On/L Blitz,Europe-Echecs INT,2021.02.07,8,"Mamedyarov,S","Jobava,Ba",0-1,2603,D16,2770
+41,Ville d'Orsay On/L Blitz,Europe-Echecs INT,2021.02.07,9,"Sarana,A","Mamedyarov,S",1/2-1/2,2770,D06,2649
+42,Ville d'Orsay On/L Blitz,Europe-Echecs INT,2021.02.07,10,"Guliyev,N","Mamedyarov,S",1/2-1/2,2770,B29,2538
+43,Ville d'Orsay On/L Blitz,Europe-Echecs INT,2021.02.07,11,"Mamedyarov,S","Tilicheev,V",0-1,2503,D45,2770
+44,Superbet Classic 2021,Bucharest ROU,2021.06.05,1.2,"Mamedyarov,S","So,W",1/2-1/2,2770,D27,2770
+45,Superbet Classic 2021,Bucharest ROU,2021.06.06,2.4,"Mamedyarov,S","Grischuk,A",1/2-1/2,2776,A33,2770
+46,Superbet Classic 2021,Bucharest ROU,2021.06.07,3.2,"Deac,Bogdan-Daniel","Mamedyarov,S",1/2-1/2,2770,E04,2627
+47,Superbet Classic 2021,Bucharest ROU,2021.06.08,4.4,"Mamedyarov,S","Radjabov,T",1/2-1/2,2765,E60,2770
+48,Superbet Classic 2021,Bucharest ROU,2021.06.09,5.3,"Lupulescu,C","Mamedyarov,S",0-1,2770,A06,2656
+49,Superbet Classic 2021,Bucharest ROU,2021.06.11,6.1,"Mamedyarov,S","Aronian,L",1-0,2781,D38,2770
+50,Superbet Classic 2021,Bucharest ROU,2021.06.12,7.1,"Caruana,F","Mamedyarov,S",0-1,2770,C65,2820
+51,Superbet Classic 2021,Bucharest ROU,2021.06.14,9.1,"Vachier Lagrave,M","Mamedyarov,S",1/2-1/2,2770,C47,2760
+52,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.07,1.2,"Mamedyarov,S","Vachier Lagrave,M",1-0,2749,A48,2782
+53,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.07,2.5,"Nepomniachtchi,I","Mamedyarov,S",1-0,2782,E72,2792
+54,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.07,3.1,"Mamedyarov,S","Korobov,A",1/2-1/2,2683,E32,2782
+55,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.08,4.5,"Mamedyarov,S","Anand,V",1/2-1/2,2753,D38,2782
+56,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.08,5.2,"Grischuk,A","Mamedyarov,S",1/2-1/2,2782,D79,2778
+57,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.08,6.4,"Mamedyarov,S","Duda,J",0-1,2738,D36,2782
+58,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.09,7.3,"Saric,Iv","Mamedyarov,S",1/2-1/2,2782,C80,2653
+59,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.09,8.3,"Mamedyarov,S","Giri,A",1/2-1/2,2776,D85,2782
+60,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.09,9.4,"Van Foreest,Jorden","Mamedyarov,S",0-1,2782,C82,2688
+61,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,1.2,"Vachier Lagrave,M","Mamedyarov,S",1-0,2782,E70,2749
+62,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,2.4,"Mamedyarov,S","Nepomniachtchi,I",1-0,2792,D38,2782
+63,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,3.3,"Van Foreest,Jorden","Mamedyarov,S",0-1,2782,C41,2688
+64,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,4.3,"Mamedyarov,S","Grischuk,A",0-1,2778,D37,2782
+65,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,5.4,"Duda,J","Mamedyarov,S",1-0,2782,D22,2738
+66,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,6.2,"Mamedyarov,S","Kasparov,G",1-0,2812,D20,2782
+67,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,7.5,"Korobov,A","Mamedyarov,S",1-0,2782,D20,2683
+68,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,8.1,"Anand,V","Mamedyarov,S",1/2-1/2,2782,C50,2753
+69,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,9.5,"Mamedyarov,S","Giri,A",1/2-1/2,2776,D85,2782
+70,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,10.2,"Mamedyarov,S","Vachier Lagrave,M",1/2-1/2,2749,D85,2782
+71,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,11.4,"Nepomniachtchi,I","Mamedyarov,S",0-1,2782,A15,2792
+72,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,12.3,"Mamedyarov,S","Van Foreest,Jorden",1-0,2688,D30,2782
+73,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,13.3,"Grischuk,A","Mamedyarov,S",0-1,2782,A13,2778
+74,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,14.4,"Mamedyarov,S","Duda,J",1-0,2738,D45,2782
+75,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,15.2,"Kasparov,G","Mamedyarov,S",0-1,2782,D61,2812
+76,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,16.5,"Mamedyarov,S","Korobov,A",0-1,2683,D45,2782
+77,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,17.1,"Mamedyarov,S","Anand,V",1/2-1/2,2753,D37,2782
+78,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,18.5,"Giri,A","Mamedyarov,S",1-0,2782,E10,2776
+79,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.15,2.1,"Mamedyarov,S","Mekhitarian,K",1/2-1/2,2554,D39,2782
+80,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.16,2.2,"Mekhitarian,K","Mamedyarov,S",1/2-1/2,2782,C78,2554
+81,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.17,2.3,"Mekhitarian,K","Mamedyarov,S",0-1,2782,C42,2554
+82,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.17,2.4,"Mamedyarov,S","Mekhitarian,K",1-0,2554,D37,2782
+83,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.18,3.1,"Martirosyan,Haik M.","Mamedyarov,S",1-0,2782,D79,2632
+84,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.19,3.2,"Mamedyarov,S","Martirosyan,Haik M.",1-0,2632,A28,2782
+85,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.20,3.4,"Martirosyan,Haik M.","Mamedyarov,S",1/2-1/2,2782,A50,2632
+86,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.20,3.3,"Mamedyarov,S","Martirosyan,Haik M.",0-1,2632,A22,2782
+87,Saint Louis Rapid 2021,Saint Louis USA,2021.08.11,1.5,"Mamedyarov,S","Nakamura,Hi",1/2-1/2,2736,E32,2782
+88,Saint Louis Rapid 2021,Saint Louis USA,2021.08.11,2.2,"Svidler,P","Mamedyarov,S",0-1,2782,C42,2714
+89,Saint Louis Rapid 2021,Saint Louis USA,2021.08.11,3.4,"Mamedyarov,S","Le, Quang Liem",0-1,2709,C26,2782
+90,Saint Louis Rapid 2021,Saint Louis USA,2021.08.12,4.3,"Xiong,Jeffery","Mamedyarov,S",1/2-1/2,2782,D90,2710
+91,Saint Louis Rapid 2021,Saint Louis USA,2021.08.12,5.3,"Mamedyarov,S","Shankland,S",0-1,2709,D45,2782
+92,Saint Louis Rapid 2021,Saint Louis USA,2021.08.12,6.2,"Dominguez Perez,L","Mamedyarov,S",0-1,2782,C42,2758
+93,Saint Louis Rapid 2021,Saint Louis USA,2021.08.13,7.1,"Mamedyarov,S","So,W",1/2-1/2,2772,D37,2782
+94,Saint Louis Rapid 2021,Saint Louis USA,2021.08.13,8.5,"Caruana,F","Mamedyarov,S",1-0,2782,C80,2806
+95,Saint Louis Rapid 2021,Saint Louis USA,2021.08.13,9.5,"Mamedyarov,S","Rapport,R",1/2-1/2,2763,E17,2782
+96,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,1.3,"Mamedyarov,S","Shankland,S",1-0,2709,D47,2782
+97,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,2.4,"So,W","Mamedyarov,S",1-0,2782,C53,2772
+98,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,3.1,"Mamedyarov,S","Svidler,P",1-0,2714,A48,2782
+99,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,4.5,"Dominguez Perez,L","Mamedyarov,S",1-0,2782,C42,2758
+100,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,5.5,"Mamedyarov,S","Caruana,F",1-0,2806,D38,2782
+101,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,6.5,"Mamedyarov,S","Le, Quang Liem",1/2-1/2,2709,E21,2782
+102,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,7.1,"Rapport,R","Mamedyarov,S",1/2-1/2,2782,A15,2763
+103,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,8.4,"Mamedyarov,S","Nakamura,Hi",1/2-1/2,2736,D37,2782
+104,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,9.2,"Xiong,Jeffery","Mamedyarov,S",1/2-1/2,2782,B40,2710
+105,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,10.3,"Shankland,S","Mamedyarov,S",1-0,2782,B33,2709
+106,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,11.1,"Mamedyarov,S","So,W",1-0,2772,D41,2782
+107,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,12.4,"Svidler,P","Mamedyarov,S",1-0,2782,B40,2714
+108,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,13.2,"Mamedyarov,S","Dominguez Perez,L",1-0,2758,A08,2782
+109,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,14.2,"Caruana,F","Mamedyarov,S",1/2-1/2,2782,B40,2806
+110,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,15.4,"Le, Quang Liem","Mamedyarov,S",1/2-1/2,2782,A46,2709
+111,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,16.3,"Mamedyarov,S","Rapport,R",0-1,2763,E61,2782
+112,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,17.3,"Nakamura,Hi","Mamedyarov,S",1-0,2782,B40,2736
+113,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,18.3,"Mamedyarov,S","Xiong,Jeffery",1-0,2710,A40,2782
+114,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.17,1.1,"So,W","Mamedyarov,S",1/2-1/2,2782,C50,2772
+115,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.18,2.5,"Svidler,P","Mamedyarov,S",1/2-1/2,2782,C53,2714
+116,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.19,3.2,"Mamedyarov,S","Rapport,R",1-0,2763,D49,2782
+117,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.20,4.4,"Shankland,S","Mamedyarov,S",1-0,2782,C65,2709
+118,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.21,5.3,"Mamedyarov,S","Dominguez Perez,L",1/2-1/2,2758,D27,2782
+119,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.23,6.5,"Swiercz,D","Mamedyarov,S",1/2-1/2,2782,C67,2655
+120,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.24,7.3,"Mamedyarov,S","Caruana,F",0-1,2806,E20,2782
+121,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.25,8.1,"Xiong,Jeffery","Mamedyarov,S",1/2-1/2,2782,D31,2710
+122,23rd European Teams,Terme Catez SLO,2021.11.12,1.2,"Mamedyarov,S","Vocaturo,D",1-0,2632,E49,2765
+123,23rd European Teams,Terme Catez SLO,2021.11.13,2.2,"Indjic,A","Mamedyarov,S",0-1,2765,D02,2612
+124,23rd European Teams,Terme Catez SLO,2021.11.14,3.2,"Mamedyarov,S","Nisipeanu,LD",1-0,2651,D37,2765
+125,23rd European Teams,Terme Catez SLO,2021.11.15,4.1,"Erdos,V","Mamedyarov,S",1/2-1/2,2765,C47,2615
+126,23rd European Teams,Terme Catez SLO,2021.11.16,5.1,"Mamedyarov,S","Grischuk,A",1/2-1/2,2773,A35,2765
+127,23rd European Teams,Terme Catez SLO,2021.11.18,6.2,"Mamedyarov,S","Sargissian,G",1/2-1/2,2664,E32,2765
+128,23rd European Teams,Terme Catez SLO,2021.11.19,7.2,"Giri,A","Mamedyarov,S",1/2-1/2,2765,C50,2774
+129,23rd European Teams,Terme Catez SLO,2021.11.21,9.1,"Firouzja,Alireza","Mamedyarov,S",1-0,2765,C50,2770
+130,7th Gashimov Mem Rapid,Baku AZE,2021.12.18,1.2,"Mamedyarov,S","Navara,D",1/2-1/2,2697,E12,2767
+131,7th Gashimov Mem Rapid,Baku AZE,2021.12.18,1.1,"Navara,D","Mamedyarov,S",0-1,2767,C81,2697
+132,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,2.2,"Asadli,Vugar","Mamedyarov,S",1-0,2767,C45,2579
+133,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,2.3,"Mamedyarov,S","Asadli,Vugar",1-0,2579,D36,2767
+134,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,2.1,"Mamedyarov,S","Asadli,Vugar",1-0,2579,D33,2767
+135,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,3.1,"Karjakin,Sergey","Mamedyarov,S",1-0,2767,C53,2743
+136,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,3.2,"Mamedyarov,S","Karjakin,Sergey",0-1,2743,C54,2767
+137,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,4.1,"Mamedyarov,S","Mamedov,Rau",1/2-1/2,2656,D79,2767
+138,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,4.3,"Mamedyarov,S","Mamedov,Rau",1-0,2656,D00,2767
+139,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,4.2,"Mamedov,Rau","Mamedyarov,S",1/2-1/2,2767,B01,2656
+140,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,5.1,"Anand,V","Mamedyarov,S",1/2-1/2,2767,C77,2751
+141,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,5.3,"Mamedyarov,S","Anand,V",0-1,2751,D38,2767
+142,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,5.2,"Mamedyarov,S","Anand,V",1/2-1/2,2751,A45,2767
+143,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,6.2,"Rapport,R","Mamedyarov,S",1/2-1/2,2767,C44,2763
+144,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,6.1,"Mamedyarov,S","Rapport,R",1-0,2763,E63,2767
+145,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,7.1,"Caruana,F","Mamedyarov,S",0-1,2767,A16,2792
+146,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,7.2,"Mamedyarov,S","Caruana,F",1/2-1/2,2792,E62,2767
+147,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,1.1,"Navara,D","Mamedyarov,S",1/2-1/2,2767,D85,2697
+148,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,2.3,"Mamedyarov,S","Asadli,Vugar",1-0,2579,D36,2767
+149,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,3.3,"Karjakin,Sergey","Mamedyarov,S",0-1,2767,C53,2743
+150,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,4.3,"Mamedyarov,S","Mamedov,Rau",1-0,2656,D34,2767
+151,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,5.3,"Anand,V","Mamedyarov,S",1/2-1/2,2767,C77,2751
+152,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,6.3,"Mamedyarov,S","Rapport,R",1-0,2763,E63,2767
+153,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,7.3,"Caruana,F","Mamedyarov,S",1-0,2767,A18,2792
+154,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,8.3,"Mamedyarov,S","Navara,D",0-1,2697,A45,2767
+155,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,9.2,"Asadli,Vugar","Mamedyarov,S",0-1,2767,B01,2579
+156,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,10.2,"Mamedyarov,S","Karjakin,Sergey",1-0,2743,E35,2767
+157,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,11.2,"Mamedov,Rau","Mamedyarov,S",1/2-1/2,2767,A00,2656
+158,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,12.2,"Mamedyarov,S","Anand,V",1/2-1/2,2751,E35,2767
+159,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,14.2,"Mamedyarov,S","Caruana,F",0-1,2792,D32,2767
+160,World Rapid 2021,Warsaw POL,2021.12.26,1.15,"Mamedyarov,S","Czarnota,P",1-0,2502,E68,2767
+161,World Rapid 2021,Warsaw POL,2021.12.26,2.9,"Najer,E","Mamedyarov,S",1/2-1/2,2767,C83,2661
+162,World Rapid 2021,Warsaw POL,2021.12.26,3.17,"Mamedyarov,S","Ter Sahakyan,S",1-0,2637,A45,2767
+163,World Rapid 2021,Warsaw POL,2021.12.26,4.8,"Gelfand,B","Mamedyarov,S",1-0,2767,D85,2663
+164,World Rapid 2021,Warsaw POL,2021.12.26,5.18,"Mamedyarov,S","Indjic,A",1-0,2623,A45,2767
+165,World Rapid 2021,Warsaw POL,2021.12.27,6.14,"Hovhannisyan,R","Mamedyarov,S",1-0,2767,C47,2643
+166,World Rapid 2021,Warsaw POL,2021.12.27,7.20,"Mamedyarov,S","Harsha,B",1-0,2489,E35,2767
+167,World Rapid 2021,Warsaw POL,2021.12.27,8.14,"Chigaev,M","Mamedyarov,S",1-0,2767,A15,2632
+168,World Rapid 2021,Warsaw POL,2021.12.27,9.26,"Mamedyarov,S","Piorun,K",1-0,2640,E36,2767
+169,World Rapid 2021,Warsaw POL,2021.12.28,10.20,"Bluebaum,M","Mamedyarov,S",0-1,2767,D80,2642
+170,World Rapid 2021,Warsaw POL,2021.12.28,11.12,"Mamedyarov,S","Van Foreest,Jorden",1/2-1/2,2702,D32,2767
+171,World Rapid 2021,Warsaw POL,2021.12.28,12.8,"Mamedyarov,S","Cheparinov,I",1-0,2664,A45,2767
+172,World Rapid 2021,Warsaw POL,2021.12.28,13.10,"Onischuk,V","Mamedyarov,S",0-1,2767,C80,2620
+173,World Blitz 2021,Warsaw POL,2021.12.29,1.12,"Mamedyarov,S","Sargsyan,Shant",1-0,2628,D37,2767
+174,World Blitz 2021,Warsaw POL,2021.12.29,2.5,"Oparin,G","Mamedyarov,S",1/2-1/2,2767,A07,2681
+175,World Blitz 2021,Warsaw POL,2021.12.29,3.19,"Mamedyarov,S","Vastrukhin,O",1-0,2376,A40,2767
+176,World Blitz 2021,Warsaw POL,2021.12.29,4.10,"Santos Latasa,J","Mamedyarov,S",0-1,2767,D78,2639
+177,World Blitz 2021,Warsaw POL,2021.12.29,5.3,"Mamedyarov,S","Vidit,S",1-0,2727,D41,2767
+178,World Blitz 2021,Warsaw POL,2021.12.29,6.2,"Mamedyarov,S","Socko,B",1-0,2642,A40,2767
+179,World Blitz 2021,Warsaw POL,2021.12.29,7.2,"Fedoseev,Vl3","Mamedyarov,S",1/2-1/2,2767,C48,2704
+180,World Blitz 2021,Warsaw POL,2021.12.29,8.3,"Sindarov,Javokhir","Mamedyarov,S",1-0,2767,C51,2609
+181,World Blitz 2021,Warsaw POL,2021.12.29,9.1,"Mamedyarov,S","Carlsen,M",1-0,2856,A45,2767
+182,World Blitz 2021,Warsaw POL,2021.12.29,10.4,"Dubov,Daniil","Mamedyarov,S",1-0,2767,D02,2720
+183,World Blitz 2021,Warsaw POL,2021.12.29,11.10,"Mamedyarov,S","Ivic,Velimir",1/2-1/2,2606,D35,2767
+184,World Blitz 2021,Warsaw POL,2021.12.29,12.9,"Martirosyan,Haik M.","Mamedyarov,S",1-0,2767,D30,2621
+185,World Blitz 2021,Warsaw POL,2021.12.30,13.12,"Mamedyarov,S","Predke,A",1-0,2682,C54,2767
+186,World Blitz 2021,Warsaw POL,2021.12.30,14.8,"Karjakin,Sergey","Mamedyarov,S",0-1,2767,C47,2743
+187,World Blitz 2021,Warsaw POL,2021.12.30,15.7,"Mamedyarov,S","Kravtsiv,M",0-1,2604,D31,2767
+188,World Blitz 2021,Warsaw POL,2021.12.30,16.9,"Muradli,Mahammad","Mamedyarov,S",1/2-1/2,2767,D31,2503
+189,World Blitz 2021,Warsaw POL,2021.12.30,17.11,"Mamedyarov,S","Piorun,K",1-0,2640,A45,2767
+190,World Blitz 2021,Warsaw POL,2021.12.30,18.9,"Petrosian,TL","Mamedyarov,S",1/2-1/2,2767,A05,2573
+191,World Blitz 2021,Warsaw POL,2021.12.30,19.9,"Mamedyarov,S","Svane,R",1-0,2637,A45,2767
+192,World Blitz 2021,Warsaw POL,2021.12.30,20.6,"Giri,A","Mamedyarov,S",1/2-1/2,2767,D02,2772
+193,World Blitz 2021,Warsaw POL,2021.12.30,21.6,"Mamedyarov,S","Alekseenko,K",1-0,2702,D20,2767
+194,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.15,1.4,"Dubov,Daniil","Mamedyarov,S",1/2-1/2,2767,D43,2720
+195,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.16,2.5,"Mamedyarov,S","Esipenko,Andrey",1/2-1/2,2714,E00,2767
+196,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.17,3.5,"Giri,A","Mamedyarov,S",1/2-1/2,2767,D11,2772
+197,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.18,4.3,"Mamedyarov,S","Duda,J",1-0,2760,D41,2767
+198,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.20,5.4,"Van Foreest,Jorden","Mamedyarov,S",0-1,2767,C80,2702
+199,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.21,6.3,"Mamedyarov,S","Grandelius,N",1/2-1/2,2672,A35,2767
+200,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.22,7.2,"Rapport,R","Mamedyarov,S",1/2-1/2,2767,B40,2763
+201,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.23,8.2,"Mamedyarov,S","Praggnanandhaa,R",1-0,2612,A20,2767
+202,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.25,9.1,"Carlsen,M","Mamedyarov,S",1-0,2767,E04,2865
+203,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.26,10.3,"Shankland,S","Mamedyarov,S",1/2-1/2,2767,E04,2708
+204,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.28,11.3,"Mamedyarov,S","Karjakin,Sergey",1/2-1/2,2743,C53,2767
+205,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.29,12.3,"Vidit,S","Mamedyarov,S",0-1,2767,C53,2727
+206,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.30,13.2,"Mamedyarov,S","Caruana,F",1/2-1/2,2792,D37,2767
+207,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.01,1.1,Yu Yangyi,"Mamedyarov,S",1/2-1/2,2767,C45,2713
+208,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.02,2.1,"Vachier Lagrave,M","Mamedyarov,S",1/2-1/2,2767,C83,2761
+209,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.03,3.1,"Mamedyarov,S","Predke,A",1/2-1/2,2682,D38,2767
+210,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.04,4.1,"Mamedyarov,S",Yu Yangyi,1/2-1/2,2713,D38,2767
+211,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.06,5.1,"Predke,A","Mamedyarov,S",1/2-1/2,2767,C50,2682
+212,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.07,6.1,"Mamedyarov,S","Vachier Lagrave,M",1/2-1/2,2761,D35,2767
+213,FIDE Grand Prix 3 Pool B,Berlin GER,2022.03.22,1.1,"Keymer,Vincent","Mamedyarov,S",1/2-1/2,2776,A15,2655
+214,FIDE Grand Prix 3 Pool B,Berlin GER,2022.03.23,2.1,"Dubov,Daniil","Mamedyarov,S",1/2-1/2,2776,C50,2711
+215,FIDE Grand Prix 3 Pool B,Berlin GER,2022.03.24,3.1,"Mamedyarov,S","Dominguez Perez,L",1/2-1/2,2756,D38,2776
+216,FIDE Grand Prix 3 Pool B,Berlin GER,2022.03.25,4.1,"Mamedyarov,S","Keymer,Vincent",1-0,2655,A29,2776
+217,FIDE Grand Prix 3 Pool B,Berlin GER,2022.03.27,5.1,"Dominguez Perez,L","Mamedyarov,S",1/2-1/2,2776,C80,2756
+218,FIDE Grand Prix 3 Pool B,Berlin GER,2022.03.28,6.1,"Mamedyarov,S","Dubov,Daniil",1/2-1/2,2711,E60,2776
+219,FIDE GP 3 Pool B TB,Berlin GER,2022.03.29,1,"Mamedyarov,S","Keymer,Vincent",1-0,2655,E00,2776
+220,FIDE GP 3 Pool B TB,Berlin GER,2022.03.29,2,"Keymer,Vincent","Mamedyarov,S",1-0,2776,D44,2655
+221,FIDE GP 3 Pool B TB,Berlin GER,2022.03.29,3,"Keymer,Vincent","Mamedyarov,S",0-1,2776,D45,2655
+222,FIDE GP 3 Pool B TB,Berlin GER,2022.03.29,4,"Mamedyarov,S","Keymer,Vincent",1-0,2655,E01,2776
+223,FIDE Grand Prix 3 Playoff,Berlin GER,2022.04.01,1.4,"Mamedyarov,S","Nakamura,Hi",0-1,2750,A15,2776
+224,FIDE Grand Prix 3 Playoff,Berlin GER,2022.04.01,1.1,"Nakamura,Hi","Mamedyarov,S",1/2-1/2,2776,C42,2750
+225,FIDE Grand Prix 3 Playoff,Berlin GER,2022.04.01,1.3,"Nakamura,Hi","Mamedyarov,S",1-0,2776,A05,2750
+226,FIDE Grand Prix 3 Playoff,Berlin GER,2022.04.01,1.2,"Mamedyarov,S","Nakamura,Hi",1/2-1/2,2750,D37,2776
+227,Bundesliga 2021-22,Munich GER,2022.04.09,3.8,"Mamedyarov,S","Santos Latasa,J",1-0,2648,D38,2776
+228,Bundesliga 2021-22,Munich GER,2022.04.10,4.8,"Maghsoodloo,Parham","Mamedyarov,S",1/2-1/2,2776,C67,2701
+229,Oslo Esports Cup 2022,Oslo NOR,2022.04.22,1.2,"Le, Quang Liem","Mamedyarov,S",0-1,2771,D38,2709
+230,Oslo Esports Cup 2022,Oslo NOR,2022.04.22,1.3,"Mamedyarov,S","Le, Quang Liem",1/2-1/2,2709,D37,2771
+231,Oslo Esports Cup 2022,Oslo NOR,2022.04.22,1.4,"Le, Quang Liem","Mamedyarov,S",1/2-1/2,2771,D38,2709
+232,Oslo Esports Cup 2022,Oslo NOR,2022.04.22,1.1,"Mamedyarov,S","Le, Quang Liem",1/2-1/2,2709,D37,2771
+233,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.2,"Mamedyarov,S","Praggnanandhaa,R",1/2-1/2,2624,D41,2771
+234,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.1,"Praggnanandhaa,R","Mamedyarov,S",1-0,2771,D11,2624
+235,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.3,"Praggnanandhaa,R","Mamedyarov,S",1-0,2771,D11,2624
+236,Oslo Esports Cup 2022,Oslo NOR,2022.04.24,3.3,"Mamedyarov,S","Hansen,Eric",1/2-1/2,2606,E60,2771
+237,Oslo Esports Cup 2022,Oslo NOR,2022.04.24,3.4,"Hansen,Eric","Mamedyarov,S",1-0,2771,C42,2606
+238,Oslo Esports Cup 2022,Oslo NOR,2022.04.24,3.1,"Mamedyarov,S","Hansen,Eric",0-1,2606,E60,2771
+239,Oslo Esports Cup 2022,Oslo NOR,2022.04.24,3.2,"Hansen,Eric","Mamedyarov,S",0-1,2771,C60,2606
+240,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.2,"Mamedyarov,S","Duda,J",1/2-1/2,2750,E60,2771
+241,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.3,"Duda,J","Mamedyarov,S",0-1,2771,D38,2750
+242,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.4,"Mamedyarov,S","Duda,J",1/2-1/2,2750,D94,2771
+243,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.5,"Mamedyarov,S","Duda,J",0-1,2750,E60,2771
+244,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.6,"Duda,J","Mamedyarov,S",1-0,2771,D45,2750
+245,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.1,"Duda,J","Mamedyarov,S",1-0,2771,D38,2750
+246,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.1,"Mamedyarov,S","Giri,A",0-1,2773,A48,2771
+247,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.4,"Giri,A","Mamedyarov,S",1/2-1/2,2771,C42,2773
+248,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.3,"Mamedyarov,S","Giri,A",1-0,2773,E60,2771
+249,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.5,"Giri,A","Mamedyarov,S",1/2-1/2,2771,B40,2773
+250,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.2,"Giri,A","Mamedyarov,S",1/2-1/2,2771,B33,2773
+251,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.6,"Mamedyarov,S","Giri,A",1-0,2773,E60,2771
+252,Oslo Esports Cup 2022,Oslo NOR,2022.04.27,6.1,"Van Foreest,Jorden","Mamedyarov,S",1/2-1/2,2771,A21,2714
+253,Oslo Esports Cup 2022,Oslo NOR,2022.04.27,6.5,"Van Foreest,Jorden","Mamedyarov,S",1/2-1/2,2771,C53,2714
+254,Oslo Esports Cup 2022,Oslo NOR,2022.04.27,6.2,"Mamedyarov,S","Van Foreest,Jorden",0-1,2714,E61,2771
+255,Oslo Esports Cup 2022,Oslo NOR,2022.04.27,6.6,"Mamedyarov,S","Van Foreest,Jorden",1-0,2714,E61,2771
+256,Oslo Esports Cup 2022,Oslo NOR,2022.04.27,6.4,"Mamedyarov,S","Van Foreest,Jorden",1-0,2714,E60,2771
+257,Oslo Esports Cup 2022,Oslo NOR,2022.04.27,6.3,"Van Foreest,Jorden","Mamedyarov,S",1/2-1/2,2771,C47,2714
+258,Oslo Esports Cup 2022,Oslo NOR,2022.04.28,7.1,"Mamedyarov,S","Carlsen,M",1/2-1/2,2864,E60,2771
+259,Oslo Esports Cup 2022,Oslo NOR,2022.04.28,7.2,"Carlsen,M","Mamedyarov,S",0-1,2771,A21,2864
+260,Oslo Esports Cup 2022,Oslo NOR,2022.04.28,7.3,"Mamedyarov,S","Carlsen,M",1-0,2864,E61,2771
+261,Bundesliga 2021-22,Solingen GER,2022.04.30,5.4,"Nihal,Sarin","Mamedyarov,S",1-0,2776,C53,2652
+262,Bundesliga 2021-22,Solingen GER,2022.05.01,6.3,"Mamedyarov,S","Khenkin,I",1/2-1/2,2509,A20,2776
+263,Superbet Classic 2022,Bucharest ROU,2022.05.05,1.4,"So,W","Mamedyarov,S",1-0,2759,E48,2776
+264,Superbet Classic 2022,Bucharest ROU,2022.05.06,2.4,"Mamedyarov,S","Rapport,R",1/2-1/2,2776,C10,2759
+265,Superbet Classic 2022,Bucharest ROU,2022.05.07,3.5,"Vachier Lagrave,M","Mamedyarov,S",1/2-1/2,2759,B10,2750
+266,Superbet Classic 2022,Bucharest ROU,2022.05.08,4.2,"Mamedyarov,S","Deac,Bogdan-Daniel",1/2-1/2,2671,D37,2759
+267,Superbet Classic 2022,Bucharest ROU,2022.05.09,5.4,"Caruana,F","Mamedyarov,S",1-0,2759,C42,2786
+268,Superbet Classic 2022,Bucharest ROU,2022.05.11,6.5,"Mamedyarov,S","Firouzja,Alireza",1/2-1/2,2804,E39,2759
+269,Superbet Classic 2022,Bucharest ROU,2022.05.12,7.4,"Nepomniachtchi,I","Mamedyarov,S",0-1,2759,C50,2773
+270,Superbet Classic 2022,Bucharest ROU,2022.05.13,8.5,"Mamedyarov,S","Dominguez Perez,L",0-1,2753,D27,2759
+271,Superbet Classic 2022,Bucharest ROU,2022.05.14,9.2,"Aronian,L","Mamedyarov,S",1/2-1/2,2759,C49,2765
+272,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,1.5,"Mamedyarov,S","Vachier Lagrave,M",1-0,2750,D27,2759
+273,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,2.2,"Tari,A","Mamedyarov,S",1-0,2759,C41,2654
+274,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,3.4,"Mamedyarov,S","So,W",1/2-1/2,2776,D27,2759
+275,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,4.3,"Topalov,V","Mamedyarov,S",0-1,2759,A20,2730
+276,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,5.3,"Mamedyarov,S","Radjabov,T",1/2-1/2,2753,D13,2759
+277,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,6.4,"Giri,A","Mamedyarov,S",1/2-1/2,2759,A15,2761
+278,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,7.2,"Mamedyarov,S",Wang Hao,1/2-1/2,2744,D37,2759
+279,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,8.5,"Anand,V","Mamedyarov,S",1/2-1/2,2759,C80,2751
+280,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,9.1,"Mamedyarov,S","Carlsen,M",1/2-1/2,2864,E60,2759
+281,10th Norway Armageddon,Stavanger NOR,2022.05.31,1.5,"Mamedyarov,S","Tari,A",1-0,2654,E39,2759
+282,10th Norway Chess 2022,Stavanger NOR,2022.05.31,1.5,"Mamedyarov,S","Tari,A",1/2-1/2,2654,E21,2759
+283,10th Norway Armageddon,Stavanger NOR,2022.06.01,2.2,"Vachier Lagrave,M","Mamedyarov,S",1-0,2759,C42,2750
+284,10th Norway Chess 2022,Stavanger NOR,2022.06.01,2.2,"Vachier Lagrave,M","Mamedyarov,S",1/2-1/2,2759,D41,2750
+285,10th Norway Armageddon,Stavanger NOR,2022.06.02,3.4,"Mamedyarov,S","Topalov,V",1-0,2730,E10,2759
+286,10th Norway Chess 2022,Stavanger NOR,2022.06.02,3.4,"Mamedyarov,S","Topalov,V",1/2-1/2,2730,D11,2759
+287,10th Norway Chess 2022,Stavanger NOR,2022.06.03,4.5,Wang Hao,"Mamedyarov,S",0-1,2759,C83,2744
+288,10th Norway Chess 2022,Stavanger NOR,2022.06.05,5.2,"Mamedyarov,S","So,W",1/2-1/2,2776,D41,2759
+289,10th Norway Armageddon,Stavanger NOR,2022.06.05,5.2,"Mamedyarov,S","So,W",1-0,2776,A06,2759
+290,10th Norway Chess 2022,Stavanger NOR,2022.06.06,6.1,"Carlsen,M","Mamedyarov,S",1-0,2759,D78,2864
+291,10th Norway Chess 2022,Stavanger NOR,2022.06.07,7.4,"Mamedyarov,S","Giri,A",1-0,2761,E94,2759
+292,10th Norway Chess 2022,Stavanger NOR,2022.06.09,8.4,"Anand,V","Mamedyarov,S",0-1,2759,C42,2751
+293,10th Norway Armageddon,Stavanger NOR,2022.06.10,9.2,"Mamedyarov,S","Radjabov,T",1/2-1/2,2753,A13,2759
+294,10th Norway Chess 2022,Stavanger NOR,2022.06.10,9.2,"Mamedyarov,S","Radjabov,T",1/2-1/2,2753,E10,2759
+295,Bundesliga 2021-22,Berlin GER,2022.07.08,12.4,"Tan,Ju2","Mamedyarov,S",0-1,2776,B22,2533
+296,Bundesliga 2021-22,Berlin GER,2022.07.09,13.3,"Ragger,M","Mamedyarov,S",1/2-1/2,2776,C80,2647
+297,Bundesliga 2021-22,Berlin GER,2022.07.09,14.6,"Mamedyarov,S","Caruana,F",1/2-1/2,2781,A20,2776
+298,Bundesliga 2021-22,Berlin GER,2022.07.10,15.6,"Bluebaum,M","Mamedyarov,S",1/2-1/2,2776,D45,2642
+299,SuperUnited Rapid 2022,Zagreb CRO,2022.07.20,1.5,"Mamedyarov,S","Van Foreest,Jorden",0-1,2678,D37,2759
+300,SuperUnited Rapid 2022,Zagreb CRO,2022.07.20,2.3,"Saric,Iv","Mamedyarov,S",1/2-1/2,2759,C83,2680
+301,SuperUnited Rapid 2022,Zagreb CRO,2022.07.20,3.3,"Mamedyarov,S","Nepomniachtchi,I",1-0,2766,D40,2759
+302,SuperUnited Rapid 2022,Zagreb CRO,2022.07.21,4.4,"Topalov,V","Mamedyarov,S",1/2-1/2,2759,D70,2728
+303,SuperUnited Rapid 2022,Zagreb CRO,2022.07.21,5.2,"Mamedyarov,S","Carlsen,M",1-0,2864,D94,2759
+304,SuperUnited Rapid 2022,Zagreb CRO,2022.07.21,6.5,"Firouzja,Alireza","Mamedyarov,S",1-0,2759,A20,2793
+305,SuperUnited Rapid 2022,Zagreb CRO,2022.07.22,7.1,"Mamedyarov,S","Vachier Lagrave,M",0-1,2760,A04,2759
+306,SuperUnited Rapid 2022,Zagreb CRO,2022.07.22,8.5,"Mamedyarov,S","Dominguez Perez,L",1/2-1/2,2754,D20,2759
+307,SuperUnited Rapid 2022,Zagreb CRO,2022.07.22,9.2,"So,W","Mamedyarov,S",1/2-1/2,2759,C50,2773
+308,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,1.3,"Mamedyarov,S","So,W",0-1,2773,D40,2759
+309,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,2.4,"Dominguez Perez,L","Mamedyarov,S",1-0,2759,C77,2754
+310,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,3.2,"Mamedyarov,S","Vachier Lagrave,M",1-0,2760,D94,2759
+311,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,4.5,"Nepomniachtchi,I","Mamedyarov,S",1/2-1/2,2759,C30,2766
+312,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,5.1,"Mamedyarov,S","Saric,Iv",1-0,2680,E61,2759
+313,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,6.5,"Mamedyarov,S","Firouzja,Alireza",1/2-1/2,2793,D37,2759
+314,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,7.2,"Carlsen,M","Mamedyarov,S",1-0,2759,D78,2864
+315,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,8.4,"Mamedyarov,S","Van Foreest,Jorden",1/2-1/2,2678,D94,2759
+316,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,9.3,"Topalov,V","Mamedyarov,S",1-0,2759,B40,2728
+317,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,10.3,"So,W","Mamedyarov,S",1-0,2759,C42,2773
+318,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,11.2,"Mamedyarov,S","Dominguez Perez,L",1/2-1/2,2754,A31,2759
+319,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,12.1,"Vachier Lagrave,M","Mamedyarov,S",1-0,2759,C77,2760
+320,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,13.2,"Mamedyarov,S","Nepomniachtchi,I",0-1,2766,D40,2759
+321,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,14.3,"Saric,Iv","Mamedyarov,S",0-1,2759,C77,2680
+322,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,15.3,"Firouzja,Alireza","Mamedyarov,S",1-0,2759,C42,2793
+323,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,16.3,"Mamedyarov,S","Carlsen,M",1/2-1/2,2864,D47,2759
+324,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,17.3,"Van Foreest,Jorden","Mamedyarov,S",1/2-1/2,2759,C53,2678
+325,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,18.3,"Mamedyarov,S","Topalov,V",1-0,2728,D35,2759
+326,44th Olympiad 2022,Chennai IND,2022.07.31,3.6,"Mamedyarov,S","Peralta,Fe",1-0,2591,A13,2759
+327,44th Olympiad 2022,Chennai IND,2022.08.01,4.5,"Yilmaz,M","Mamedyarov,S",1/2-1/2,2759,E11,2634
+328,44th Olympiad 2022,Chennai IND,2022.08.02,5.6,"Mamedyarov,S","Quesada Perez,Ya",1-0,2568,A20,2759
+329,44th Olympiad 2022,Chennai IND,2022.08.03,6.15,"Gazik,Viktor","Mamedyarov,S",0-1,2759,C45,2544
+330,44th Olympiad 2022,Chennai IND,2022.08.05,7.8,"Mamedyarov,S","Boruchovsky,A",1/2-1/2,2551,D32,2759
+331,44th Olympiad 2022,Chennai IND,2022.08.07,9.1,"Gukesh,D","Mamedyarov,S",1/2-1/2,2759,D20,2684
+332,44th Olympiad 2022,Chennai IND,2022.08.08,10.2,"Mamedyarov,S","Sargissian,G",0-1,2698,D37,2759
+333,44th Olympiad 2022,Chennai IND,2022.08.09,11.6,"Mamedyarov,S","Indjic,A",1-0,2620,A35,2759
