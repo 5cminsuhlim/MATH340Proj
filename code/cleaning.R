@@ -1,11 +1,5 @@
 ## MAKE SURE TO SETWD TO INSIDE CODE FOLDER
 
-## only over-the-board games
-## age
-## how long they've been playing chess
-## mean_cp_less = beta_0 + beta_1 * age + beta_2 * time + beta_3 * elo
-## std_cp_less = beta_0 + beta_1 * age + beta_2 * time + beta_3 * elo
-
 ## means
 carlsen_mean <- read.csv('../output/mean_cp_loss/carlsen.csv')
 erigaisi_mean <- read.csv('../output/mean_cp_loss/erigaisi.csv')
@@ -42,13 +36,6 @@ erigaisi_elo <- read.csv('../output/elo/erigaisi.csv')
 gukesh_elo <- read.csv('../output/elo/gukesh.csv')
 nepo_elo <- read.csv('../output/elo/nepo.csv')
 niemann_elo <- read.csv('../output/elo/niemann.csv')
-
-## keep only general Elo column
-carlsen_elo <- subset(carlsen_elo, select="Elo")
-erigaisi_elo <- subset(erigaisi_elo, select="Elo")
-gukesh_elo <- subset(gukesh_elo, select="Elo")
-nepo_elo <- subset(nepo_elo, select="Elo")
-niemann_elo <- subset(niemann_elo, select="Elo")
 
 ## remove empty rows
 erigaisi_elo <- subset(erigaisi_elo, Elo!=0)
