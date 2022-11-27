@@ -125,8 +125,10 @@ library(MASS)
 players.ord <- polr(WL ~ Elo + OppElo, data=players)
 summary(players.ord)
 
-## ordinal reg, go through every player, get white black elo, win loss for white
+## ordinal reg, go through every player, get white black elo, win loss for white ## ERIC
 
+
+## deeptha + alex
 ## ridge reg w/ cp_loss
 
 ## optimal model
