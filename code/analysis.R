@@ -14,6 +14,8 @@ niemann <- read.csv('../data/niemann.csv')
 
 
 ## EDA
+## normalize (for right skewed)
+## square/cube (for left skewed)
 par(mfrow=c(2,3))
 plot(carlsen$Mean_CP, carlsen$Std_CP)
 plot(nepo$Mean_CP, nepo$Std_CP)
@@ -126,6 +128,7 @@ library(MASS)
 players.ord <- polr(WL ~ Elo + OppElo, data=players)
 summary(players.ord)
 
+
 ## ordinal reg, go through every player, get white black elo, win loss for white ## ERIC
 players.ord2 <- polr(WhiteWL ~ Elo + OppElo, data=players)
 summary(players.ord2)
@@ -135,6 +138,3 @@ summary(players.ord2)
 
 ## optimal model
 library(leaps)
-p.leapsadj <- leaps(y=players$Std_CP, x=players[,c(1,2,3,5,6,7)], nbest=2, method='adjr2')
-p.leapsfulladj <- cbind(p.leapsadj$which, p.leapsadj$adjr2)
-p.leapsfulladj
