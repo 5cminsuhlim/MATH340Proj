@@ -118,23 +118,31 @@ players <- rbind(carlsen, erigaisi, gukesh, nepo, niemann)
 players$WL <- factor(players$WL)
 players$WhiteWL <- factor(players$WhiteWL)
 
+
 players.lm <- lm(players$Mean_CP ~ players$Age + players$Elo + players$OppElo + players$WL)
 summary(players.lm)
 
 players2.lm <- lm(players$Std_CP ~ players$Age + players$Elo + players$OppElo + players$WL)
 summary(players2.lm)
 
+
+## ordinal reg
 library(MASS)
-players.ord <- polr(WL ~ Elo + OppElo, data=players)
+library(RStata)
+library(modelsummary)
+
+players.ord <- polr(WL ~ Age + Elo + OppElo + Mean_CP + Std_CP, data=players)
 summary(players.ord)
+(ctable <- coef(summary(players.ord)))
+p <- pnorm(abs(ctable[, "t value"]), lower.tail = FALSE) * 2
+(ctable <- cbind(ctable, "p value" = p))
 
-
-## ordinal reg, go through every player, get white black elo, win loss for white ## ERIC
 players.ord2 <- polr(WhiteWL ~ Elo + OppElo, data=players)
 summary(players.ord2)
+(ctable <- coef(summary(players.ord2)))
+p <- pnorm(abs(ctable[, "t value"]), lower.tail = FALSE) * 2
+(ctable <- cbind(ctable, "p value" = p))
 
-## deeptha + alex
-## ridge reg w/ cp_loss
-
-## optimal model
-library(leaps)
+mod = list("POLR_WL" = players.ord,
+           "POLR_WhiteWL" = players.ord2)
+modelsummary(mod, stars = TRUE)
