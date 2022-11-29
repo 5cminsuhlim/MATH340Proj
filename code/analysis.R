@@ -6,9 +6,11 @@
 ## win vs. not win = beta_0 + beta_1 * blackelo + beta_2 * white_elo
 
 
+## ref: https://stackoverflow.com/questions/5758084/loop-in-r-to-read-many-files
 fi <- list.files('../data/',full.names=T)
 dat <- lapply(fi,read.csv)
 
+## ref: https://stackoverflow.com/questions/2851327/combine-a-list-of-data-frames-into-one-data-frame-by-row
 library(dplyr)
 players <- bind_rows(dat, .id = "column_label")
 
