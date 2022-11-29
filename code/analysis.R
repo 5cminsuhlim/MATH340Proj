@@ -4,13 +4,13 @@
 ## mean_cp_less = beta_0 + beta_1 * age + beta_2 * time + beta_3 * elo + beta_4 * oppelo
 ## std_cp_less = beta_0 + beta_1 * age + beta_2 * time + beta_3 * elo + beta_4 * oppelo
 ## win vs. not win = beta_0 + beta_1 * blackelo + beta_2 * white_elo
-## 
 
-carlsen <- read.csv('../data/carlsen.csv')
-erigaisi <- read.csv('../data/erigaisi.csv')
-gukesh <- read.csv('../data/gukesh.csv')
-nepo <- read.csv('../data/nepo.csv')
-niemann <- read.csv('../data/niemann.csv')
+
+fi <- list.files('../data/',full.names=T)
+dat <- lapply(fi,read.csv)
+
+library(dplyr)
+players <- bind_rows(dat, .id = "column_label")
 
 
 ## EDA
