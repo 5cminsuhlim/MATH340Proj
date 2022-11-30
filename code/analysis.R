@@ -4,16 +4,20 @@
 ## mean_cp_less = beta_0 + beta_1 * age + beta_2 * time + beta_3 * elo + beta_4 * oppelo
 ## std_cp_less = beta_0 + beta_1 * age + beta_2 * time + beta_3 * elo + beta_4 * oppelo
 ## win vs. not win = beta_0 + beta_1 * blackelo + beta_2 * white_elo
-## 
 
-carlsen <- read.csv('../data/carlsen.csv')
-erigaisi <- read.csv('../data/erigaisi.csv')
-gukesh <- read.csv('../data/gukesh.csv')
-nepo <- read.csv('../data/nepo.csv')
-niemann <- read.csv('../data/niemann.csv')
+
+## ref: https://stackoverflow.com/questions/5758084/loop-in-r-to-read-many-files
+fi <- list.files('../data/',full.names=T)
+dat <- lapply(fi,read.csv)
+
+## ref: https://stackoverflow.com/questions/2851327/combine-a-list-of-data-frames-into-one-data-frame-by-row
+library(dplyr)
+players <- bind_rows(dat, .id = "column_label")
 
 
 ## EDA
+## normalize (for right skewed)
+## square/cube (for left skewed)
 par(mfrow=c(2,3))
 plot(carlsen$Mean_CP, carlsen$Std_CP)
 plot(nepo$Mean_CP, nepo$Std_CP)
@@ -116,25 +120,31 @@ players <- rbind(carlsen, erigaisi, gukesh, nepo, niemann)
 players$WL <- factor(players$WL)
 players$WhiteWL <- factor(players$WhiteWL)
 
+
 players.lm <- lm(players$Mean_CP ~ players$Age + players$Elo + players$OppElo + players$WL)
 summary(players.lm)
 
 players2.lm <- lm(players$Std_CP ~ players$Age + players$Elo + players$OppElo + players$WL)
 summary(players2.lm)
 
-library(MASS)
-players.ord <- polr(WL ~ Elo + OppElo, data=players)
-summary(players.ord)
 
-## ordinal reg, go through every player, get white black elo, win loss for white ## ERIC
+## ordinal reg
+library(MASS)
+library(RStata)
+library(modelsummary)
+
+players.ord <- polr(WL ~ Age + Elo + OppElo + Mean_CP + Std_CP, data=players)
+summary(players.ord)
+(ctable <- coef(summary(players.ord)))
+p <- pnorm(abs(ctable[, "t value"]), lower.tail = FALSE) * 2
+(ctable <- cbind(ctable, "p value" = p))
+
 players.ord2 <- polr(WhiteWL ~ Elo + OppElo, data=players)
 summary(players.ord2)
+(ctable <- coef(summary(players.ord2)))
+p <- pnorm(abs(ctable[, "t value"]), lower.tail = FALSE) * 2
+(ctable <- cbind(ctable, "p value" = p))
 
-## deeptha + alex
-## ridge reg w/ cp_loss
-
-## optimal model
-library(leaps)
-p.leapsadj <- leaps(y=players$Std_CP, x=players[,c(1,2,3,5,6,7)], nbest=2, method='adjr2')
-p.leapsfulladj <- cbind(p.leapsadj$which, p.leapsadj$adjr2)
-p.leapsfulladj
+mod = list("POLR_WL" = players.ord,
+           "POLR_WhiteWL" = players.ord2)
+modelsummary(mod, stars = TRUE)
