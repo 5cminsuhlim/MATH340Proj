@@ -116,10 +116,8 @@ summary(niemann3.lm)
 plot(niemann3.lm)
 
 ## cumulative linear reg
-players <- rbind(carlsen, erigaisi, gukesh, nepo, niemann)
 players$WL <- factor(players$WL)
 players$WhiteWL <- factor(players$WhiteWL)
-
 
 players.lm <- lm(players$Mean_CP ~ players$Age + players$Elo + players$OppElo + players$WL)
 summary(players.lm)
@@ -132,9 +130,11 @@ summary(players2.lm)
 library(MASS)
 library(RStata)
 library(modelsummary)
+library(car)
 
 players.ord <- polr(WL ~ Age + Elo + OppElo + Mean_CP + Std_CP, data=players)
 summary(players.ord)
+vif(players.ord)
 (ctable <- coef(summary(players.ord)))
 p <- pnorm(abs(ctable[, "t value"]), lower.tail = FALSE) * 2
 (ctable <- cbind(ctable, "p value" = p))
