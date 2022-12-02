@@ -15,117 +15,138 @@ library(dplyr)
 players <- bind_rows(dat, .id = "column_label")
 
 
+## individually
+anand <- bind_rows(dat[2])
+andreikin <- bind_rows(dat[3])
+aronian <- bind_rows(dat[4])
+bu <- bind_rows(dat[5])
+carlsen <- bind_rows(dat[6])
+caruana <- bind_rows(dat[7])
+ding <- bind_rows(dat[8])
+dominguezPerez <- bind_rows(dat[9])
+duda <- bind_rows(dat[10])
+eljanov <- bind_rows(dat[11])
+erigaisi <- bind_rows(dat[12])
+firouzja <- bind_rows(dat[13])
+giri <- bind_rows(dat[14])
+gukesh <- bind_rows(dat[15])
+harikrishna <- bind_rows(dat[16])
+karjakin <- bind_rows(dat[17])
+le <- bind_rows(dat[18])
+mamedyarov <- bind_rows(dat[19])
+nakamura <- bind_rows(dat[20])
+nepo <- bind_rows(dat[21])
+niemann <- bind_rows(dat[22])
+rapport <- bind_rows(dat[23])
+so <- bind_rows(dat[24])
+tomashevsky <- bind_rows(dat[25])
+topalov <- bind_rows(dat[26])
+vachierLagrave <- bind_rows(dat[27])
+vallejoPons <- bind_rows(dat[28])
+vitiugov <- bind_rows(dat[29])
+wangH <- bind_rows(dat[30])
+wei <- bind_rows(dat[31])
+yu <- bind_rows(dat[32])
+
+
 ## EDA
-## normalize (for right skewed)
+## log (for right skewed)
 ## square/cube (for left skewed)
-par(mfrow=c(2,3))
-plot(carlsen$Mean_CP, carlsen$Std_CP)
-plot(nepo$Mean_CP, nepo$Std_CP)
-plot(gukesh$Mean_CP, gukesh$Std_CP)
-plot(erigaisi$Mean_CP, erigaisi$Std_CP)
-plot(niemann$Mean_CP, niemann$Std_CP)
-dev.off()
+library(stringr)
 
-par(mfrow=c(2,3))
-plot(carlsen$Elo, carlsen$Mean_CP)
-plot(nepo$Elo, nepo$Mean_CP)
-plot(gukesh$Elo, gukesh$Mean_CP)
-plot(erigaisi$Elo, erigaisi$Mean_CP)
-plot(niemann$Elo, niemann$Mean_CP)
-dev.off()
+names <- unique(players$Name)
 
-par(mfrow=c(2,3))
-boxplot(carlsen$Mean_CP)
-boxplot(nepo$Mean_CP)
-boxplot(gukesh$Mean_CP)
-boxplot(erigaisi$Mean_CP)
-boxplot(niemann$Mean_CP)
-dev.off()
-
-par(mfrow=c(2,3))
-boxplot(carlsen$Std_CP)
-boxplot(nepo$Std_CP)
-boxplot(gukesh$Std_CP)
-boxplot(erigaisi$Std_CP)
-boxplot(niemann$Std_CP)
-dev.off()
+# w/o normalization
+par(mfrow=c(2,1))
+for (name in names) {
+        hist(players[players$Name == name,]$Mean_CP, xlab="Mean CP", main=paste("Mean CP Histogram for", str_to_title(name)))
+        hist(players[players$Name == name,]$Std_CP, xlab="StD CP", main=paste("StD CP Histogram for", str_to_title(name)))
+}
 
 
+# w/ normalization
+players$Mean_CP <- log(players$Mean_CP)
+players$Std_CP <- log(players$Std_CP)
 
-## lin reg 1
-carlsen.lm <- lm(carlsen$Std_CP ~ carlsen$Age + carlsen$Elo + carlsen$OppElo + carlsen$WL)
-summary(carlsen.lm)
-plot(carlsen.lm)
+for (name in names) {
+        hist(players[players$Name == name,]$Mean_CP, xlab="log(Mean CP)", main=paste("Log Mean CP Histogram for", str_to_title(name)))
+        hist(players[players$Name == name,]$Std_CP, xlab="log(StD CP)", main=paste("Log StD CP Histogram for", str_to_title(name)))
+}
 
-erigaisi.lm <- lm(erigaisi$Std_CP ~ erigaisi$Age + erigaisi$Elo + erigaisi$OppElo + erigaisi$WL)
-summary(erigaisi.lm)
-plot(erigaisi.lm)
 
-gukesh.lm <- lm(gukesh$Std_CP ~ gukesh$Age + gukesh$Elo + gukesh$OppElo + gukesh$WL)
-summary(gukesh.lm)
-plot(gukesh.lm)
+## age
+## lin reg (mean_cp)
+par(mfrow=c(2,2))
+for (name in names) {
+        p.lm <- lm(Mean_CP ~ Age + Elo + OppElo, data=players[players$Name == name,])
+        print(str_to_title(name))
+        print(summary(p.lm))
+        plot(p.lm)
+}
 
-nepo.lm <- lm(nepo$Std_CP ~ nepo$Age + nepo$Elo + nepo$OppElo + nepo$WL)
-summary(nepo.lm)
-plot(nepo.lm)
+## lin reg (std_cp)
+for (name in names) {
+        p.lm <- lm(Std_CP ~ Age + Elo + OppElo, data=players[players$Name == name,])
+        print(str_to_title(name))
+        print(summary(p.lm))
+        plot(p.lm)
+}
 
-niemann.lm <- lm(niemann$Std_CP ~ niemann$Age + niemann$Elo + niemann$OppElo + niemann$WL)
-summary(niemann.lm)
-plot(niemann.lm)
+## time 
+## lin reg (mean_cp)
+for (name in names) {
+        p.lm <- lm(Mean_CP ~ Time + Elo + OppElo, data=players[players$Name == name,])
+        print(str_to_title(name))
+        print(summary(p.lm))
+        plot(p.lm)
+}
 
-## lin reg 2
-carlsen2.lm <- lm(carlsen$Elo ~ carlsen$Age + carlsen$OppElo + carlsen$Mean_CP)
-summary(carlsen2.lm)
-plot(carlsen2.lm)
+## lin reg (std_cp)
+for (name in names) {
+        p.lm <- lm(Std_CP ~ Time + Elo + OppElo, data=players[players$Name == name,])
+        print(str_to_title(name))
+        print(summary(p.lm))
+        plot(p.lm)
+}
 
-erigaisi2.lm <- lm(erigaisi$Elo ~ erigaisi$Age + erigaisi$OppElo + erigaisi$Mean_CP)
-summary(erigaisi2.lm)
-plot(erigaisi2.lm)
 
-gukesh2.lm <- lm(gukesh$Elo ~ gukesh$Age + gukesh$OppElo + gukesh$Mean_CP)
-summary(gukesh2.lm)
-plot(gukesh2.lm)
+## all players
 
-nepo2.lm <- lm(nepo$Elo ~ nepo$Age + nepo$OppElo + nepo$Mean_CP)
-summary(nepo2.lm)
-plot(nepo2.lm)
+## EDA
+par(mfrow=c(2,1))
+hist(players$Mean_CP)
+hist(players$Std_CP)
 
-niemann2.lm <- lm(niemann$Elo ~ niemann$Age + niemann$OppElo + niemann$Mean_CP)
-summary(niemann2.lm)
-plot(niemann2.lm)
+set.seed(123)
+rand_samp_mean <- sample(players$Mean_CP, 5000)
+shapiro.test(rand_samp_mean)
+rand_samp_std <- sample(players$Std_CP, 5000)
+shapiro.test(rand_samp_std)
 
-## lin reg 3
-carlsen3.lm <- lm(carlsen$Elo ~ carlsen$Age + carlsen$OppElo + carlsen$Std_CP)
-summary(carlsen3.lm)
-plot(carlsen3.lm)
+qqnorm(players$Mean_CP)
+qqline(players$Mean_CP, col = "red", lwd = 2)
 
-erigaisi3.lm <- lm(erigaisi$Elo ~ erigaisi$Age + erigaisi$OppElo + erigaisi$Std_CP)
-summary(erigaisi3.lm)
-plot(erigaisi3.lm)
+qqnorm(players$Std_CP)
+qqline(players$Std_CP, col = "red", lwd = 2)
 
-gukesh3.lm <- lm(gukesh$Elo ~ gukesh$Age + gukesh$OppElo + gukesh$Std_CP)
-summary(gukesh3.lm)
-plot(gukesh3.lm)
 
-nepo3.lm <- lm(nepo$Elo ~ nepo$Age + nepo$OppElo + nepo$Std_CP)
-summary(nepo3.lm)
-plot(nepo3.lm)
-
-niemann3.lm <- lm(niemann$Elo ~ niemann$Age + niemann$OppElo + niemann$Std_CP)
-summary(niemann3.lm)
-plot(niemann3.lm)
-
-## cumulative linear reg
-players <- rbind(carlsen, erigaisi, gukesh, nepo, niemann)
+## lin reg
 players$WL <- factor(players$WL)
 players$WhiteWL <- factor(players$WhiteWL)
 
-
+## age
 players.lm <- lm(players$Mean_CP ~ players$Age + players$Elo + players$OppElo + players$WL)
-summary(players.lm)
+summary(players.lm) ## intercept, elo, WL0, WL1
 
 players2.lm <- lm(players$Std_CP ~ players$Age + players$Elo + players$OppElo + players$WL)
-summary(players2.lm)
+summary(players2.lm) ## intercept, elo, WL0, WL1
+
+## time
+players3.lm <- lm(players$Mean_CP ~ players$Time + players$Elo + players$OppElo + players$WL)
+summary(players3.lm) ## intercept, time, elo, WL0, WL1
+
+players4.lm <- lm(players$Std_CP ~ players$Time + players$Elo + players$OppElo + players$WL)
+summary(players4.lm) ## intercept, time, WL0, WL1
 
 
 ## ordinal reg
@@ -133,18 +154,35 @@ library(MASS)
 library(RStata)
 library(modelsummary)
 
+## age
 players.ord <- polr(WL ~ Age + Elo + OppElo + Mean_CP + Std_CP, data=players)
 summary(players.ord)
 (ctable <- coef(summary(players.ord)))
 p <- pnorm(abs(ctable[, "t value"]), lower.tail = FALSE) * 2
-(ctable <- cbind(ctable, "p value" = p))
+(ctable <- cbind(ctable, "p value" = p)) ## age, elo, oppelo, mean_cp, std_cp
 
-players.ord2 <- polr(WhiteWL ~ Elo + OppElo, data=players)
+players.ord2 <- polr(WhiteWL ~ Age + Elo + OppElo + Mean_CP + Std_CP, data=players)
 summary(players.ord2)
 (ctable <- coef(summary(players.ord2)))
 p <- pnorm(abs(ctable[, "t value"]), lower.tail = FALSE) * 2
-(ctable <- cbind(ctable, "p value" = p))
+(ctable <- cbind(ctable, "p value" = p)) ## mean_cp, -1|0 intercept
 
-mod = list("POLR_WL" = players.ord,
-           "POLR_WhiteWL" = players.ord2)
+## time
+players.ord3 <- polr(WL ~ Age + Elo + OppElo + Mean_CP + Std_CP, data=players)
+summary(players.ord3)
+(ctable <- coef(summary(players.ord3)))
+p <- pnorm(abs(ctable[, "t value"]), lower.tail = FALSE) * 2
+(ctable <- cbind(ctable, "p value" = p)) ## age, elo, oppelo, mean_cp, std_cp
+
+players.ord4 <- polr(WhiteWL ~ Age + Elo + OppElo + Mean_CP + Std_CP, data=players)
+summary(players.ord4)
+(ctable <- coef(summary(players.ord4)))
+p <- pnorm(abs(ctable[, "t value"]), lower.tail = FALSE) * 2
+(ctable <- cbind(ctable, "p value" = p)) ## mean_cp, -1|0 intercept
+
+## model summary
+mod = list("POLR_WL_age" = players.ord,
+           "POLR_WhiteWL_age" = players.ord2,
+           "POLR_WL_time" = players.ord3,
+           "POLR_WhiteWL_time" = players.ord4)
 modelsummary(mod, stars = TRUE)
