@@ -130,26 +130,10 @@ qqnorm(players$Std_CP)
 qqline(players$Std_CP, col = "red", lwd = 2)
 
 
-<<<<<<< HEAD
 ## lin reg
 players$WL <- factor(players$WL)
 players$WhiteWL <- factor(players$WhiteWL)
 
-## age
-=======
-nepo3.lm <- lm(nepo$Elo ~ nepo$Age + nepo$OppElo + nepo$Std_CP)
-summary(nepo3.lm)
-plot(nepo3.lm)
-
-niemann3.lm <- lm(niemann$Elo ~ niemann$Age + niemann$OppElo + niemann$Std_CP)
-summary(niemann3.lm)
-plot(niemann3.lm)
-
-## cumulative linear reg
-players$WL <- factor(players$WL)
-players$WhiteWL <- factor(players$WhiteWL)
-
->>>>>>> 97f8be49bc918da325bd0a42cd8e619a23eb0bea
 players.lm <- lm(players$Mean_CP ~ players$Age + players$Elo + players$OppElo + players$WL)
 summary(players.lm) ## intercept, elo, WL0, WL1
 
