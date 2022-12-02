@@ -1,4 +1,5 @@
 library(ggplot2)
+library(QuantPsyc)
 
 #ANOVA & MANOVA
 
@@ -11,6 +12,15 @@ players.niemann <- players.2
 players.niemann$Name <- ifelse(players.niemann$Name=="niemann", "niemann","other") #dataset to compare niemann vs others
 
 ##Checking Assumptions
+
+library(car)
+library(mvnormtest)
+
+leveneTest(Mean_CP ~ Name, data = players.2)
+leveneTest(Std_CP ~ Name, data = players.2)
+
+players.sample <- players.2[sample(nrow(players.2), 4999), c(1:5)]
+mshapiro.test(t(players.sample))
 
 players.2$mahal <- mahalanobis(players.2[,-7], colMeans(players.2[,-7]), cov(players.2[,-7])) #checking for multivariate outliers
 players.2$mahal_p <- pchisq(players.2$mahal, df=5, lower.tail=FALSE) #a lot of outliers, so assumptions technically not met? 
@@ -38,9 +48,9 @@ summary(players.niemann.manova.twoway)
 
 ###setting up elo as a categorical variable
 
-players.niemann$elo.cat <- ifelse(players.niemann$Elo < 2500, "low",
-                                  ifelse(players.niemann$Elo >= 2500 & players.niemann$Elo < 2750, "med",
-                                        ifelse(players.niemann$Elo >= 2750, "high", "NA")))
+players.niemann$elo.cat <- ifelse(players.niemann$Elo < 2700, "low",
+                                  ifelse(players.niemann$Elo >= 2700 & players.niemann$Elo < 2775, "med",
+                                        ifelse(players.niemann$Elo >= 2775, "high", "NA")))
 
 
 players.niemann$elo.cat <- factor(players.niemann$elo.cat, levels = c("low","med","high"))
@@ -49,11 +59,11 @@ players.niemann$elo.cat <- factor(players.niemann$elo.cat, levels = c("low","med
 
 ###MANOVA with ACPL and SDCPL with multiple IVs, including categorical elo
 
-players.niemann.manova.twoway.elo <- manova(as.matrix(players.niemann[,2:3]) ~ players.niemann$Name * as.factor(players.niemann$elo.cat))
+players.niemann.manova.twoway.elo <- manova(as.matrix(players.niemann[,2:3]) ~ players.niemann$Name * as.factor(players.niemann$Elo))
 summary(players.niemann.manova.twoway.elo) # testing for interaction
 
-players.niemann.manova.twoway.elo <- manova(as.matrix(players.niemann[,2:3]) ~ players.niemann$Name + as.factor(players.niemann$elo.cat))
-summary(players.niemann.manova.twoway.elo) 
+players.niemann.manova.twoway.elo2 <- manova(as.matrix(players.niemann[,2:3]) ~ players.niemann$Name + as.factor(players.niemann$Elo))
+summary(players.niemann.manova.twoway.elo2) 
 
 summary.aov(players.niemann.manova.twoway.elo)
 
@@ -64,7 +74,7 @@ ggplot() + geom_point(data = players.niemann[players.niemann$Name=="other",], ae
   #scale_color_gradient(low = "white", high = "darkred") +
   theme_minimal()
 
-ggplot() + geom_boxplot(data = players.niemann, aes(x = Name, y = log(Std_CP), fill = elo.cat)) + theme_minimal()
+ggplot() + geom_boxplot(data = players.niemann, aes(x = Name, y = log(Mean_CP), fill = elo.cat)) + theme_minimal()
 
 #########################
 
@@ -84,7 +94,8 @@ playeryear <- summarize(group_by(players, Name, Time),
                         mean_acpl = mean(Mean_CP),
                         mean_sdcpl = mean(Std_CP),
                         win_ratio = mean(WL),
-                        Elo = mean(Elo))
+                        Elo = mean(Elo),
+                        OppElo = mean(OppElo))
 
 player.elo <- summarize(group_by(players, Name, elo.cat),
                         mean_acpl = mean(Mean_CP),
@@ -98,8 +109,11 @@ ggplot(data = playeryear[playeryear$Elo != 0,]) + geom_point(aes(x = Elo, y = me
 
 #player-year regression, mean avg centipawn loss ~ elo 
 
-acpl.lm <- lm(mean_acpl ~ Elo, data = playeryear)
+acpl.lm <- lm(mean_acpl ~ Elo + OppElo + win_ratio + Time, data = playeryear)
 summary(acpl.lm)
+
+ols_step_all_possible(acpl.lm) #getting optimal model
+ols_step_best_subset(acpl.lm) 
 
 #WIS?
 #plot(playeryear[playeryear$Elo != 0,]$Elo, abs(acpl.lm$resid))

@@ -208,3 +208,26 @@ summary(mplayers2absres.lm)
 ### WEIGHTED LEAST SQUARES
 mplayers2.wls <- lm(Mean_CP ~ Elo + OppElo + Std_CP, data=players,weights=1/((mplayers2absres.lm$fit)^2))
 summary(mplayers2.wls) # intercept, ELO, Opp ELO, Std_Cp are all significant with lower p-values, adjusted R-squared increased
+
+############################## influence measures optimal model for mean_cp
+
+library(base)
+
+influence.measures(mplayers2.wls)
+
+#getting residuals
+players.2$resid <- mplayers2.wls$residuals
+
+#looking for outlying hat values
+players.2$hats <- hatvalues(mplayers2.wls)
+hatthreshold.players <- 3*4/nrow(players)
+
+#looking for outlying cook's distances
+players.2$cook <- cooks.distance(mplayers2.wls)
+cookthreshold.players <- 4/nrow(players)
+
+#plotting
+ggplot() + geom_point(data = players.2, aes(x = Std_CP, y = Mean_CP), color = "gray", alpha = 0.5) +   
+  geom_text(data = players.2, aes(x = Std_CP, y = Mean_CP+0.2, label = ifelse(abs(resid) >= 25, "Resid", "")), size = 2, color = "blue") + 
+  geom_text(data = players.2, aes(x = Std_CP, y = Mean_CP-0.2, label = ifelse(abs(hats) >= hatthreshold.players, "Hat", "")), size = 2, color = "darkgreen") + 
+  theme_minimal()
