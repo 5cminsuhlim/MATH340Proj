@@ -1,9 +1,11 @@
+library(ggplot2)
+
 #ANOVA & MANOVA
 
 ##Data Processing
 
-players.2 <- filter(players, players$Elo != 0) #filtering out players with 0 elo
-players.2 <- players.2[,c(4:9, 11)]
+#players.2 <- filter(players, players$Elo != 0) #filtering out players with 0 elo
+players.2 <- players[,c(4:9, 11)]
 
 players.niemann <- players.2
 players.niemann$Name <- ifelse(players.niemann$Name=="niemann", "niemann","other") #dataset to compare niemann vs others
@@ -41,6 +43,10 @@ players.niemann$elo.cat <- ifelse(players.niemann$Elo < 2500, "low",
                                         ifelse(players.niemann$Elo >= 2750, "high", "NA")))
 
 
+players.niemann$elo.cat <- factor(players.niemann$elo.cat, levels = c("low","med","high"))
+
+
+
 ###MANOVA with ACPL and SDCPL with multiple IVs, including categorical elo
 
 players.niemann.manova.twoway.elo <- manova(as.matrix(players.niemann[,2:3]) ~ players.niemann$Name * as.factor(players.niemann$elo.cat))
@@ -58,11 +64,13 @@ ggplot() + geom_point(data = players.niemann[players.niemann$Name=="other",], ae
   #scale_color_gradient(low = "white", high = "darkred") +
   theme_minimal()
 
+ggplot() + geom_boxplot(data = players.niemann, aes(x = Name, y = log(Std_CP), fill = elo.cat)) + theme_minimal()
+
 #########################
 
 #Influence Measures
 
-players.lm <- lm(Std_CP ~ Elo + Time + WL, data = players.2)
+players.lm <- lm(log(Mean_CP) ~ Elo + Time + WL + Std_CP, data = players.2)
 summary(players.lm)
 
 influence.players.lm <- influence.measures(players.lm)
@@ -78,24 +86,43 @@ playeryear <- summarize(group_by(players, Name, Time),
                         win_ratio = mean(WL),
                         Elo = mean(Elo))
 
-########################
+player.elo <- summarize(group_by(players, Name, elo.cat),
+                        mean_acpl = mean(Mean_CP),
+                        mean_sdcpl = mean(Std_CP),
+                        win_ratio = mean(WL))
 
-library(ggplot2)
+#####################################
 
 ggplot(data = playeryear[playeryear$Elo != 0,]) + geom_point(aes(x = Elo, y = mean_sdcpl, color = mean_acpl)) +
-  theme_minimal() + scale_color_gradient(low = "lightblue", high = "darkred")
+  theme_minimal() + scale_color_gradient(low = "lightblue", high = "darkblue")
 
-#sd weighted least squares
+#player-year regression, mean avg centipawn loss ~ elo 
 
-sd.lm <- lm(mean_sdcpl ~ Elo + win_ratio, data = playeryear[playeryear$Elo != 0,])
-summary(sd.lm)
+acpl.lm <- lm(mean_acpl ~ Elo, data = playeryear)
+summary(acpl.lm)
 
-plot(playeryear[playeryear$Elo != 0,]$win_ratio, abs(sd.lm$resid))
+#WIS?
+#plot(playeryear[playeryear$Elo != 0,]$Elo, abs(acpl.lm$resid))
 
+#looking for influential points with influence measures: 4, 10, 11, 12, 30, 31, 42, 43, 44, 64 (niemann), 65 (niemann), 97
+influence.measures(acpl.lm) 
 
+#looking for influential points with residual plot
+playeryear$fitted <- acpl.lm$fitted.values
+playeryear$resid <- acpl.lm$residuals
 
+#looking for outlying hat values
+playeryear$hats <- hatvalues(acpl.lm)
+hatthreshold <- 3*2/nrow(playeryear)
 
-
+#plotting influential points
+ggplot() + geom_point(data = playeryear, aes(x = fitted, y = resid), color = "gray", alpha = 0.5) +   
+  geom_text(data = playeryear, aes(x = fitted, y = resid+0.2, label = ifelse(abs(playeryear$resid) >= 10, paste(playeryear$Name, playeryear$Time, sep = " "), "")), size = 3, color = "blue") + 
+  geom_text(data = playeryear, aes(x = fitted, y = resid-0.2, label = ifelse(abs(playeryear$hats) >= hatthreshold, paste(playeryear$Name, playeryear$Time, sep = " "), "")), size = 3, color = "darkgreen") + 
+  theme_minimal()
+ 
+#cook's distance
+plot(acpl.lm, which = 4)
 
 
 #####################################
