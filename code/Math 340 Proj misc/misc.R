@@ -69,8 +69,8 @@ summary.aov(players.niemann.manova.twoway.elo)
 
 ###Some accompanying visualization
 
-ggplot() + geom_point(data = players.niemann[players.niemann$Name=="other",], aes(x = Mean_CP, y = Std_CP), color = "gray", alpha = 0.2) +
-  geom_point(data = players.niemann[players.niemann$Name=="niemann",], aes(x = Mean_CP, y = Std_CP, color = elo.cat)) + 
+ggplot() + geom_point(data = players, aes(x = Elo, y = Std_CP, color = Time), alpha = 0.2) +
+  #geom_point(data = players.niemann[players.niemann$Name=="niemann",], aes(x = Elo, y = Std_CP, color = elo.cat)) + 
   #scale_color_gradient(low = "white", high = "darkred") +
   theme_minimal()
 
